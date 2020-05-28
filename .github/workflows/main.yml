@@ -23,6 +23,8 @@ jobs:
     # Runs a single command using the runners shell
     - name: Build HTML
       run: |
+        git config --global user.email "hi@notrollsallowed.com"
+        git config --global user.name "Mr. Robot"
         echo "Building HTML"
         make
         echo "Commiting generated HTML"
