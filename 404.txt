@@ -1,4 +1,3 @@
-<pre>
                              _  _    ___  _  _
                             | || |  / _ \| || |
                             | || |_| | | | || |_
@@ -18,14 +17,14 @@
 
 There will be one stage. Common stage. Named "Common sense stage". If you want
 to participate - you must contribute. Modify 404.txt file [1] and open a pull
-request. Ądd topic title as PR title, short description in the PR description
+request. Add topic title as PR title, short description in the PR description
 field and wait. If we will decide your topic meets the spirit of 404 it will be
 approved. We are interested into hacking, making, building, coding, brewing,
 hobbing, art, workshops. We are not interested into trip stories, life
 journeys, startups, commercial sh*t, "intro into some framework" type of topics.
 
 
-  <a href="https://github.com/ntacamp/404.notrollsallowed.com/pull/1">PR1</a>  Intro: Camp Not Found .. ........................................ <a href="https://github.com/pawka">@pawka</a>
+  PR1  Intro: Camp Not Found .. ........................................ @pawka
 
 
 --[ DONATIONS ]
@@ -37,7 +36,6 @@ journeys, startups, commercial sh*t, "intro into some framework" type of topics.
                                    ( o.o )
                                     > ^ <
 
-  [1] <a href="https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt">https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt</a>
+  [1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
 
 # vim: formatoptions+=a spell
-</pre>
