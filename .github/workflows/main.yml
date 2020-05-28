@@ -27,6 +27,6 @@ jobs:
         make
         echo "Commiting generated HTML"
         git add .
-        git ci -m "Updating HTML"
+        git commit -m "Updating HTML"
         echo "Pushing changes"
         git push
