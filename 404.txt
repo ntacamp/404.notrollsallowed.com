@@ -30,6 +30,20 @@ into some framework" type of topics.
 
 --[ DONATIONS ]
 
+  * target   : 3500€
+  * donated  : 1000€
+  * status   : -2500€
+
+The event is free. Free of sponsors too. But we still spend fiat for
+infrastructure and cookies. A rough estimate of event cost is 3500€. If you want
+to support this initiative - we accept donations. Donations are accepted before,
+during or even after the event. Though we prefer before. If bigger than targeted
+amount will be collected before the event - we'll build better infrastructure.
+Bank account for transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose
+field: "Parama: 404". Every donor is listed at the hall of fame below. For
+transparency and fame. Thank you!
+
+
   VšĮ "Programuotojai" ............................................... 1000 EUR
 
 
@@ -39,4 +53,4 @@ into some framework" type of topics.
 
   [1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
 
-# vim: formatoptions+=a spell
+# vim: formatoptions+=aw spell
