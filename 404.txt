@@ -28,6 +28,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR1  Intro: Camp Not Found ........................................... @pawka
   PR3  How Come The Bank is 404 ...................................... @jbutkus
   PR5  Ham Radio: Fun with geostationary satellites .................. @kareiva
+  PR6  Komunikacija su ID kortele nuo nulio: RFID ir el. parašas........ @monai
 
 --[ DONATIONS ]
 
