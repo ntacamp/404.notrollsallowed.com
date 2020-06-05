@@ -32,6 +32,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR6  Komunikacija su ID kortele nuo nulio: RFID ir el. parašas........ @monai
   PR7  Sėkmės ir nesėkmės, kuriant išmanius namus............. @ViliusKraujutis
 
+
 --[ DONATIONS ]
 
   * target   : 3500€
