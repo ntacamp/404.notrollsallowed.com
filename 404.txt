@@ -30,6 +30,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR4  csh: When That Request Finally Times Out ....................@pdaukintis
   PR5  Ham Radio: Fun with geostationary satellites .................. @kareiva
   PR6  Komunikacija su ID kortele nuo nulio: RFID ir el. parašas........ @monai
+  PR7  Sėkmės ir nesėkmės, kuriant išmanius namus............. @ViliusKraujutis
 
 --[ DONATIONS ]
 
