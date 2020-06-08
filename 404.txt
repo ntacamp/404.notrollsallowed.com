@@ -60,4 +60,4 @@ and fame. Thank you!
 
   [1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
 
-# vim: formatoptions+=aw spell
+# vim: formatoptions+=aw spell tw=80
