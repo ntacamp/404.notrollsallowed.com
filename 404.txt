@@ -31,7 +31,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR5  Ham Radio: Fun with geostationary satellites .................. @kareiva
   PR6  Komunikacija su ID kortele nuo nulio: RFID ir el. parašas........ @monai
   PR7  Sėkmės ir nesėkmės, kuriant išmanius namus............. @ViliusKraujutis
-  PR8  Algorithmic art and laser cutter .............................. @giena32
+  PR8  Algorithmic art and laser cutter ......................... @aistisraudys
   PR9  Burgers for (possibly) everyone...............................@dvisockas
   PR10 Ham Radio: Sportinė radijopelengacija (ARDF) .................... LY5FOX
 
