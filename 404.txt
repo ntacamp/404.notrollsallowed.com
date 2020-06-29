@@ -4,7 +4,7 @@
                             |__   _| | | |__   _|
                                | | | |_| |  | |
                                |_|  \___/   |_|
-                               Camp Not Found
+                                Camp Not Found
 
 
 --[ DETAILS ]
