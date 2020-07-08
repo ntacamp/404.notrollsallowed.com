@@ -44,8 +44,8 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
 --[ DONATIONS ]
 
   * target   : 3500€
-  * donated  : 2300€
-  * status   : -1200€
+  * donated  : 2500€
+  * status   : -1000€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 3500€. If you want
