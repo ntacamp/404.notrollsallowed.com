@@ -25,23 +25,21 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
 "intro into some framework" type of topics.
 
 
-  PR1  Intro: Camp Not Found ........................................... @pawka
-  PR3  How Come The Bank is 404 ...................................... @jbutkus
-  PR4  csh: When That Request Finally Times Out ....................@pdaukintis
-  PR5  Ham Radio: Fun with geostationary satellites .................. @kareiva
-  PR6  Komunikacija su ID kortele nuo nulio: RFID ir el. parašas........ @monai
-  PR7  Sėkmės ir nesėkmės, kuriant išmanius namus............. @ViliusKraujutis
-  PR8  Algorithmic art and laser cutter ......................... @aistisraudys
-  PR9  Burgers for (possibly) everyone...............................@dvisockas
-  PR10 Ham Radio: Sportinė radijopelengacija (ARDF) .................... LY5FOX
-  PR13 Laptop Casting: reusing all the laptop parts .................. @CRImier
-  PR14 "Skandinaviško" stiliaus baldai garaže, pigiai...............Ričardas.Le
-  PR15 Safe and practical intro to Rope Bondage..........................@cirka
-  PR17 Experience with payment systems (SEPA, UK, Asia, SWIFT)..........@maskas
-  PR22 Homemade FPV for a RC plane. Progress report [[not ]found]......@singler
-  PR23 Pasidaryk pats dainuojančią revoliuciją: sapnai apie nacionalinę........
-  .....tapatybę Baltarusijoje.............................................aiste
-
+  PR1  Intro: Camp Not Found ............................................ @pawka
+  PR3  How Come The Bank is 404 ....................................... @jbutkus
+  PR4  csh: When That Request Finally Times Out .................... @pdaukintis
+  PR5  Ham Radio: Fun with geostationary satellites ................... @kareiva
+  PR6  Komunikacija su ID kortele nuo nulio: RFID ir el. parašas ........ @monai
+  PR7  Sėkmės ir nesėkmės, kuriant išmanius namus ............. @ViliusKraujutis
+  PR8  Algorithmic art and laser cutter .......................... @aistisraudys
+  PR9  Burgers for (possibly) everyone .............................. @dvisockas
+  PR10 Ham Radio: Sportinė radijopelengacija (ARDF) ..................... LY5FOX
+  PR13 Laptop Casting: reusing all the laptop parts ................... @CRImier
+  PR14 "Skandinaviško" stiliaus baldai garaže, pigiai .............. Ričardas.Le
+  PR15 Safe and practical intro to Rope Bondage ......................... @cirka
+  PR17 Experience with payment systems (SEPA, UK, Asia, SWIFT) ......... @maskas
+  PR22 Homemade FPV for a RC plane. Progress report [[not ]found] ..... @singler
+  PR23 Pasidaryk pats dainuojančią revoliuciją: sapnai ................... aiste
 
 
 --[ DONATIONS ]
