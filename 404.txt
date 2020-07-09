@@ -39,7 +39,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR15 Safe and practical intro to Rope Bondage..........................@cirka
   PR17 Experience with payment systems (SEPA, UK, Asia, SWIFT)..........@maskas
   PR22 Homemade FPV for a RC plane. Progress report [[not ]found]......@singler
-
+  PR24 Using math to make something pleasant to look at............. @gosferano
 
 --[ DONATIONS ]
 
