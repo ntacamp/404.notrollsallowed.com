@@ -42,6 +42,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR23 Pasidaryk pats dainuojančią revoliuciją: sapnai ................... aiste
   PR25 Uniform UX across Linux and MacOS environments ...................... @2m
   PR24 Using math to make something pleasant to look at ............. @gosferano
+  PR26 Smart Hom^WFarm ................................................. @wybczu
 
 
 --[ DONATIONS ]
