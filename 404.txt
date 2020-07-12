@@ -43,6 +43,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR25 Uniform UX across Linux and MacOS environments ...................... @2m
   PR24 Using math to make something pleasant to look at ............. @gosferano
   PR26 Smart Hom^WFarm ................................................. @wybczu
+  PR27 "Mėsonomika": mėsos ir pieno istorija, politika ir ekonomika....@liubinas
 
 
 --[ DONATIONS ]
