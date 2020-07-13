@@ -25,7 +25,7 @@ update_donations() {
 }
 
 justify_text() {
-    local topic_pattern="[[:blank:]]+PR[[:digit:]]+ "
+    local topic_pattern="^[[:blank:]]+PR[[:digit:]]+ "
     while IFS='$\n' read -r line; do
         if [[ "$line" =~ $topic_pattern ]]; then
             format_topic "$line"
