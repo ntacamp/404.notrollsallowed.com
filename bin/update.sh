@@ -45,8 +45,9 @@ format_topic() {
 
     local author
     author=$(echo "$line" \
-        | sed -E 's/\.{2,}/ /' \
-        | awk '{ print $NF }' \
+        | sed -E 's/.+\.{2,}//' \
+        | awk '{ print $0 }' \
+        | awk '{ $1 = $1; print $0 }' \
     )
 
     local topic
