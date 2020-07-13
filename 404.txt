@@ -37,7 +37,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR13 Laptop Casting: reusing all the laptop parts .................. @CRImier
   PR14 "Skandinaviško" stiliaus baldai garaže, pigiai...............Ričardas.Le
   PR15 Safe and practical intro to Rope Bondage..........................@cirka
-  PR16 Dockerize whole production environment for development .......@andriusdj
+  PR16 Speeding up and simplyfying development environment ..........@andriusdj
 
 
 --[ DONATIONS ]
