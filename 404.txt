@@ -25,7 +25,6 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
 "intro into some framework" type of topics.
 
 
-
   PR1  Intro: Camp Not Found ............................................ @pawka
   PR3  How Come The Bank is 404 ....................................... @jbutkus
   PR4  csh: When That Request Finally Times Out .................... @pdaukintis
@@ -38,7 +37,6 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR13 Laptop Casting: reusing all the laptop parts ................... @CRImier
   PR14 "Skandinaviško" stiliaus baldai garaže, pigiai .............. Ričardas.Le
   PR15 Safe and practical intro to Rope Bondage ......................... @cirka
-  PR16 The right environment for fast and simple development ........ @andriusdj
   PR17 Experience with payment systems (SEPA, UK, Asia, SWIFT) ......... @maskas
   PR22 Homemade FPV for a RC plane. Progress report [[not ]found] ..... @singler
   PR23 Pasidaryk pats dainuojančią revoliuciją: sapnai ................... aiste
@@ -46,6 +44,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR24 Using math to make something pleasant to look at ............. @gosferano
   PR26 Smart Hom^WFarm ................................................. @wybczu
   PR27 "Mėsonomika": mėsos ir pieno istorija, politika ir ekonomika .. @liubinas
+  PR16 The right environment for fast and simple development ........ @andriusdj
 
 
 --[ DONATIONS ]
