@@ -4,13 +4,13 @@
                             |__   _| | | |__   _|
                                | | | |_| |  | |
                                |_|  \___/   |_|
-                               Camp Not Found
+                                Camp Not Found
 
 
 --[ DETAILS ]
 
-  Date ....................................................... July 22-26, 2020
-  Location ............................................. Somewhere in Lithuania
+  Date ........................................................ July 22-26, 2020
+  Location .............................................. Somewhere in Lithuania
 
 
 --[ PRESENTATIONS & ACTIVITIES ]
@@ -25,23 +25,47 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
 "intro into some framework" type of topics.
 
 
-  PR1  Intro: Camp Not Found ........................................... @pawka
-  PR3  How Come The Bank is 404 ...................................... @jbutkus
-  PR4  csh: When That Request Finally Times Out ....................@pdaukintis
-  PR5  Ham Radio: Fun with geostationary satellites .................. @kareiva
-  PR6  Komunikacija su ID kortele nuo nulio: RFID ir el. parašas........ @monai
-  PR7  Sėkmės ir nesėkmės, kuriant išmanius namus............. @ViliusKraujutis
-  PR8  Algorithmic art and laser cutter .............................. @giena32
-  PR9  Burgers for (possibly) everyone...............................@dvisockas
-  PR10 Ham Radio: Sportinė radijopelengacija (ARDF) .................... LY5FOX
+  PR1  Intro: Camp Not Found ............................................ @pawka
+  PR3  How Come The Bank is 404 ....................................... @jbutkus
+  PR4  csh: When That Request Finally Times Out .................... @pdaukintis
+  PR5  Ham Radio: Fun with geostationary satellites ................... @kareiva
+  PR6  Komunikacija su ID kortele nuo nulio: RFID ir el. parašas ........ @monai
+  PR7  Sėkmės ir nesėkmės, kuriant išmanius namus ............. @ViliusKraujutis
+  PR8  Algorithmic art and laser cutter .......................... @aistisraudys
+  PR9  Burgers for (possibly) everyone .............................. @dvisockas
+  PR10 Ham Radio: Sportinė radijopelengacija (ARDF) ..................... LY5FOX
+  PR13 Laptop Casting: reusing all the laptop parts ................... @CRImier
+  PR14 "Skandinaviško" stiliaus baldai garaže, pigiai .............. Ričardas.Le
+  PR15 Safe and practical intro to Rope Bondage ......................... @cirka
+  PR17 Experience with payment systems (SEPA, UK, Asia, SWIFT) ......... @maskas
+  PR22 Homemade FPV for a RC plane. Progress report [[not ]found] ..... @singler
+  PR23 Pasidaryk pats dainuojančią revoliuciją: sapnai ................... aiste
+  PR25 Uniform UX across Linux and MacOS environments ...................... @2m
+  PR24 Using math to make something pleasant to look at ............. @gosferano
+  PR26 Smart Hom^WFarm ................................................. @wybczu
+  PR27 "Mėsonomika": mėsos ir pieno istorija, politika ir ekonomika .. @liubinas
+  PR28 Origami: Kas tai per menas ir užsiėmimai ........... @giedriusmarkevicius
+  PR16 The right environment for fast and simple development ........ @andriusdj
   PR12 Wakeboarding 101...............................................@EgleSilk
+
+
+--[ SOUND ]
+
+"Common sense stage" during the day will set the place for performances during
+the night, ranging from DJ sets to live performances accompanying you throughout
+the days on the camp. Expect breezy tropical tunes, sweat breaking beats, and
+dark ambience enshrouding everything when the sun finally sets.
+
+  * PR19 Thursday  : Get your feet wet
+  * PR20 Friday    : Four to the floor
+  * PR21 Saturday  : Ambient night
 
 
 --[ DONATIONS ]
 
   * target   : 3500€
-  * donated  : 1627€
-  * status   : -1873€
+  * donated  : 2500€
+  * status   : -1000€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 3500€. If you want
@@ -53,10 +77,15 @@ account for transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose fiel
 and fame. Thank you!
 
 
-  VšĮ "Programuotojai" ............................................... 1000 EUR
-  Vilniaus Universiteto Radijo Klubas ................................. 100 EUR
-  Vilius Kraujutis .................................................... 123 EUR
-  Andrius Minkevičius ................................................. 404 EUR
+  VšĮ "Programuotojai" ................................................ 1000 EUR
+  Vilniaus Universiteto Radijo Klubas .................................. 100 EUR
+  Vilius Kraujutis ..................................................... 123 EUR
+  Andrius Minkevičius .................................................. 404 EUR
+  Mantas Klasavičius ................................................... 100 EUR
+  Ričardas Leščinskas ................................................... 69 EUR
+  Aleksej Šipulia ...................................................... 404 EUR
+  Melitonas ............................................................ 100 EUR
+  Henrik Korkuc ........................................................ 200 EUR
 
 
                                     /\_/\
