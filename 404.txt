@@ -48,6 +48,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR16 The right environment for fast and simple development ........ @andriusdj
   PR12 Wakeboarding 101 .............................................. @EgleSilk
   PR29 Dangaus šviesulių stebėjimas teleskopu ....................... Kęstas KMS
+  PR31 Mityba geekiškai: kas ta ketozė ir kodėl kalorijos skiriasi .... @arturaz
   PR30 Digging for information in procfs ................................ @edast
 
 
