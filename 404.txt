@@ -50,6 +50,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR29 Dangaus šviesulių stebėjimas teleskopu ....................... Kęstas KMS
   PR31 Mityba geekiškai: kas ta ketozė ir kodėl kalorijos skiriasi .... @arturaz
   PR30 Digging for information in procfs ................................ @edast
+  PR32 Autonominė žolės laistymo sistema ............................... @darles
 
 
 --[ SOUND ]
