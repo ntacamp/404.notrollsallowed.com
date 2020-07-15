@@ -25,7 +25,7 @@ update_donations() {
 }
 
 justify_text() {
-    local topic_pattern="[[:blank:]]+PR[[:digit:]]+ "
+    local topic_pattern="^[[:blank:]]+PR[[:digit:]]+ "
     while IFS='$\n' read -r line; do
         if [[ "$line" =~ $topic_pattern ]]; then
             format_topic "$line"
@@ -45,8 +45,9 @@ format_topic() {
 
     local author
     author=$(echo "$line" \
-        | sed -E 's/\.{2,}/ /' \
-        | awk '{ print $NF }' \
+        | sed -E 's/.+\.{2,}//' \
+        | awk '{ print $0 }' \
+        | awk '{ $1 = $1; print $0 }' \
     )
 
     local topic
