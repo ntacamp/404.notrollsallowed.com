@@ -51,6 +51,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR31 Mityba geekiškai: kas ta ketozė ir kodėl kalorijos skiriasi .... @arturaz
   PR30 Digging for information in procfs ................................ @edast
   PR34 Autonominė žolės laistymo sistema ............................... @darles
+  PR35 No Sponsored t-shirts - no problem. NTA tshirts DIY. BYOTshirt..@anna-did
 
 
 --[ SOUND ]
