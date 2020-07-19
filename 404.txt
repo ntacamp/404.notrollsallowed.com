@@ -52,7 +52,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR30 Digging for information in procfs ................................ @edast
   PR34 Autonominė žolės laistymo sistema ............................... @darles
   PR35 Monster Fog Machine ............................ Martynas ir Renardas KMS
-  PR36 No Sponsored t-shirts - no problem. DIY! BYOTshirt .. @anna-did
+  PR36 No Sponsored t-shirts - no problem. DIY! BYOTshirt ............ @anna-did
 
 
 --[ SOUND ]
