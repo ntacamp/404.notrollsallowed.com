@@ -29,6 +29,6 @@ jobs:
         make
         echo "Commiting generated HTML"
         git add .
-        git commit -m "Updating HTML"
+        git commit -m "Updating 404.txt and HTML" || true
         echo "Pushing changes"
         git push
