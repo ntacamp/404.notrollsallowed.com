@@ -1,4 +1,4 @@
-                             _  _    ___  _  _
+﻿                             _  _    ___  _  _
                             | || |  / _ \| || |
                             | || |_| | | | || |_
                             |__   _| | | |__   _|
@@ -57,6 +57,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR38 Kaip aš pasigaminau gulimą dviratį .................... VEC7OR/Technarium
   PR39 bLED - Blaze Light Emitting Display ............................... @K5T5
   PR41 (Ne)alaus mini degustacija ........................................ Laima
+  PR38 Making your first DND 5e player character ................... @saint66735
 
 
 --[ SOUND ]
