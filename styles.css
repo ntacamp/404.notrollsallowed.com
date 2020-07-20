@@ -1,0 +1,11 @@
+body {
+	text-align: center;
+}
+      
+pre {
+	display: inline-block; 
+	box-sizing: border-box; 
+	margin: 0 auto; 
+	text-align: left; 
+	padding: 20px 60px 60px 20px;
+}
