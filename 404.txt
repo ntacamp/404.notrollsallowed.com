@@ -1,4 +1,4 @@
-                             _  _    ___  _  _
+﻿                             _  _    ___  _  _
                             | || |  / _ \| || |
                             | || |_| | | | || |_
                             |__   _| | | |__   _|
@@ -54,6 +54,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR35 Monster Fog Machine ............................ Martynas ir Renardas KMS
   PR36 No Sponsored t-shirts - no problem. DIY! BYOTshirt ............ @anna-did
   PR37 Synths, Midi and FX. My path to wiring everything together ...... @tadkle
+  PR38 Making your first DND 5e player character ................... @saint66735
 
 
 --[ SOUND ]
