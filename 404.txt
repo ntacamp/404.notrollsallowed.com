@@ -12,6 +12,9 @@
   Date ........................................................ July 22-26, 2020
   Location .............................................. Somewhere in Lithuania
 
+ATTENTION! Bring a t-shirt or a hoody (preferably blank) and we'll put the 404
+logo on it in the camp!
+
 
 --[ PRESENTATIONS & ACTIVITIES ]
 
@@ -57,7 +60,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR38 Kaip aš pasigaminau gulimą dviratį .................... VEC7OR/Technarium
   PR39 bLED - Blaze Light Emitting Display ............................... @K5T5
   PR41 (Ne)alaus mini degustacija ........................................ Laima
-  PR38 Making your first DND 5e player character ................... @saint66735
+  PR42 Making your first DND 5e player character ................... @saint66735
   PR44 Stage lighting with MIDI: Arduino DMX controller ........... @shvytejimas
 
 
