@@ -64,6 +64,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR42 Making your first DND 5e player character ................... @saint66735
   PR43 What I learned from reverse-engineering document scanners ....... @p12tic
   PR45 Gamtos fotografija - kas slepiasi už gero kadro ..... Kristina/Technarium
+  PR44 Stage lighting with MIDI: Arduino DMX controller ........... @shvytejimas
 
 
 --[ SOUND ]
