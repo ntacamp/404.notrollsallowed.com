@@ -64,6 +64,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR43 What I learned from reverse-engineering document scanners ....... @p12tic
   PR45 Gamtos fotografija - kas slepiasi už gero kadro ..... Kristina/Technarium
   PR44 Stage lighting with MIDI: Arduino DMX controller ........... @shvytejimas
+  PR49 Cosmology 101 - Kodel visatai būtent 14 milijardų metų ......... @Eximius
 
 
 --[ SOUND ]
