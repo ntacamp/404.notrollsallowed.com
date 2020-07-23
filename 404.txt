@@ -37,7 +37,6 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR8  Algorithmic art and laser cutter .......................... @aistisraudys
   PR9  Burgers for (possibly) everyone .............................. @dvisockas
   PR10 Ham Radio: Sportinė radijopelengacija (ARDF) ..................... LY5FOX
-  PR11 Mano mamos Nokia ir kaip radau pažeidžiamimą Ežio appse..........@kvaidas
   PR13 Laptop Casting: reusing all the laptop parts ................... @CRImier
   PR14 "Skandinaviško" stiliaus baldai garaže, pigiai .............. Ričardas.Le
   PR15 Safe and practical intro to Rope Bondage ......................... @cirka
@@ -62,6 +61,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR39 bLED - Blaze Light Emitting Display ............................... @K5T5
   PR41 (Ne)alaus mini degustacija ........................................ Laima
   PR42 Making your first DND 5e player character ................... @saint66735
+  PR46 Mano mamos Nokia ir kaip radau pažeidžiamimą Ežio appse..........@kvaidas
 
 
 --[ SOUND ]
