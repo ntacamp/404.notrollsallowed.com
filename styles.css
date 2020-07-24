@@ -9,3 +9,34 @@ pre {
 	text-align: left; 
 	padding: 20px 60px 60px 20px;
 }
+
+.print {
+	height: 100%; 
+	padding: 0; 
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.print .topic {
+	height: 25%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border-bottom: #ccc 1px solid;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.print h2 {
+	margin: 0 0 25px;
+    font-size: 30px;
+}
+
+.print h3 {
+	margin: 0;
+    font-size: 20px;
+}
+
+.print .topic:nth-child(4n + 0) {
+	border: none;
+}
