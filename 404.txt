@@ -9,7 +9,7 @@
 
 --[ DETAILS ]
 
-  Date ........................................................ July 22-26, 2020
+  Date ........................................................ July 21-25, 2021
   Location .............................................. Somewhere in Lithuania
 
 ATTENTION! Bring a t-shirt or a hoody (preferably blank) and we'll put the 404
@@ -29,46 +29,6 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
 
 
   PR1  Intro: Camp Not Found ............................................ @pawka
-  PR3  How Come The Bank is 404 ....................................... @jbutkus
-  PR4  csh: When That Request Finally Times Out .................... @pdaukintis
-  PR5  Ham Radio: Fun with geostationary satellites ................... @kareiva
-  PR6  Komunikacija su ID kortele nuo nulio: RFID ir el. parašas ........ @monai
-  PR7  Sėkmės ir nesėkmės, kuriant išmanius namus ............. @ViliusKraujutis
-  PR8  Algorithmic art and laser cutter .......................... @aistisraudys
-  PR9  Burgers for (possibly) everyone .............................. @dvisockas
-  PR10 Ham Radio: Sportinė radijopelengacija (ARDF) ..................... LY5FOX
-  PR13 Laptop Casting: reusing all the laptop parts ................... @CRImier
-  PR14 "Skandinaviško" stiliaus baldai garaže, pigiai .............. Ričardas.Le
-  PR15 Safe and practical intro to Rope Bondage ......................... @cirka
-  PR17 Experience with payment systems (SEPA, UK, Asia, SWIFT) ......... @maskas
-  PR22 Homemade FPV for a RC plane. Progress report [[not ]found] ..... @singler
-  PR23 Pasidaryk pats dainuojančią revoliuciją: Baltarusių muzika ........ Aistė
-  PR25 Uniform UX across Linux and MacOS environments ...................... @2m
-  PR24 Using math to make something pleasant to look at ............. @gosferano
-  PR26 Smart Hom^WFarm ................................................. @wybczu
-  PR27 "Mėsonomika": mėsos ir pieno istorija, politika ir ekonomika .. @liubinas
-  PR28 Origami: Kas tai per menas ir užsiėmimai ........... @giedriusmarkevicius
-  PR16 The right environment for fast and simple development ........ @andriusdj
-  PR12 Wakeboarding 101 .............................................. @EgleSilk
-  PR29 Dangaus šviesulių stebėjimas teleskopu ....................... Kęstas KMS
-  PR31 Mityba geekiškai: kas ta ketozė ir kodėl kalorijos skiriasi .... @arturaz
-  PR30 Digging for information in procfs ................................ @edast
-  PR34 Autonominė žolės laistymo sistema ............................... @darles
-  PR35 Monster Fog Machine ............................ Martynas ir Renardas KMS
-  PR36 No Sponsored t-shirts - no problem. DIY! BYOTshirt ............ @anna-did
-  PR37 Synths, Midi and FX. My path to wiring everything together ...... @tadkle
-  PR38 Kaip aš pasigaminau gulimą dviratį .................... VEC7OR/Technarium
-  PR39 bLED - Blaze Light Emitting Display ............................... @K5T5
-  PR41 (Ne)alaus mini degustacija ........................................ Laima
-  PR42 Making your first DND 5e player character ................... @saint66735
-  PR43 What I learned from reverse-engineering document scanners ....... @p12tic
-  PR45 Gamtos fotografija - kas slepiasi už gero kadro ..... Kristina/Technarium
-  PR44 Stage lighting with MIDI: Arduino DMX controller ........... @shvytejimas
-  PR47 Astronomical Sun observation ........................... Gretė/Technarium
-  PR48 Lazeriu pjautų karoliukų apyrankių vėrimo workšopas ............... Saulė
-  PR49 Cosmology 101 - Kodel visatai būtent 14 milijardų metų ......... @Eximius
-  PR46 Mano mamos Nokia ir kaip radau pažeidžiamimą Ežio appse ........ @kvaidas
-  PR50 How to write a CPU emulator ...................................... @Pawka
 
 
 --[ SOUND ]
@@ -85,9 +45,7 @@ dark ambience enshrouding everything when the sun finally sets.
 
 --[ DONATIONS ]
 
-  * target   : 3500€
-  * donated  : 3741€
-  * status   : 241€
+  * target   : NaN€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 3500€. If you want
@@ -99,21 +57,7 @@ account for transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose fiel
 and fame. Thank you!
 
 
-  VšĮ "Programuotojai" ................................................ 1000 EUR
-  Vilniaus Universiteto Radijo Klubas .................................. 100 EUR
-  Vilius Kraujutis ..................................................... 123 EUR
-  Andrius Minkevičius .................................................. 404 EUR
-  Mantas Klasavičius ................................................... 100 EUR
-  Ričardas Leščinskas ................................................... 69 EUR
-  Aleksej Šipulia ...................................................... 404 EUR
-  Melitonas ............................................................ 100 EUR
-  Henrik Korkuc ........................................................ 200 EUR
-  MB Kodo Baitas ....................................................... 321 EUR
-  Fostral .............................................................. 302 EUR
-  Vytenis Darulis ...................................................... 404 EUR
-  Tadas Kleinauskas .................................................... 100 EUR
-  Mangirdas Skripka ..................................................... 50 EUR
-  Artūras Šlajus ........................................................ 64 EUR
+  VšĮ "Programuotojai" ................................................ 256 EUR
 
 
                                     /\_/\
