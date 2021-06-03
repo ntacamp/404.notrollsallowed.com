@@ -32,6 +32,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR52 Ham radio: flying a high altitude balloon around the Earth ..... @kareiva
   PR53 Building mechanical keyboards .................................... @pawka
   PR54 ID kortelės el. parašo aplikacija (-os): veikimas ir klaidos ..... @monai
+  PR55 Mini CNC upgrade'inimas spalvotųjų metalų apdirbimui.......... @richardas
 
 
 --[ SOUND ]
