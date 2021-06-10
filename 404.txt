@@ -33,7 +33,9 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR53 Building mechanical keyboards .................................... @pawka
   PR54 ID kortelės el. parašo aplikacija (-os): veikimas ir klaidos ..... @monai
   PR55 Mini CNC upgrade'inimas spalvotųjų metalų apdirbimui ......... @richardas
+  PR56 Keyboard hacking. (custom layout, remaps, automation) .... @MindScriptAct
   PR57 Pabuskit! - kodo kokybė niekam neįdomi ....................... @mangirdas
+
 
 --[ SOUND ]
 
