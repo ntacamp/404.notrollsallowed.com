@@ -38,7 +38,9 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR58 How to be a great GM, the art of cooperative storytelling ... @saint66735
   PR59 Youtube is hard. 1yr experience .......................... @vandalpaulius
   PR60 Workshop for kids - laser cut toys, bracelets ............. @aistisraudys
-  PR61  . PR61 Kaip aš atradau, jog esu idiotas ir rekomenduočiau tai visiems . @arturaz
+  PR61 Kaip atradau, jog esu idiotas ir rekomenduočiau tai visiems .... @arturaz
+  PR62 Italo (LADA automobilio) nuotykiai SSRS .......................... Justas
+  PR64 Making maps using a consumer drone ............................ @motiejus
   PR62 Dirbtuvės vaikams - lipdukų gamyba ...............................@sigrks
 
 
@@ -50,8 +52,8 @@ There will be sound. This section will be updated.
 --[ DONATIONS ]
 
   * target   : 4500€
-  * donated  : 1445€
-  * status   : -3055€
+  * donated  : 2042€
+  * status   : -2458€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
@@ -73,6 +75,10 @@ fame. Thank you!
   Mangirdas Skripka ......................................................69 EUR
   Henrik Korkuc ........................................................ 200 EUR
   Mantas Klasavičius ................................................... 101 EUR
+  Artūras Šlajus ........................................................ 64 EUR
+  Vaidas Talačka ........................................................ 21 EUR
+  Povilas Balzaravičius ................................................ 256 EUR
+  Žilvinas Kuusas ...................................................... 256 EUR
 
 
                                     /\_/\
