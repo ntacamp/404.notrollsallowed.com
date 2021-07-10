@@ -57,6 +57,9 @@ format_topic() {
         | awk '{ $1 = $1; print $0 }' \
     )
 
+    echo "PR: |$pr|"
+    echo "AUTHOR: |$author|"
+
     local page_width=80
     local pr_width=7
     awk \
