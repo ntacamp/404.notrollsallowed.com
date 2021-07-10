@@ -28,17 +28,39 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
 "intro into some framework" type of topics.
 
 
+PR: |PR1|
+AUTHOR: |@pawka|
   PR1  Intro: Camp Not Found ............................................ @pawka
+PR: |PR52|
+AUTHOR: |@kareiva|
   PR52 Ham radio: flying a high altitude balloon around the Earth ..... @kareiva
+PR: |PR53|
+AUTHOR: |@pawka|
   PR53 Building mechanical keyboards .................................... @pawka
+PR: |PR54|
+AUTHOR: |@monai|
   PR54 ID kortelės el. parašo aplikacija (-os): veikimas ir klaidos ..... @monai
+PR: |PR55|
+AUTHOR: |@richardas|
   PR55 Mini CNC upgrade'inimas spalvotųjų metalų apdirbimui ......... @richardas
+PR: |PR56|
+AUTHOR: |@MindScriptAct|
   PR56 Keyboard hacking. (custom layout, remaps, automation) .... @MindScriptAct
+PR: |PR57|
+AUTHOR: |@maskas|
   PR57 Pabuskit! - kodo kokybė niekam neįdomi .......................... @maskas
+PR: |PR58|
+AUTHOR: |@saint66735|
   PR58 How to be a great GM, the art of cooperative storytelling ... @saint66735
+PR: |PR59|
+AUTHOR: |@vandalpaulius|
   PR59 Youtube is hard. 1yr experience .......................... @vandalpaulius
+PR: |PR60|
+AUTHOR: |@aistisraudys|
   PR60 Workshop for kids - laser cut toys, bracelets ............. @aistisraudys
-  PR61 Kaip atradau, jog esu idiotas ir rekomenduočiau tai visiems . @arturaz
+PR: |PR61|
+AUTHOR: |PR61 Kaip atradau, jog esu idiotas ir rekomenduočiau tai visiems . @arturaz|
+  PR61  . PR61 Kaip atradau, jog esu idiotas ir rekomenduočiau tai visiems . @arturaz
 
 
 --[ SOUND ]
@@ -49,8 +71,8 @@ There will be sound. This section will be updated.
 --[ DONATIONS ]
 
   * target   : 4500€
-  * donated  : 1445€
-  * status   : -3055€
+  * donated  : 2042€
+  * status   : -2458€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
