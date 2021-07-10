@@ -43,6 +43,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR64 Making maps using a consumer drone ............................ @motiejus
   PR62 Dirbtuvės vaikams - lipdukų gamyba .............................. @sigrks
   PR68 Kaip nustoti žudyti savo fikusą ................................ @golceva
+  PR69 Išmaniai išmanūs namai nerašant kodo ................................ @2m
 
 
 --[ SOUND ]
