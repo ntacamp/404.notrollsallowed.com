@@ -9,8 +9,11 @@
 
 --[ DETAILS ]
 
-  Date ........................................................ July 22-26, 2020
+  Date ........................................................ July 21-25, 2021
   Location .............................................. Somewhere in Lithuania
+
+ATTENTION! Bring a t-shirt or a hoody (preferably blank) and we'll put the 404
+logo on it in the camp!
 
 
 --[ PRESENTATIONS & ACTIVITIES ]
@@ -26,69 +29,58 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
 
 
   PR1  Intro: Camp Not Found ............................................ @pawka
-  PR3  How Come The Bank is 404 ....................................... @jbutkus
-  PR4  csh: When That Request Finally Times Out .................... @pdaukintis
-  PR5  Ham Radio: Fun with geostationary satellites ................... @kareiva
-  PR6  Komunikacija su ID kortele nuo nulio: RFID ir el. parašas ........ @monai
-  PR7  Sėkmės ir nesėkmės, kuriant išmanius namus ............. @ViliusKraujutis
-  PR8  Algorithmic art and laser cutter .......................... @aistisraudys
-  PR9  Burgers for (possibly) everyone .............................. @dvisockas
-  PR10 Ham Radio: Sportinė radijopelengacija (ARDF) ..................... LY5FOX
-  PR13 Laptop Casting: reusing all the laptop parts ................... @CRImier
-  PR14 "Skandinaviško" stiliaus baldai garaže, pigiai .............. Ričardas.Le
-  PR15 Safe and practical intro to Rope Bondage ......................... @cirka
-  PR17 Experience with payment systems (SEPA, UK, Asia, SWIFT) ......... @maskas
-  PR22 Homemade FPV for a RC plane. Progress report [[not ]found] ..... @singler
-  PR23 Pasidaryk pats dainuojančią revoliuciją: Baltarusių muzika ........ Aistė
-  PR25 Uniform UX across Linux and MacOS environments ...................... @2m
-  PR24 Using math to make something pleasant to look at ............. @gosferano
-  PR26 Smart Hom^WFarm ................................................. @wybczu
-  PR27 "Mėsonomika": mėsos ir pieno istorija, politika ir ekonomika .. @liubinas
-  PR28 Origami: Kas tai per menas ir užsiėmimai ........... @giedriusmarkevicius
-  PR16 The right environment for fast and simple development ........ @andriusdj
-  PR12 Wakeboarding 101 .............................................. @EgleSilk
-  PR29 Dangaus šviesulių stebėjimas teleskopu ....................... Kęstas KMS
-  PR31 Mityba geekiškai: kas ta ketozė ir kodėl kalorijos skiriasi .... @arturaz
-  PR30 Digging for information in procfs ................................ @edast
+  PR52 Ham radio: flying a high altitude balloon around the Earth ..... @kareiva
+  PR53 Building mechanical keyboards .................................... @pawka
+  PR54 ID kortelės el. parašo aplikacija (-os): veikimas ir klaidos ..... @monai
+  PR55 Mini CNC upgrade'inimas spalvotųjų metalų apdirbimui ......... @richardas
+  PR56 Keyboard hacking. (custom layout, remaps, automation) .... @MindScriptAct
+  PR57 Insane Startup Growth Hacks ..................................... @maskas
+  PR58 How to be a great GM, the art of cooperative storytelling ... @saint66735
+  PR59 Youtube is hard. 1yr experience .......................... @vandalpaulius
+  PR60 Workshop for kids - laser cut toys, bracelets ............. @aistisraudys
+  PR61 Kaip atradau, jog esu idiotas ir rekomenduočiau tai visiems .... @arturaz
+  PR62 Italo (LADA automobilio) nuotykiai SSRS .......................... Justas
+  PR64 Making maps using a consumer drone ............................ @motiejus
+  PR62 Dirbtuvės vaikams - lipdukų gamyba .............................. @sigrks
+  PR68 Kaip nustoti žudyti savo fikusą ................................ @golceva
+  PR69 Išmaniai išmanūs namai nerašant kodo ................................ @2m
 
 
 --[ SOUND ]
 
-"Common sense stage" during the day will set the place for performances during
-the night, ranging from DJ sets to live performances accompanying you throughout
-the days on the camp. Expect breezy tropical tunes, sweat breaking beats, and
-dark ambience enshrouding everything when the sun finally sets.
-
-  * PR19 Thursday  : Get your feet wet
-  * PR20 Friday    : Four to the floor
-  * PR21 Saturday  : Ambient night
+There will be sound. This section will be updated.
 
 
 --[ DONATIONS ]
 
-  * target   : 3500€
-  * donated  : 2500€
-  * status   : -1000€
+  * target   : 4500€
+  * donated  : 2042€
+  * status   : -2458€
 
 The event is free. Free of sponsors too. But we still spend fiat for
-infrastructure and cookies. A rough estimate of event cost is 3500€. If you want
+infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
 to support this initiative, we accept donations. Donations are accepted before,
 during or even after the event. Though we prefer before. If bigger than targeted
-amount is collected before the event, we'll build better infrastructure. Bank
-account for transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose field:
-"Parama: 404". Every donor is listed at the hall of fame below. For transparency
-and fame. Thank you!
+amount is collected before the event, we'll build better infrastructure. In case
+the event is canceled - we will return your donations. Bank account for
+transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose field: "Parama:
+404". Every donor is listed at the hall of fame below. For transparency and
+fame. Thank you!
 
 
-  VšĮ "Programuotojai" ................................................ 1000 EUR
-  Vilniaus Universiteto Radijo Klubas .................................. 100 EUR
-  Vilius Kraujutis ..................................................... 123 EUR
+  VšĮ "Programuotojai" ................................................. 256 EUR
   Andrius Minkevičius .................................................. 404 EUR
-  Mantas Klasavičius ................................................... 100 EUR
-  Ričardas Leščinskas ................................................... 69 EUR
-  Aleksej Šipulia ...................................................... 404 EUR
-  Melitonas ............................................................ 100 EUR
+  Simonas Kareiva ...................................................... 101 EUR
+  Paulius Podolskis .................................................... 256 EUR
+  Albertas Mickėnas .................................................... 127 EUR
+  Ričardas Leščinskas ....................................................69 EUR
+  Mangirdas Skripka ......................................................69 EUR
   Henrik Korkuc ........................................................ 200 EUR
+  Mantas Klasavičius ................................................... 101 EUR
+  Artūras Šlajus ........................................................ 64 EUR
+  Vaidas Talačka ........................................................ 21 EUR
+  Povilas Balzaravičius ................................................ 256 EUR
+  Žilvinas Kuusas ...................................................... 256 EUR
 
 
                                     /\_/\
