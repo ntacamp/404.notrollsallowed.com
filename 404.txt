@@ -42,7 +42,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR62 Italo (LADA automobilio) nuotykiai SSRS .......................... Justas
   PR64 Making maps using a consumer drone ............................ @motiejus
   PR62 Dirbtuvės vaikams - lipdukų gamyba .............................. @sigrks
-  PR68 Kaip nustoti žudyti savo fikusą .................................@golceva
+  PR68 Kaip nustoti žudyti savo fikusą ................................ @golceva
 
 
 --[ SOUND ]
