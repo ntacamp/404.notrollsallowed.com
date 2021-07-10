@@ -50,8 +50,8 @@ There will be sound. This section will be updated.
 --[ DONATIONS ]
 
   * target   : 4500€
-  * donated  : 1445€
-  * status   : -3055€
+  * donated  : 2042€
+  * status   : -2458€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
@@ -73,6 +73,10 @@ fame. Thank you!
   Mangirdas Skripka ......................................................69 EUR
   Henrik Korkuc ........................................................ 200 EUR
   Mantas Klasavičius ................................................... 101 EUR
+  Artūras Šlajus ........................................................ 64 EUR
+  Vaidas Talačka ........................................................ 21 EUR
+  Povilas Balzaravičius ................................................ 256 EUR
+  Žilvinas Kuusas ...................................................... 256 EUR
 
 
                                     /\_/\
