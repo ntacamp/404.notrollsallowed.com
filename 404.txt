@@ -44,6 +44,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR62 Dirbtuvės vaikams - lipdukų gamyba .............................. @sigrks
   PR68 Kaip nustoti žudyti savo fikusą ................................ @golceva
   PR69 Išmaniai išmanūs namai nerašant kodo ................................ @2m
+  PR70 Lessons learned during NATO cybersecurity exercise.................@edast
 
 
 --[ SOUND ]
