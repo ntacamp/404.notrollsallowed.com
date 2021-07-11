@@ -59,6 +59,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR80 Kaip pomidorus ant palangės be žemių auginti ..................... @cirka
   PR81 Building censorship resistant services ........................... @zolia
   PR75 Monster Fog Machine is Back! ................... Martynas ir Renardas KMS
+  PR76 Miško kartingas gyvai ...................................... Renardas KMS
 
 
 --[ SOUND ]
