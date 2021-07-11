@@ -45,7 +45,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR68 Kaip nustoti žudyti savo fikusą ................................ @golceva
   PR69 Išmaniai išmanūs namai nerašant kodo ................................ @2m
   PR70 Lessons learned during NATO cybersecurity exercise ............... @edast
-  PR71 Alternate reality game - what is it? .......................Agota Foxtail
+  PR71 Alternate reality game - what is it? ...................... Agota Foxtail
 
 
 --[ SOUND ]
@@ -56,8 +56,8 @@ There will be sound. This section will be updated.
 --[ DONATIONS ]
 
   * target   : 4500€
-  * donated  : 2042€
-  * status   : -2458€
+  * donated  : 2318€
+  * status   : -2182€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
