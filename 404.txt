@@ -46,6 +46,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR69 Išmaniai išmanūs namai nerašant kodo ................................ @2m
   PR70 Lessons learned during NATO cybersecurity exercise ............... @edast
   PR71 Alternate reality game - what is it? ...................... Agota Foxtail
+  PR81 Building censorship resistant services ........................... @zolia
 
 
 --[ SOUND ]
@@ -85,6 +86,7 @@ fame. Thank you!
   Žilvinas Kuusas ...................................................... 256 EUR
   Martynas Jonaitis ..................................................... 20 EUR
   Petras Baukys ........................................................ 256 EUR
+  Antanas Masevičius.................................................... 128 EUR
 
 
                                     /\_/\
