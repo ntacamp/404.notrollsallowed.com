@@ -46,6 +46,12 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR69 Išmaniai išmanūs namai nerašant kodo ................................ @2m
   PR70 Lessons learned during NATO cybersecurity exercise ............... @edast
   PR71 Alternate reality game - what is it? ...................... Agota Foxtail
+  PR72 Tensegrity Structures Workshop ................................. @cliptic
+  PR73 Programming for goverment health care - the lessons learned ....... Iryna
+  PR74 Potato baking in campfire workshop ...................... Donatas Remeika
+  PR77 Linux konteineriai ................................... @mantas-sidlauskas
+  PR78 Jumping into the weird end of the pool: juostinė fotografija .. @anna-did
+  PR79 Kaleidoscope workshop .............................. Giedrius Markevičius
   PR80 Kaip pomidorus ant palangės be žemių auginti...................... @cirka
 
 
@@ -57,8 +63,8 @@ There will be sound. This section will be updated.
 --[ DONATIONS ]
 
   * target   : 4500€
-  * donated  : 2318€
-  * status   : -2182€
+  * donated  : 2940€
+  * status   : -1560€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
@@ -86,7 +92,11 @@ fame. Thank you!
   Žilvinas Kuusas ...................................................... 256 EUR
   Martynas Jonaitis ..................................................... 20 EUR
   Petras Baukys ........................................................ 256 EUR
-
+  Donatas Remeika ...................................................... 101 EUR
+  Fostral .............................................................. 256 EUR
+  Ignas Butėnas ......................................................... 64 EUR
+  Bernotas Marijus ...................................................... 73 EUR
+  Antanas Masevičius ................................................... 128 EUR
 
                                     /\_/\
                                    ( o.o )
