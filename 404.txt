@@ -54,6 +54,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR79 Kaleidoscope workshop .............................. Giedrius Markevičius
   PR80 Kaip pomidorus ant palangės be žemių auginti ..................... @cirka
   PR81 Building censorship resistant services ........................... @zolia
+  PR84 Sonic Pi, arba kaip programuotojai gali groti su kompu ...... @aurelijusb
 
 
 --[ SOUND ]
