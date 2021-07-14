@@ -49,6 +49,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR72 Tensegrity Structures Workshop ................................. @cliptic
   PR73 Programming for goverment health care - the lessons learned ....... Iryna
   PR74 Potato baking in campfire workshop ...................... Donatas Remeika
+  PR77 Linux konteineriai ................................... @mantas-sidlauskas
 
 
 --[ SOUND ]
