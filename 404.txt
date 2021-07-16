@@ -62,6 +62,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR76 Miško kartingas gyvai ...................................... Renardas KMS
   PR82 Alaus protmūšis ............................................... @kuusaite
   PR83 Mysterious Life Under Microscope .............................. @VilmaKMS
+  PR84 Sonic Pi, arba kaip programuotojai gali groti su kompu ...... @aurelijusb
 
 
 --[ SOUND ]
