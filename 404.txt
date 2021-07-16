@@ -12,8 +12,12 @@
   Date ........................................................ July 21-25, 2021
   Location .............................................. Somewhere in Lithuania
 
-ATTENTION! Bring a t-shirt or a hoody (preferably blank) and we'll put the 404
-logo on it in the camp!
+ATTENTION!
+
+- National Certificate a.k.a. "Galimybių pasas" is required to participate.
+  Because of law.
+- Bring a t-shirt or a hoody (preferably blank) and we'll put the 404 logo on it
+  in the camp.
 
 
 --[ PRESENTATIONS & ACTIVITIES ]
@@ -54,6 +58,10 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR79 Kaleidoscope workshop .............................. Giedrius Markevičius
   PR80 Kaip pomidorus ant palangės be žemių auginti ..................... @cirka
   PR81 Building censorship resistant services ........................... @zolia
+  PR75 Monster Fog Machine is Back! ................... Martynas ir Renardas KMS
+  PR76 Miško kartingas gyvai ...................................... Renardas KMS
+  PR82 Alaus protmūšis ............................................... @kuusaite
+  PR83 Mysterious Life Under Microscope .............................. @VilmaKMS
   PR84 Sonic Pi, arba kaip programuotojai gali groti su kompu ...... @aurelijusb
 
 
@@ -65,8 +73,8 @@ There will be sound. This section will be updated.
 --[ DONATIONS ]
 
   * target   : 4500€
-  * donated  : 2940€
-  * status   : -1560€
+  * donated  : 3558€
+  * status   : -942€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
@@ -99,6 +107,9 @@ fame. Thank you!
   Ignas Butėnas ......................................................... 64 EUR
   Bernotas Marijus ...................................................... 73 EUR
   Antanas Masevičius ................................................... 128 EUR
+  Karolina Štreimikytė .................................................. 40 EUR
+  Kazakauskė Vilma ...................................................... 66 EUR
+  Aispeco UAB .......................................................... 512 EUR
 
 
                                     /\_/\
