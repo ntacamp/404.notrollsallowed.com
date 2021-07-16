@@ -60,6 +60,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR81 Building censorship resistant services ........................... @zolia
   PR75 Monster Fog Machine is Back! ................... Martynas ir Renardas KMS
   PR76 Miško kartingas gyvai ...................................... Renardas KMS
+  PR82 Alaus protmūšis.................................................@kuusaite
 
 
 --[ SOUND ]
