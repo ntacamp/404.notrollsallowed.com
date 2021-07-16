@@ -8,7 +8,7 @@ update_donations() {
 
     local donated
     donated=$(echo "$feed" \
-        | awk '/[0-9]+ EUR$/ { sum+=$(NF-1);  } END { print sum  }')
+        | awk '/[0-9]+(\.[0-9])? EUR$/ { sum+=$(NF-1);  } END { print sum  }')
 
     local target
     target=$(echo "$feed" \
@@ -17,7 +17,7 @@ update_donations() {
         )
 
     local status
-    status=$(($donated-$target))
+    status=$(echo "$donated-$target" | bc)
 
     echo "$feed" \
         | sed -E "s~( donated[^0-9]+)([0-9]+)~\1$donated~" \
