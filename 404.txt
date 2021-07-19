@@ -65,7 +65,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR84 Sonic Pi, arba kaip programuotojai gali groti su kompu ...... @aurelijusb
   PR86 34 klavišų klaviatūra .......................................... @daliusd
   PR88 The unheard world of power line inspections ..................... @RoCkaZ
-  PR93 Beer blind test ............................................. @matislovas
+  PR94 Beer blind test ............................................. @matislovas
 
 
 --[ SOUND ]
