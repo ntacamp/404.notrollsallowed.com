@@ -63,7 +63,8 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR82 Alaus protmūšis ............................................... @kuusaite
   PR83 Mysterious Life Under Microscope .............................. @VilmaKMS
   PR84 Sonic Pi, arba kaip programuotojai gali groti su kompu ...... @aurelijusb
-  PR85 The unheard world of power line inspections ..................... @RoCkaZ
+  PR86 34 klavišų klaviatūra .......................................... @daliusd
+  PR88 The unheard world of power line inspections ..................... @RoCkaZ
 
 
 --[ SOUND ]
