@@ -71,6 +71,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR90 Kaip skaityti Taro kortas, netikint Taro kortomis ............... Emilija
   PR91 Improving your bike performance ........................... @marcorosello
   PR93 OpenBCI: Open-source Brain to Computer interface ....... @justinasjaronis
+  PR94 Beer blind test ............................................. @matislovas
 
 
 --[ SOUND ]
