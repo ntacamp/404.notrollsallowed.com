@@ -66,6 +66,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR89 Neuroplastiškumas - kaip hakinti smegenis sau naudinga linkme .. @mokibit
   PR90 Kaip skaityti Taro kortas, netikint Taro kortomis ............... Emilija
   PR91 Improving your bike performance ........................... @marcorosello
+  PR92 Kodėl įvyksta aviacijos avarijos. Aeroflot skrydis 1492 ..... Douglas KMS
   PR93 OpenBCI: Open-source Brain to Computer interface ....... @justinasjaronis
   PR94 Beer blind test ............................................. @matislovas
   PR95 Pulled pork hot dogs for (possibly) everyone ................. @dvisockas
