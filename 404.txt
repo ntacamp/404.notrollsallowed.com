@@ -65,6 +65,11 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR84 Sonic Pi, arba kaip programuotojai gali groti su kompu ...... @aurelijusb
   PR86 34 klavišų klaviatūra .......................................... @daliusd
   PR88 The unheard world of power line inspections ..................... @RoCkaZ
+  PR85 Kūdikių edukacijos metodai ............................. @TankiaiTaskuota
+  PR87 Kitesurfing. Bandysiu atkalbėt ir papasakosiu kaip pradėti ..... Zilvinas
+  PR89 Neuroplastiškumas - kaip hakinti smegenis sau naudinga linkme .. @mokibit
+  PR90 Kaip skaityti Taro kortas, netikint Taro kortomis ............... Emilija
+  PR91 Improving your bike performance ........................... @marcorosello
   PR93 OpenBCI: Open-source Brain to Computer interface ....... @justinasjaronis
 
 
@@ -76,8 +81,8 @@ There will be sound. This section will be updated.
 --[ DONATIONS ]
 
   * target   : 4500€
-  * donated  : 3558€
-  * status   : -942€
+  * donated  : 4005€
+  * status   : -495€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
@@ -113,6 +118,12 @@ fame. Thank you!
   Karolina Štreimikytė .................................................. 40 EUR
   Kazakauskė Vilma ...................................................... 66 EUR
   Aispeco UAB .......................................................... 512 EUR
+  Rosello Estravis Marco Antonio ........................................ 64 EUR
+  Gasiūnas Žilvinas ..................................................... 70 EUR
+  Mykolas Kunevičios .................................................... 42 EUR
+  Jurgis Pralgauskis .................................................... 42 EUR
+  Aurelijus Banelis .................................................... 128 EUR
+  Živilė Katauskė ...................................................... 101 EUR
 
 
                                     /\_/\
