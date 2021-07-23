@@ -100,7 +100,7 @@ Timetable: TBA
 
 --[ DONATIONS ]
 
-  * target   : 4500€
+  * target   : 4510€
   * donated  : 4599€
   * status   : 99€
 
