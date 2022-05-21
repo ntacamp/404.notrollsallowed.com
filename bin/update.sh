@@ -75,7 +75,7 @@ format_topic() {
             content_width=page_width-pr_width
             if (len_topic + len_author > content_width) {
                 len_topic=content_width-len_author-3
-                topic=substr(topic, 1, len_topic)
+                topic=sprintf("%s…", substr(topic, 1, len_topic-1))
             }
             printf "  %-4s %s ", pr, topic
             for (i = 0; i < content_width-len_author-len_topic-2; i++) {
