@@ -58,7 +58,7 @@ format_topic() {
     )
 
     local page_width=80
-    local pr_width=7
+    local pr_width=8
     local len_author
     len_author=${#author}
     local len_topic
@@ -77,7 +77,7 @@ format_topic() {
                 len_topic=content_width-len_author-3
                 topic=sprintf("%s…", substr(topic, 1, len_topic-1))
             }
-            printf "  %-4s %s ", pr, topic
+            printf "  %-5s %s ", pr, topic
             for (i = 0; i < content_width-len_author-len_topic-2; i++) {
                 printf "."
             }
