@@ -59,15 +59,19 @@ format_topic() {
 
     local page_width=80
     local pr_width=7
+    local len_author
+    len_author=${#author}
+    local len_topic
+    len_topic=${#topic}
     awk \
         -v pr="$pr" \
         -v author="$author" \
         -v topic="$topic" \
         -v page_width="$page_width" \
         -v pr_width="$pr_width" \
+        -v len_author="$len_author" \
+        -v len_topic="$len_topic" \
         'BEGIN {
-            len_author=length(author)
-            len_topic=length(topic)
             content_width=page_width-pr_width
             if (len_topic + len_author > content_width) {
                 len_topic=content_width-len_author-3
