@@ -28,56 +28,56 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
 "intro into some framework" type of topics.
 
 
-  PR1  Intro: Camp Not Found ............................................ @pawka
-  PR52 Ham radio: flying a high altitude balloon around the Earth ..... @kareiva
-  PR53 Building mechanical keyboards .................................... @pawka
-  PR54 ID kortelės el. parašo aplikacija (-os): veikimas ir klaidos ..... @monai
-  PR55 Mini CNC upgrade'inimas spalvotųjų metalų apdirbimui ......... @richardas
-  PR56 Keyboard hacking. (custom layout, remaps, automation) .... @MindScriptAct
-  PR57 Insane Startup Growth Hacks ..................................... @maskas
-  PR58 How to be a great GM, the art of cooperative storytelling ... @saint66735
-  PR59 Youtube is hard. 1yr experience .......................... @vandalpaulius
-  PR60 Workshop for kids - laser cut toys, bracelets ............. @aistisraudys
-  PR61 Kaip atradau, jog esu idiotas ir rekomenduočiau tai visiems .... @arturaz
-  PR62 Italo (LADA automobilio) nuotykiai SSRS .......................... Justas
-  PR64 Making maps using a consumer drone ............................ @motiejus
-  PR62 Dirbtuvės vaikams - lipdukų gamyba .............................. @sigrks
-  PR68 Kaip nustoti žudyti savo fikusą ................................ @golceva
-  PR69 Išmaniai išmanūs namai nerašant kodo ................................ @2m
-  PR70 Lessons learned during NATO cybersecurity exercise ............... @edast
-  PR71 Alternate reality game - what is it? ...................... Agota Foxtail
-  PR72 Tensegrity Structures Workshop ................................. @cliptic
-  PR73 Programming for goverment health care - the lessons learned ....... Iryna
-  PR74 Potato baking in campfire workshop ...................... Donatas Remeika
-  PR77 Linux konteineriai ................................... @mantas-sidlauskas
-  PR78 Jumping into the weird end of the pool: juostinė fotografija .. @anna-did
-  PR79 Kaleidoscope workshop .............................. Giedrius Markevičius
-  PR80 Kaip pomidorus ant palangės be žemių auginti ..................... @cirka
-  PR81 Building censorship resistant services ........................... @zolia
-  PR75 Monster Fog Machine is Back! ................... Martynas ir Renardas KMS
-  PR76 Miško kartingas gyvai ...................................... Renardas KMS
-  PR82 Alaus protmūšis ............................................... @kuusaite
-  PR83 Mysterious Life Under Telescope ............................... @VilmaKMS
-  PR84 Sonic Pi, arba kaip programuotojai gali groti su kompu ...... @aurelijusb
-  PR86 34 klavišų klaviatūra .......................................... @daliusd
-  PR88 The unheard world of power line inspections ..................... @RoCkaZ
-  PR85 Kūdikių edukacijos metodai ............................. @TankiaiTaskuota
-  PR87 Kitesurfing. Bandysiu atkalbėt ir papasakosiu kaip pradėti ..... Zilvinas
-  PR89 Neuroplastiškumas - kaip hakinti smegenis sau naudinga linkme .. @mokibit
-  PR90 Kaip skaityti Taro kortas, netikint Taro kortomis ............... Emilija
-  PR91 Improving your bike performance ........................... @marcorosello
-  PR92 Kodėl įvyksta aviacijos avarijos. Aeroflot skrydis 1492 ..... Douglas KMS
-  PR93 OpenBCI: Open-source Brain to Computer interface ....... @justinasjaronis
-  PR94 Beer blind test ............................................. @matislovas
-  PR95 Pulled pork hot dogs for (possibly) everyone ................. @dvisockas
-  PR96 Kaip iš internete rastų webcam'ų gaminau timelapse video ....... @kvaidas
-  PR97 DIY 404-camp t-shirt ............................................ @RoCkaZ
-  PR103 Electric Smart, or fixing Mercedes's mistakes ............... @elektrinis
-  PR100 Making Art for games ...................................... @VytautasTaut
-  PR102 QWERTY's flaws and the alternatives ........................... @1gnassio
-  PR101 Sąmoningumo meditacijos (mindfulness meditation) užsiėmimas ........ Goda
-  PR106 Static vs Dynamic typing .................................... @aurelijusb
-  PR104 Paauglio smartphone: Anki + Nintendo / SEGA emuliavimas ...... @VytautasV
+  PR1   Intro: Camp Not Found ........................................... @pawka
+  PR52  Ham radio: flying a high altitude balloon around the Earth .... @kareiva
+  PR53  Building mechanical keyboards ................................... @pawka
+  PR54  ID kortelės el. parašo aplikacija (-os): veikimas ir klaidos .... @monai
+  PR55  Mini CNC upgrade'inimas spalvotųjų metalų apdirbimui ........ @richardas
+  PR56  Keyboard hacking. (custom layout, remaps, automation) ... @MindScriptAct
+  PR57  Insane Startup Growth Hacks .................................... @maskas
+  PR58  How to be a great GM, the art of cooperative storytelling .. @saint66735
+  PR59  Youtube is hard. 1yr experience ......................... @vandalpaulius
+  PR60  Workshop for kids - laser cut toys, bracelets ............ @aistisraudys
+  PR61  Kaip atradau, jog esu idiotas ir rekomenduočiau tai visiems ... @arturaz
+  PR62  Italo (LADA automobilio) nuotykiai SSRS ......................... Justas
+  PR64  Making maps using a consumer drone ........................... @motiejus
+  PR62  Dirbtuvės vaikams - lipdukų gamyba ............................. @sigrks
+  PR68  Kaip nustoti žudyti savo fikusą ............................... @golceva
+  PR69  Išmaniai išmanūs namai nerašant kodo ............................... @2m
+  PR70  Lessons learned during NATO cybersecurity exercise .............. @edast
+  PR71  Alternate reality game - what is it? ..................... Agota Foxtail
+  PR72  Tensegrity Structures Workshop ................................ @cliptic
+  PR73  Programming for goverment health care - the lessons learned ...... Iryna
+  PR74  Potato baking in campfire workshop ..................... Donatas Remeika
+  PR77  Linux konteineriai .................................. @mantas-sidlauskas
+  PR78  Jumping into the weird end of the pool: juostinė fotografija . @anna-did
+  PR79  Kaleidoscope workshop ............................. Giedrius Markevičius
+  PR80  Kaip pomidorus ant palangės be žemių auginti .................... @cirka
+  PR81  Building censorship resistant services .......................... @zolia
+  PR75  Monster Fog Machine is Back! .................. Martynas ir Renardas KMS
+  PR76  Miško kartingas gyvai ..................................... Renardas KMS
+  PR82  Alaus protmūšis .............................................. @kuusaite
+  PR83  Mysterious Life Under Telescope .............................. @VilmaKMS
+  PR84  Sonic Pi, arba kaip programuotojai gali groti su kompu ..... @aurelijusb
+  PR86  34 klavišų klaviatūra ......................................... @daliusd
+  PR88  The unheard world of power line inspections .................... @RoCkaZ
+  PR85  Kūdikių edukacijos metodai ............................ @TankiaiTaskuota
+  PR87  Kitesurfing. Bandysiu atkalbėt ir papasakosiu kaip pradėti .... Zilvinas
+  PR89  Neuroplastiškumas - kaip hakinti smegenis sau naudinga linkme . @mokibit
+  PR90  Kaip skaityti Taro kortas, netikint Taro kortomis .............. Emilija
+  PR91  Improving your bike performance .......................... @marcorosello
+  PR92  Kodėl įvyksta aviacijos avarijos. Aeroflot skrydis 1492 .... Douglas KMS
+  PR93  OpenBCI: Open-source Brain to Computer interface ...... @justinasjaronis
+  PR94  Beer blind test ............................................ @matislovas
+  PR95  Pulled pork hot dogs for (possibly) everyone ................ @dvisockas
+  PR96  Kaip iš internete rastų webcam'ų gaminau timelapse video ...... @kvaidas
+  PR97  DIY 404-camp t-shirt ........................................... @RoCkaZ
+  PR103 Electric Smart, or fixing Mercedes's mistakes .............. @elektrinis
+  PR100 Making Art for games ..................................... @VytautasTaut
+  PR102 QWERTY's flaws and the alternatives .......................... @1gnassio
+  PR101 Sąmoningumo meditacijos (mindfulness meditation) užsiėmimas ....... Goda
+  PR106 Static vs Dynamic typing ................................... @aurelijusb
+  PR104 Paauglio smartphone: Anki + Nintendo / SEGA emuliavimas ..... @VytautasV
 
 
 --[ SOUND ]
