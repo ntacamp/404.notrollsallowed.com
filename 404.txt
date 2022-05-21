@@ -24,7 +24,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
 "intro into some framework" type of topics.
 
 
-  PR1  Intro: Camp Not Found ............................................ @pawka
+  PR1   Intro: Camp Not Found ........................................... @pawka
 
 --[ SOUND ]
 
@@ -33,8 +33,8 @@ There will be sound & traditional police visits. More info soon.
 --[ DONATIONS ]
 
   * target   : 4500€
-  * donated  : 0€
-  * status   : 0€
+  * donated  : 256€
+  * status   : -4244€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
