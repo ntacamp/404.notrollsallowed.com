@@ -50,7 +50,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR73  Programming for goverment health care - the lessons learned ...... Iryna
   PR74  Potato baking in campfire workshop ..................... Donatas Remeika
   PR77  Linux konteineriai .................................. @mantas-sidlauskas
-  PR78  Jumping into the weird end of the pool: juostinė fotografija . @anna-did
+  PR78  … . PR78 Jumping into the weird end of the pool: juostinė fotografija . @anna-did
   PR79  Kaleidoscope workshop ............................. Giedrius Markevičius
   PR80  Kaip pomidorus ant palangės be žemių auginti .................... @cirka
   PR81  Building censorship resistant services .......................... @zolia
@@ -63,7 +63,7 @@ interested in travelling stories, life journeys, startups, commercial sh*t,
   PR88  The unheard world of power line inspections .................... @RoCkaZ
   PR85  Kūdikių edukacijos metodai ............................ @TankiaiTaskuota
   PR87  Kitesurfing. Bandysiu atkalbėt ir papasakosiu kaip pradėti .... Zilvinas
-  PR89  Neuroplastiškumas - kaip hakinti smegenis sau naudinga linkme . @mokibit
+  PR89  … . PR89 Neuroplastiškumas - kaip hakinti smegenis sau naudinga linkme . @mokibit
   PR90  Kaip skaityti Taro kortas, netikint Taro kortomis .............. Emilija
   PR91  Improving your bike performance .......................... @marcorosello
   PR92  Kodėl įvyksta aviacijos avarijos. Aeroflot skrydis 1492 .... Douglas KMS
