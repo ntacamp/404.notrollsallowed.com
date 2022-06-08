@@ -70,7 +70,7 @@ format_topic() {
                 topic=sprintf("%s…", substr(topic, 1, len_topic-1))
             }
             printf "  %-5s %s ", pr, topic
-            for (i = 0; i < content_width-len_author-len_topic-1; i++) {
+            for (i = 0; i < content_width-len_author-len_topic-2; i++) {
                 printf "."
             }
             printf " %s\n", author
