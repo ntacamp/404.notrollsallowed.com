@@ -44,18 +44,10 @@ format_topic() {
         | head -1)
 
     local author
-    author=$(echo "$line" \
-        | sed -E 's/.+\.{2,}//' \
-        | awk '{ print $0 }' \
-        | awk '{ $1 = $1; print $0 }' \
-    )
+    author=$(get_author "$line")
 
     local topic
-    topic=$(echo "$line" \
-        | sed -E 's/\.{2,}.+//' \
-        | awk '{ $1 = ""; print $0 }' \
-        | awk '{ $1 = $1; print $0 }' \
-    )
+    topic=$(get_topic "$line" "$author")
 
     local page_width=80
     local pr_width=8
@@ -78,11 +70,42 @@ format_topic() {
                 topic=sprintf("%s…", substr(topic, 1, len_topic-1))
             }
             printf "  %-5s %s ", pr, topic
-            for (i = 0; i < content_width-len_author-len_topic-2; i++) {
+            for (i = 0; i < content_width-len_author-len_topic-1; i++) {
                 printf "."
             }
             printf " %s\n", author
         }'
+}
+
+get_author() {
+    local line=$1
+    local author
+    author=$(echo "$line" | \
+        grep -Eo "\@[-_a-zA-Z0-9]+$"
+    )
+    if [[ -z "$author" ]]; then
+        author=$(
+            echo "$line" \
+                | sed -E 's/.+\.{2,}//' \
+                | awk '{ print $0 }' \
+                | awk '{ $1 = $1; print $0 }'
+        )
+    fi
+
+    echo "$author"
+}
+
+get_topic() {
+    local line=$1
+    local author=$2
+    local topic
+    topic=$(echo "$line" \
+        | sed -E "s%${author}$%%" \
+        | sed -E "s/[ \. ]+$//" \
+        | awk '{ $1 = ""; print $0 }' \
+        | awk '{ $1 = $1; print $0 }' \
+    )
+    echo "$topic"
 }
 
 main() {
