@@ -31,6 +31,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR110 Experience of buying a land for summerhouse in a national park . @sigrks
   PR111 Car CAN bus hacking ................................................ @2m
   PR112 DIY Apartment smart lock ...................................... Atstovas
+  PR113 Open-Source smart home with HomeAssistant ............. @justinasjaronis
 
 
 --[ SOUND ]
