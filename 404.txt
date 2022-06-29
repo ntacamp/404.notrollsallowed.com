@@ -32,6 +32,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR111 Car CAN bus hacking ................................................ @2m
   PR112 DIY Apartment smart lock ..................................... @Atstovas
   PR113 Open-Source smart home with HomeAssistant ............. @justinasjaronis
+  PR114 Live coding visual performances ............................. @domnantas
   PR115 The Lost Generation of W (???) .............................. @kamiccolo
 
 
