@@ -33,6 +33,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR112 DIY Apartment smart lock ..................................... @Atstovas
   PR113 Open-Source smart home with HomeAssistant ............. @justinasjaronis
   PR114 Live coding visual performances ............................. @domnantas
+  PR115 Mobilaus parašo duomenų perėmimas tarp telefono ir SIM .......... @monai
 
 
 --[ SOUND ]
