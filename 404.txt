@@ -37,6 +37,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR116 Mobilaus parašo duomenų perėmimas tarp telefono ir SIM .......... @monai
   PR118 Building autonomous Airplanes and VTOLs using Ardupilot...........@vidma
 
+
 --[ SOUND ]
 
 There will be sound & traditional police visits. More info soon.
