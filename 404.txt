@@ -38,6 +38,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR117 Type systems for safer, clearer code and less tests ........... @arturaz
   PR118 Building autonomous Airplanes and VTOLs using Ardupilot ......... @vidma
   PR122 T-Shirt workshop - cutting plotter for any design ........ @aistisraudys
+  PR123 Monster Fog Machine - Istorija iki dabar.................. @makerspacelt
 
 
 --[ SOUND ]
