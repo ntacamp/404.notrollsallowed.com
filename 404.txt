@@ -37,10 +37,16 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR116 Mobilaus parašo duomenų perėmimas tarp telefono ir SIM .......... @monai
   PR117 Type systems for safer, clearer code and less tests ........... @arturaz
   PR118 Building autonomous Airplanes and VTOLs using Ardupilot ......... @vidma
+  PR121 Kids Workshop: Send Morse Code messages to your friends ....... @kareiva
   PR122 T-Shirt workshop - cutting plotter for any design ........ @aistisraudys
   PR123 Monster Fog Machine - Istorija iki dabar ................. @makerspacelt
   PR124 Ukulele 101: Why it's such a great instrument ............... @Edvinas-A
-  PR126 Making Krupnikas: Easier to produce than you'd think ......... @TadasViz
+  PR127 Practical Sentinel data and ML use for Earth monitoring......… . @zmogus
+  PR120 Mano namų patobulinimai su ESPHome + HomeAssistant .... @ViliusKraujutis
+  PR119 So you want to ride a motorcycle. Where does one start? ...... @anna-did
+  PR128 Participating (and winning) in NATO cybersecurity exercise ...... @edast
+  PR129 Lobių ir pamestų daiktų paieškos ...................... Kristijonas Mozė
+  PR126 Making Krupnikas: Easier to produce than you'd think ......... @TadasViz  
 
 
 --[ SOUND ]
@@ -51,8 +57,8 @@ There will be sound & traditional police visits. More info soon.
 --[ DONATIONS ]
 
   * target   : 4500€
-  * donated  : 3814€
-  * status   : -686€
+  * donated  : 4134€
+  * status   : -366€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
@@ -82,6 +88,8 @@ fame. Thank you!
   Artūras Šlajus ....................................................... 128 EUR
   Simonas Kareiva ...................................................... 112 EUR
   Mantas Klasavičius ................................................... 256 EUR
+  Henrik Korkuc ........................................................ 256 EUR
+  Ignas Butėnas ......................................................... 64 EUR
 
 
                                     /\_/\
