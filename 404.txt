@@ -43,6 +43,8 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR124 Ukulele 101: Why it's such a great instrument ............... @Edvinas-A
   PR127 Practical Sentinel data and ML use for Earth monitoring......… . @zmogus
   PR120 Mano namų patobulinimai su ESPHome + HomeAssistant .... @ViliusKraujutis
+  PR119 So you want to ride a motorcycle. Where does one start? ...... @anna-did
+  PR128 Participating (and winning) in NATO cybersecurity exercise ...... @edast
   PR129 Lobių ir pamestų daiktų paieškos ...................... Kristijonas Mozė
 
 
