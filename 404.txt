@@ -47,7 +47,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR128 Participating (and winning) in NATO cybersecurity exercise ...... @edast
   PR129 Lobių ir pamestų daiktų paieškos ...................... Kristijonas Mozė
   PR126 Making Krupnikas: Easier to produce than you'd think ......… . @TadasViz
-
+  PR133 Making underwater exploration drone (ROV)..................... @laukejas
 
 --[ SOUND ]
 
@@ -91,7 +91,7 @@ fame. Thank you!
   Henrik Korkuc ........................................................ 256 EUR
   Ignas Butėnas ......................................................... 64 EUR
 
-
+ 
                                     /\_/\
                                    ( o.o )
                                     > ^ <
