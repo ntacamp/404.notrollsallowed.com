@@ -9,11 +9,8 @@
 
 --[ DETAILS ]
 
-  Date ........................................................ July 21-25, 2021
+  Date ........................................................ July 27-31, 2022
   Location .............................................. Somewhere in Lithuania
-
-ATTENTION! National Certificate a.k.a. "Galimybių pasas" is required to
-participate. Because of law.
 
 
 --[ PRESENTATIONS & ACTIVITIES ]
@@ -24,72 +21,44 @@ to participate, you must contribute. Add your topic to presentations list on
 title, add short description in the PR description field and wait. If we decide
 your topic meets the spirit of 404, it will be approved. We are interested in
 hacking, making, building, coding, brewing, hobbing, art, workshops. We are not
-interested in travelling stories, life journeys, startups, commercial sh*t,
+interested in travel stories, life journeys, startups, commercial sh*t,
 "intro into some framework" type of topics.
 
 
-  PR1  Intro: Camp Not Found ............................................ @pawka
-  PR52 Ham radio: flying a high altitude balloon around the Earth ..... @kareiva
-  PR53 Building mechanical keyboards .................................... @pawka
-  PR54 ID kortelės el. parašo aplikacija (-os): veikimas ir klaidos ..... @monai
-  PR55 Mini CNC upgrade'inimas spalvotųjų metalų apdirbimui ......... @richardas
-  PR56 Keyboard hacking. (custom layout, remaps, automation) .... @MindScriptAct
-  PR57 Insane Startup Growth Hacks ..................................... @maskas
-  PR58 How to be a great GM, the art of cooperative storytelling ... @saint66735
-  PR59 Youtube is hard. 1yr experience .......................... @vandalpaulius
-  PR60 Workshop for kids - laser cut toys, bracelets ............. @aistisraudys
-  PR61 Kaip atradau, jog esu idiotas ir rekomenduočiau tai visiems .... @arturaz
-  PR62 Italo (LADA automobilio) nuotykiai SSRS .......................... Justas
-  PR64 Making maps using a consumer drone ............................ @motiejus
-  PR62 Dirbtuvės vaikams - lipdukų gamyba .............................. @sigrks
-  PR68 Kaip nustoti žudyti savo fikusą ................................ @golceva
-  PR69 Išmaniai išmanūs namai nerašant kodo ................................ @2m
-  PR70 Lessons learned during NATO cybersecurity exercise ............... @edast
-  PR71 Alternate reality game - what is it? ...................... Agota Foxtail
-  PR72 Tensegrity Structures Workshop ................................. @cliptic
-  PR73 Programming for goverment health care - the lessons learned ....... Iryna
-  PR74 Potato baking in campfire workshop ...................... Donatas Remeika
-  PR77 Linux konteineriai ................................... @mantas-sidlauskas
-  PR78 Jumping into the weird end of the pool: juostinė fotografija .. @anna-did
-  PR79 Kaleidoscope workshop .............................. Giedrius Markevičius
-  PR80 Kaip pomidorus ant palangės be žemių auginti ..................... @cirka
-  PR81 Building censorship resistant services ........................... @zolia
-  PR75 Monster Fog Machine is Back! ................... Martynas ir Renardas KMS
-  PR76 Miško kartingas gyvai ...................................... Renardas KMS
-  PR82 Alaus protmūšis ............................................... @kuusaite
-  PR83 Mysterious Life Under Microscope .............................. @VilmaKMS
-  PR84 Sonic Pi, arba kaip programuotojai gali groti su kompu ...... @aurelijusb
-  PR86 34 klavišų klaviatūra .......................................... @daliusd
-  PR88 The unheard world of power line inspections ..................... @RoCkaZ
-  PR85 Kūdikių edukacijos metodai ............................. @TankiaiTaskuota
-  PR87 Kitesurfing. Bandysiu atkalbėt ir papasakosiu kaip pradėti ..... Zilvinas
-  PR89 Neuroplastiškumas - kaip hakinti smegenis sau naudinga linkme .. @mokibit
-  PR90 Kaip skaityti Taro kortas, netikint Taro kortomis ............... Emilija
-  PR91 Improving your bike performance ........................... @marcorosello
-  PR92 Kodėl įvyksta aviacijos avarijos. Aeroflot skrydis 1492 ..... Douglas KMS
-  PR93 OpenBCI: Open-source Brain to Computer interface ....... @justinasjaronis
-  PR94 Beer blind test ............................................. @matislovas
-  PR95 Pulled pork hot dogs for (possibly) everyone ................. @dvisockas
-  PR96 Kaip iš internete rastų webcam'ų gaminau timelapse video ....... @kvaidas
-  PR97 DIY 404-camp t-shirt ............................................ @RoCkaZ
+  PR1   Intro: Camp Not Found ........................................... @pawka
+  PR108 Myths and truths about hiking gear and prep: what I learned… . @EgleSilk
+  PR109 Photography hacks for begginers to make better pictures ....... @dainora
+  PR110 Experience of buying a land for summerhouse in a national park . @sigrks
+  PR111 Car CAN bus hacking ................................................ @2m
+  PR112 DIY Apartment smart lock ..................................... @Atstovas
+  PR113 Open-Source smart home with HomeAssistant ............. @justinasjaronis
+  PR114 Live coding visual performances ............................. @domnantas
+  PR115 Generation of W (Wireless Tech and Communities 20 yrs ago) .. @kamiccolo
+  PR116 Mobilaus parašo duomenų perėmimas tarp telefono ir SIM .......... @monai
+  PR117 Type systems for safer, clearer code and less tests ........... @arturaz
+  PR118 Building autonomous Airplanes and VTOLs using Ardupilot ......... @vidma
+  PR121 Kids Workshop: Send Morse Code messages to your friends ....... @kareiva
+  PR122 T-Shirt workshop - cutting plotter for any design ........ @aistisraudys
+  PR123 Monster Fog Machine - Istorija iki dabar ................. @makerspacelt
+  PR124 Ukulele 101: Why it's such a great instrument ............... @Edvinas-A
+  PR127 Practical Sentinel data and ML use for Earth monitoring......… . @zmogus
+  PR120 Mano namų patobulinimai su ESPHome + HomeAssistant .... @ViliusKraujutis
+  PR119 So you want to ride a motorcycle. Where does one start? ...... @anna-did
+  PR128 Participating (and winning) in NATO cybersecurity exercise ...... @edast
+  PR129 Lobių ir pamestų daiktų paieškos ...................... Kristijonas Mozė
+  PR126 Making Krupnikas: Easier to produce than you'd think ......… . @TadasViz
 
 
 --[ SOUND ]
 
-In the true spirit of the camp, there will be a variety of sounds, and we already have some traditions. We'll start firmly on Thursday with sweat-inducing ravey sounds while contemplating what we have right now; as you know, there is no techno on a dead planet.
-
-After the kick-off of the sessions on Friday, we'll open the stage with the "synths corner" to cater to the most ornate listener with the endless stream of dissonant bleeps and bloops. One thing, though - no succulents will be allowed near the vicinity of synths.
-
-Finally, on Saturday, we'll break the marathon of the talks sessions in the evening to bring you more relaxing sounds for the last evening in the camp. Come with a sleeping bag if you're not afraid to be absorbed in the sonic journey emanating from the mist.
-
-Timetable: TBA
+There will be sound & traditional police visits. More info soon.
 
 
 --[ DONATIONS ]
 
   * target   : 4500€
-  * donated  : 4105€
-  * status   : -395€
+  * donated  : 4134€
+  * status   : -366€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
@@ -103,35 +72,24 @@ fame. Thank you!
 
 
   VšĮ "Programuotojai" ................................................. 256 EUR
-  Andrius Minkevičius .................................................. 404 EUR
-  Simonas Kareiva ...................................................... 101 EUR
-  Paulius Podolskis .................................................... 256 EUR
-  Albertas Mickėnas .................................................... 127 EUR
-  Ričardas Leščinskas ....................................................69 EUR
-  Mangirdas Skripka ......................................................69 EUR
-  Henrik Korkuc ........................................................ 200 EUR
-  Mantas Klasavičius ................................................... 101 EUR
-  Artūras Šlajus ........................................................ 64 EUR
-  Vaidas Talačka ........................................................ 21 EUR
+  Žilvinas Vaiciukevičius .............................................. 128 EUR
+  Kareiva Simonas ...................................................... 144 EUR
   Povilas Balzaravičius ................................................ 256 EUR
+  Paulius Podolskis .................................................... 256 EUR
   Žilvinas Kuusas ...................................................... 256 EUR
-  Martynas Jonaitis ..................................................... 20 EUR
   Petras Baukys ........................................................ 256 EUR
-  Donatas Remeika ...................................................... 101 EUR
-  Fostral .............................................................. 256 EUR
+  Andrius Minkevičius .................................................. 404 EUR
+  Audrius Zujus ........................................................ 666 EUR
+  Vilius Kraujutis ...................................................... 42 EUR
+  Andrius Jankevičius (Fostral) ........................................ 302 EUR
+  Mindaugas Liubinas .................................................... 32 EUR
+  Łukasz Szczęsny ...................................................... 256 EUR
+  Vilma Kazakauskė ...................................................... 64 EUR
+  Artūras Šlajus ....................................................... 128 EUR
+  Simonas Kareiva ...................................................... 112 EUR
+  Mantas Klasavičius ................................................... 256 EUR
+  Henrik Korkuc ........................................................ 256 EUR
   Ignas Butėnas ......................................................... 64 EUR
-  Bernotas Marijus ...................................................... 73 EUR
-  Antanas Masevičius ................................................... 128 EUR
-  Karolina Štreimikytė .................................................. 40 EUR
-  Kazakauskė Vilma ...................................................... 66 EUR
-  Aispeco UAB .......................................................... 512 EUR
-  Rosello Estravis Marco Antonio ........................................ 64 EUR
-  Gasiūnas Žilvinas ..................................................... 70 EUR
-  Mykolas Kunevičius .................................................... 42 EUR
-  Jurgis Pralgauskis .................................................... 42 EUR
-  Aurelijus Banelis .................................................... 128 EUR
-  Živilė Katauskė ...................................................... 101 EUR
-  Tadas Kleinauskas .................................................... 100 EUR
 
 
                                     /\_/\
