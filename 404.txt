@@ -48,7 +48,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR129 Lobių ir pamestų daiktų paieškos ...................... Kristijonas Mozė
   PR126 Making Krupnikas: Easier to produce than you'd think ......… . @TadasViz
   PR130 Deconstructing 'The Zen of Python'" ............................ @aidiss
-  PR133 Making underwater exploration drone (ROV)..................... @laukejas
+  PR133 Making underwater exploration drone (ROV) .................... @laukejas
 
 
 --[ SOUND ]
