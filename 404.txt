@@ -52,6 +52,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR133 Making underwater exploration drone (ROV) .................... @laukejas
   PR134 Gaminsiu augalų laistymo robotą, kiek tai gali būti sudėtinga? .. @cirka
   PR135 Žiedinė ekonomika arba kaip dariau akumų banką ......... @ijuchneviciute
+  PR136 Netikėti pastebėjimai perkuriant 2D animacija į 3D ......... @saint66735
   PR137 Gaminau aš CNC stakles .............................. Giedrius Didžbanis
 
 
