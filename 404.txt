@@ -54,6 +54,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR135 Žiedinė ekonomika arba kaip dariau akumų banką ......... @ijuchneviciute
   PR136 Netikėti pastebėjimai perkuriant 2D animacija į 3D ......... @saint66735
   PR137 Gaminau aš CNC stakles .............................. Giedrius Didžbanis
+  PR138 Aerodynamics for Dummies ....................................... Douglas
 
 
 --[ SOUND ]
