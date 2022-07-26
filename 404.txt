@@ -87,8 +87,8 @@ by Peverelist handy.
 --[ DONATIONS ]
 
   * target   : 5500€
-  * donated  : 4670€
-  * status   : -830€
+  * donated  : 4712€
+  * status   : -788€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
