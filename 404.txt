@@ -86,7 +86,7 @@ by Peverelist handy.
 
 --[ DONATIONS ]
 
-  * target   : 5000€
+  * target   : 5500€
   * donated  : 4670€
   * status   : -330€
 
