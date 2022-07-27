@@ -66,6 +66,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR147 Activity: Racing simulator + VR ............................... DomasKMS
   PR146 Praktiniai tikrovės formavimo aspektai ......................... @Miceuz
   PR150 Workshop for parents and kids: Attachement play .............. @mari8sau
+  PR151 Mobilus internetas miške .................................... @gediminasgu
 
 
 --[ SOUND ]
