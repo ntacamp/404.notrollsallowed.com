@@ -25,7 +25,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
 "intro into some framework" type of topics.
 
 
-  PR1   Intro: Camp Not Found ........................................... @pawka
+  PR149 Intro: No Tolls Allowed #10 ..................................... @pawka
   PR108 Myths and truths about hiking gear and prep: what I learned… . @EgleSilk
   PR109 Photography hacks for begginers to make better pictures ....... @dainora
   PR110 Experience of buying a land for summerhouse in a national park . @sigrks
@@ -62,7 +62,10 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR143 Workshop: Piešimo pagrindai (ką mokė dailės mokykloj) ......... Kristina
   PR144 VR on the Web ................................................ @cheloveq
   PR145 Workshop: Jam. The one with instruments. Musical ones ....... @Palivonas
+  PR148 Taksofonų eros pabaiga Lietuvoje (ir kas iš to liko) .......... @ABLomas
+  PR147 Activity: Racing simulator + VR ............................... DomasKMS
   PR146 Praktiniai tikrovės formavimo aspektai ..........................@Miceuz
+
 
 --[ SOUND ]
 
@@ -86,9 +89,9 @@ by Peverelist handy.
 
 --[ DONATIONS ]
 
-  * target   : 4500€
-  * donated  : 4266€
-  * status   : -234€
+  * target   : 5500€
+  * donated  : 4712€
+  * status   : -788€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
@@ -121,6 +124,8 @@ fame. Thank you!
   Ignas Butėnas ......................................................... 64 EUR
   Tadas Kleinauskas .................................................... 100 EUR
   Martynas Jonaitis ..................................................... 32 EUR
+  Shift4 Payments Lithuania ............................................ 404 EUR
+  Andrius Palivonas ..................................................... 42 EUR
 
 
                                     /\_/\
