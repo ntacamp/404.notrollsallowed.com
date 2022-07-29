@@ -55,7 +55,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR136 Netikėti pastebėjimai perkuriant 2D animacija į 3D ......... @saint66735
   PR137 Gaminau aš CNC stakles .............................. Giedrius Didžbanis
   PR138 Aerodynamics for Dummies ....................................... Douglas
-  PR139 Zero push notifications ......................................... @wSuFF
+  PR139 Zero push notifications ..................................... @podolskis
   PR140 Boppies: Evolving "Intelligent" Creatures ................... @LiquidFun
   PR141 Benzingalvis vs. Tesla: pirmieji nuotykiai ..................... @kuusas
   PR142 Workshop: Shall we play a game? D&D pradedantiesiems .......... @singler
