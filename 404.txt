@@ -60,7 +60,6 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR141 Benzingalvis vs. Tesla: pirmieji nuotykiai ..................... @kuusas
   PR142 Workshop: Shall we play a game? D&D pradedantiesiems .......... @singler
   PR143 Workshop: Piešimo pagrindai (ką mokė dailės mokykloj) ......... Kristina
-  PR144 VR on the Web ................................................ @cheloveq
   PR145 Workshop: Jam. The one with instruments. Musical ones ....... @Palivonas
   PR148 Taksofonų eros pabaiga Lietuvoje (ir kas iš to liko) .......... @ABLomas
   PR147 Activity: Racing simulator + VR ............................... DomasKMS
@@ -71,6 +70,7 @@ interested in travel stories, life journeys, startups, commercial sh*t,
   PR153 Rock climbing. Kaip ir kur pasikabinti gyvenimą ant siūlo .... @kindreal
   PR154 DIY Coconut body scrub / Kokosų kūno šveitiklio gamyba ..... Sandra G-tė
   PR158 How to do a good massage, tips and tricks (workshop) ........ @PauliusPo
+  PR157 Activity: Riding Electric Skateboards ........................ @cheloveq
 
 
 --[ SOUND ]
