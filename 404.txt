@@ -97,7 +97,7 @@ by Peverelist handy.
 
 --[ DONATIONS ]
 
-  * target   : 5500€
+  * target   : 5510€
   * donated  : 6108€
   * status   : 608€
 
@@ -143,6 +143,7 @@ fame. Thank you!
   Vytautas Valatka ...................................................... 64 EUR
   Živilė Katauskė ....................................................... 50 EUR
   Mantas Šidlauskas .................................................... 256 EUR
+  Pranas Sasnauskas ...................................................... 8 EUR
   
 
 
