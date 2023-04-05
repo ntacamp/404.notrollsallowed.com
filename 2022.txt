@@ -1,0 +1,156 @@
+                             _  _    ___  _  _
+                            | || |  / _ \| || |
+                            | || |_| | | | || |_
+                            |__   _| | | |__   _|
+                               | | | |_| |  | |
+                               |_|  \___/   |_|
+                                Camp Not Found
+
+
+--[ DETAILS ]
+
+  Date ........................................................ July 27-31, 2022
+  Location .............................................. Somewhere in Lithuania
+
+
+--[ PRESENTATIONS & ACTIVITIES ]
+
+There will be one stage. Common stage. Named "Common sense stage". If you want
+to participate, you must contribute. Add your topic to presentations list on
+404.txt file [1] and open a pull request. Set topic title or workshop name as PR
+title, add short description in the PR description field and wait. If we decide
+your topic meets the spirit of 404, it will be approved. We are interested in
+hacking, making, building, coding, brewing, hobbing, art, workshops. We are not
+interested in travel stories, life journeys, startups, commercial sh*t,
+"intro into some framework" type of topics.
+
+
+  PR149 Intro: No Tolls Allowed #10 ..................................... @pawka
+  PR108 Myths and truths about hiking gear and prep: what I learned… . @EgleSilk
+  PR109 Photography hacks for begginers to make better pictures ....... @dainora
+  PR110 Experience of buying a land for summerhouse in a national park . @sigrks
+  PR111 Car CAN bus hacking ................................................ @2m
+  PR112 DIY Apartment smart lock ..................................... @Atstovas
+  PR113 Open-Source smart home with HomeAssistant ............. @justinasjaronis
+  PR114 Live coding visual performances ............................. @domnantas
+  PR115 Generation of W (Wireless Tech and Communities 20 yrs ago) .. @kamiccolo
+  PR116 Mobilaus parašo duomenų perėmimas tarp telefono ir SIM .......... @monai
+  PR117 Type systems for safer, clearer code and less tests ........... @arturaz
+  PR118 Building autonomous Airplanes and VTOLs using Ardupilot ......... @vidma
+  PR121 Kids Workshop: Send Morse Code messages to your friends ....... @kareiva
+  PR122 T-Shirt workshop - cutting plotter for any design ........ @aistisraudys
+  PR123 Monster Fog Machine - Istorija iki dabar ................. @makerspacelt
+  PR124 Ukulele 101: Why it's such a great instrument ............... @Edvinas-A
+  PR127 Practical Sentinel data and ML use for Earth monitoring......… . @zmogus
+  PR120 Mano namų patobulinimai su ESPHome + HomeAssistant .... @ViliusKraujutis
+  PR119 So you want to ride a motorcycle. Where does one start? ...... @anna-did
+  PR128 Participating (and winning) in NATO cybersecurity exercise ...... @edast
+  PR129 Lobių ir pamestų daiktų paieškos ...................... Kristijonas Mozė
+  PR126 Making Krupnikas: Easier to produce than you'd think ......… . @TadasViz
+  PR130 Deconstructing 'The Zen of Python'" ............................ @aidiss
+  PR131 Ukrainiečiai Lietuvoje: pabėgėlių centro kasdienybė .............. Aistė
+  PR133 Making underwater exploration drone (ROV) .................... @laukejas
+  PR134 Gaminsiu augalų laistymo robotą, kiek tai gali būti sudėtinga? .. @cirka
+  PR135 Žiedinė ekonomika arba kaip dariau akumų banką ......... @ijuchneviciute
+  PR136 Netikėti pastebėjimai perkuriant 2D animacija į 3D ......... @saint66735
+  PR137 Gaminau aš CNC stakles .............................. Giedrius Didžbanis
+  PR138 Aerodynamics for Dummies ....................................... Douglas
+  PR139 Zero push notifications ..................................... @podolskis
+  PR140 Boppies: Evolving "Intelligent" Creatures ................... @LiquidFun
+  PR141 Benzingalvis vs. Tesla: pirmieji nuotykiai ..................... @kuusas
+  PR142 Workshop: Shall we play a game? D&D pradedantiesiems .......... @singler
+  PR143 Workshop: Piešimo pagrindai (ką mokė dailės mokykloj) ......... Kristina
+  PR145 Workshop: Jam. The one with instruments. Musical ones ....... @Palivonas
+  PR148 Taksofonų eros pabaiga Lietuvoje (ir kas iš to liko) .......... @ABLomas
+  PR147 Activity: Racing simulator + VR ............................... DomasKMS
+  PR146 Praktiniai tikrovės formavimo aspektai ......................... @Miceuz
+  PR150 Workshop for parents and kids: Attachement play .............. @mari8sau
+  PR151 Mobilus internetas miške .................................. @gediminasgu
+  PR152 How Stuff Works: LiDAR 101 + Live Demo ......................... @RoCkaZ
+  PR155 Kvietimas prisidėti - patarti oro matuoklis kickstartinti .... @Pauliaus
+  PR153 Rock climbing. Kaip ir kur pasikabinti gyvenimą ant siūlo .... @kindreal
+  PR154 DIY Coconut body scrub / Kokosų kūno šveitiklio gamyba ..... Sandra G-tė
+  PR158 How to do a good massage, tips and tricks (workshop) ........ @PauliusPo
+  PR157 Activity: Riding Electric Skateboards ........................ @cheloveq
+  PR159 My war in Ukraine .............................................. @algstn
+
+
+--[ SOUND ]
+
+We're going to kick off the sound program with the screening of the "Dusk chorus
+(2017)" movie on Thursday evening as a gentle reminder of the importance of
+stopping and simply listening. It is only timely, as the decay of Earth is only
+picking up its pace, and it seems that the only way to recall extinct species in
+the future will be by listening to these crackling field recordings from the old
+days ...
+
+Once the initial set of talks completes on Friday, we'll gradually vanish into
+the upcoming weekend mist with breezy tropical tunes and slow hypnotic rhythms.
+
+For those still in need of taking the edge off, the sound therapy on Saturday
+will pick up its pace, and we're going to temporarily leave the madness behind
+following the fast and wicked thuds into the night.
+
+Last but not least, we're going to keep the 'Dance till the police come' record
+by Peverelist handy.
+
+
+--[ DONATIONS ]
+
+  * target   : 5510€
+  * donated  : 6116€
+  * status   : 606€
+
+The event is free. Free of sponsors too. But we still spend fiat for
+infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
+to support this initiative, we accept donations. Donations are accepted before,
+during or even after the event. Though we prefer before. If bigger than targeted
+amount is collected before the event, we'll build better infrastructure. In case
+the event is canceled - we will return your donations. Bank account for
+transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose field: "Parama:
+404". Every donor is listed at the hall of fame below. For transparency and
+fame. Thank you!
+
+
+  VšĮ "Programuotojai" ................................................. 256 EUR
+  Žilvinas Vaiciukevičius .............................................. 128 EUR
+  Simonas Kareiva ...................................................... 256 EUR
+  Povilas Balzaravičius ................................................ 256 EUR
+  Paulius Podolskis .................................................... 256 EUR
+  Žilvinas Kuusas ...................................................... 256 EUR
+  Petras Baukys ........................................................ 256 EUR
+  Andrius Minkevičius .................................................. 404 EUR
+  Audrius Zujus ........................................................ 666 EUR
+  Vilius Kraujutis ...................................................... 42 EUR
+  Andrius Jankevičius (Fostral) ........................................ 302 EUR
+  Mindaugas Liubinas .................................................... 32 EUR
+  Łukasz Szczęsny ...................................................... 256 EUR
+  Vilma Kazakauskė ...................................................... 64 EUR
+  Artūras Šlajus ....................................................... 128 EUR
+  Mantas Klasavičius ................................................... 256 EUR
+  Henrik Korkuc ........................................................ 256 EUR
+  Ignas Butėnas ......................................................... 64 EUR
+  Tadas Kleinauskas .................................................... 100 EUR
+  Martynas Jonaitis ..................................................... 32 EUR
+  Shift4 Payments Lithuania ............................................ 404 EUR
+  Andrius Palivonas ..................................................... 42 EUR
+  Mykolas Kunevičius .................................................... 26 EUR
+  Aispeco UAB .......................................................... 512 EUR
+  Domantas Petrauskas ................................................... 64 EUR
+  Šimaitis Gediminas ................................................... 128 EUR
+  Ričardas Leščinskas ................................................... 40 EUR
+  Algirdas Stonys ...................................................... 256 EUR
+  Vytautas Valatka ...................................................... 64 EUR
+  Živilė Katauskė ....................................................... 50 EUR
+  Mantas Šidlauskas .................................................... 256 EUR
+  Pranas Sasnauskas ...................................................... 8 EUR
+  
+
+
+                                    /\_/\
+                                   ( o.o )
+                                    > ^ <
+
+  [1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
+
+# vim: formatoptions+=aw spell tw=80

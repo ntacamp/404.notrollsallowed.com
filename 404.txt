@@ -9,7 +9,7 @@
 
 --[ DETAILS ]
 
-  Date ........................................................ July 27-31, 2022
+  Date ........................................................ July 26-30, 2023
   Location .............................................. Somewhere in Lithuania
 
 
@@ -26,53 +26,6 @@ interested in travel stories, life journeys, startups, commercial sh*t,
 
 
   PR149 Intro: No Tolls Allowed #10 ..................................... @pawka
-  PR108 Myths and truths about hiking gear and prep: what I learned… . @EgleSilk
-  PR109 Photography hacks for begginers to make better pictures ....... @dainora
-  PR110 Experience of buying a land for summerhouse in a national park . @sigrks
-  PR111 Car CAN bus hacking ................................................ @2m
-  PR112 DIY Apartment smart lock ..................................... @Atstovas
-  PR113 Open-Source smart home with HomeAssistant ............. @justinasjaronis
-  PR114 Live coding visual performances ............................. @domnantas
-  PR115 Generation of W (Wireless Tech and Communities 20 yrs ago) .. @kamiccolo
-  PR116 Mobilaus parašo duomenų perėmimas tarp telefono ir SIM .......... @monai
-  PR117 Type systems for safer, clearer code and less tests ........... @arturaz
-  PR118 Building autonomous Airplanes and VTOLs using Ardupilot ......... @vidma
-  PR121 Kids Workshop: Send Morse Code messages to your friends ....... @kareiva
-  PR122 T-Shirt workshop - cutting plotter for any design ........ @aistisraudys
-  PR123 Monster Fog Machine - Istorija iki dabar ................. @makerspacelt
-  PR124 Ukulele 101: Why it's such a great instrument ............... @Edvinas-A
-  PR127 Practical Sentinel data and ML use for Earth monitoring......… . @zmogus
-  PR120 Mano namų patobulinimai su ESPHome + HomeAssistant .... @ViliusKraujutis
-  PR119 So you want to ride a motorcycle. Where does one start? ...... @anna-did
-  PR128 Participating (and winning) in NATO cybersecurity exercise ...... @edast
-  PR129 Lobių ir pamestų daiktų paieškos ...................... Kristijonas Mozė
-  PR126 Making Krupnikas: Easier to produce than you'd think ......… . @TadasViz
-  PR130 Deconstructing 'The Zen of Python'" ............................ @aidiss
-  PR131 Ukrainiečiai Lietuvoje: pabėgėlių centro kasdienybė .............. Aistė
-  PR133 Making underwater exploration drone (ROV) .................... @laukejas
-  PR134 Gaminsiu augalų laistymo robotą, kiek tai gali būti sudėtinga? .. @cirka
-  PR135 Žiedinė ekonomika arba kaip dariau akumų banką ......... @ijuchneviciute
-  PR136 Netikėti pastebėjimai perkuriant 2D animacija į 3D ......... @saint66735
-  PR137 Gaminau aš CNC stakles .............................. Giedrius Didžbanis
-  PR138 Aerodynamics for Dummies ....................................... Douglas
-  PR139 Zero push notifications ..................................... @podolskis
-  PR140 Boppies: Evolving "Intelligent" Creatures ................... @LiquidFun
-  PR141 Benzingalvis vs. Tesla: pirmieji nuotykiai ..................... @kuusas
-  PR142 Workshop: Shall we play a game? D&D pradedantiesiems .......... @singler
-  PR143 Workshop: Piešimo pagrindai (ką mokė dailės mokykloj) ......... Kristina
-  PR145 Workshop: Jam. The one with instruments. Musical ones ....... @Palivonas
-  PR148 Taksofonų eros pabaiga Lietuvoje (ir kas iš to liko) .......... @ABLomas
-  PR147 Activity: Racing simulator + VR ............................... DomasKMS
-  PR146 Praktiniai tikrovės formavimo aspektai ......................... @Miceuz
-  PR150 Workshop for parents and kids: Attachement play .............. @mari8sau
-  PR151 Mobilus internetas miške .................................. @gediminasgu
-  PR152 How Stuff Works: LiDAR 101 + Live Demo ......................... @RoCkaZ
-  PR155 Kvietimas prisidėti - patarti oro matuoklis kickstartinti .... @Pauliaus
-  PR153 Rock climbing. Kaip ir kur pasikabinti gyvenimą ant siūlo .... @kindreal
-  PR154 DIY Coconut body scrub / Kokosų kūno šveitiklio gamyba ..... Sandra G-tė
-  PR158 How to do a good massage, tips and tricks (workshop) ........ @PauliusPo
-  PR157 Activity: Riding Electric Skateboards ........................ @cheloveq
-  PR159 My war in Ukraine .............................................. @algstn
 
 
 --[ SOUND ]
@@ -97,9 +50,9 @@ by Peverelist handy.
 
 --[ DONATIONS ]
 
-  * target   : 5510€
-  * donated  : 6116€
-  * status   : 606€
+  * target   : 6000€
+  * donated  : 1024€
+  * status   : -4976€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 4500€. If you want
@@ -113,37 +66,9 @@ fame. Thank you!
 
 
   VšĮ "Programuotojai" ................................................. 256 EUR
-  Žilvinas Vaiciukevičius .............................................. 128 EUR
-  Simonas Kareiva ...................................................... 256 EUR
   Povilas Balzaravičius ................................................ 256 EUR
   Paulius Podolskis .................................................... 256 EUR
   Žilvinas Kuusas ...................................................... 256 EUR
-  Petras Baukys ........................................................ 256 EUR
-  Andrius Minkevičius .................................................. 404 EUR
-  Audrius Zujus ........................................................ 666 EUR
-  Vilius Kraujutis ...................................................... 42 EUR
-  Andrius Jankevičius (Fostral) ........................................ 302 EUR
-  Mindaugas Liubinas .................................................... 32 EUR
-  Łukasz Szczęsny ...................................................... 256 EUR
-  Vilma Kazakauskė ...................................................... 64 EUR
-  Artūras Šlajus ....................................................... 128 EUR
-  Mantas Klasavičius ................................................... 256 EUR
-  Henrik Korkuc ........................................................ 256 EUR
-  Ignas Butėnas ......................................................... 64 EUR
-  Tadas Kleinauskas .................................................... 100 EUR
-  Martynas Jonaitis ..................................................... 32 EUR
-  Shift4 Payments Lithuania ............................................ 404 EUR
-  Andrius Palivonas ..................................................... 42 EUR
-  Mykolas Kunevičius .................................................... 26 EUR
-  Aispeco UAB .......................................................... 512 EUR
-  Domantas Petrauskas ................................................... 64 EUR
-  Šimaitis Gediminas ................................................... 128 EUR
-  Ričardas Leščinskas ................................................... 40 EUR
-  Algirdas Stonys ...................................................... 256 EUR
-  Vytautas Valatka ...................................................... 64 EUR
-  Živilė Katauskė ....................................................... 50 EUR
-  Mantas Šidlauskas .................................................... 256 EUR
-  Pranas Sasnauskas ...................................................... 8 EUR
   
 
 
