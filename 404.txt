@@ -9,7 +9,7 @@
 
 --[ DETAILS ]
 
-  Date ........................................................ July 26-30, 2023
+  Date . .............................................. Wednesday - Sunday, 2023
   Location .............................................. Somewhere in Lithuania
 
 
@@ -21,16 +21,16 @@ to participate, you must contribute. Add your topic to presentations list on
 title, add short description in the PR description field and wait. If we decide
 your topic meets the spirit of 404, it will be approved. We are interested in
 hacking, making, building, coding, brewing, hobbing, art, workshops. We are not
-interested in travel stories, life journeys, startups, commercial sh*t,
-"intro into some framework" type of topics.
+interested in travel stories, life journeys, startups, commercial sh*t, "intro
+into some framework" type of topics.
 
 
-  PR149 Intro: No Tolls Allowed #10 ..................................... @pawka
+  PR163 Intro: No Tolls Allowed #10 ..................................... @pawka
 
 
 --[ SOUND ]
 
-Still working on the plan!
+There will be sound & traditional police visits. More info soon.
 
 
 --[ DONATIONS ]
@@ -56,7 +56,7 @@ fame. Thank you!
   Žilvinas Kuusas ...................................................... 256 EUR
   bruno ................................................................ 256 EUR
   Petras Baukys ........................................................ 256 EUR
-  
+
 
 
                                     /\_/\
