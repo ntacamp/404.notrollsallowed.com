@@ -26,6 +26,7 @@ into some framework" type of topics.
 
 
   PR163 Intro: No Tolls Allowed #11 ..................................... @pawka
+  PR164 Cyber Security career patterns .................................. @sigrks
 
 
 --[ SOUND ]
