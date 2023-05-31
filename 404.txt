@@ -28,7 +28,7 @@ into some framework" type of topics.
   PR163 Intro: No Tolls Allowed #11 ..................................... @pawka
   PR165 Extending C#: How we got tired of boilerplate and added macros  @arturaz
   PR166 Running image generation locally 101 .......................... @singler
-  PR167 Connecting your grandma's rotary phone to modern PSTNs ........ @kareiva
+  PR168 Connecting your grandma's rotary phone to modern PSTNs ........ @kareiva
 
 
 --[ SOUND ]
