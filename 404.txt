@@ -30,6 +30,8 @@ into some framework" type of topics.
   PR166 Running image generation locally 101 .......................... @singler
   PR168 Connecting your grandma's rotary phone to modern PSTNs ........ @kareiva
   PR169 Making centimeter accuracy lawn mower robot ........................ @2m
+  PR170 Activity: Play with Flight simulator with VR glasses ............ @vidma
+  PR170 Aerodynamics 101 (efficiency optimization of model Airplanes) ... @vidma
 
 
 --[ SOUND ]
