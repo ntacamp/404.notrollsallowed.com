@@ -29,6 +29,7 @@ into some framework" type of topics.
   PR165 Extending C#: How we got tired of boilerplate and added macros  @arturaz
   PR166 Running image generation locally 101 .......................... @singler
   PR168 Connecting your grandma's rotary phone to modern PSTNs ........ @kareiva
+  PR169 Making centimeter accuracy lawn mower robot ........................ @2m
 
 
 --[ SOUND ]
