@@ -34,6 +34,7 @@ into some framework" type of topics.
   PR170 Aerodynamics 101 (efficiency optimization of model Airplanes) ... @vidma
   PR171 ATK 2021 kortelės programa ir jos funkcionalumai ................ @monai
   PR172 Workshop: compare cheap and expensive soldering irons ......... Tovaldas
+  PR174 Digital photos: How much reality is left there ............. @aurelijusb
 
 
 --[ SOUND ]
