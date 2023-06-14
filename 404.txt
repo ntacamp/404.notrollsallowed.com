@@ -35,7 +35,7 @@ into some framework" type of topics.
   PR171 ATK 2021 kortelės programa ir jos funkcionalumai ................ @monai
   PR172 Workshop: compare cheap and expensive soldering irons ......... Tovaldas
   PR174 Digital photos: How much reality is left there ............. @aurelijusb
-  PR173 Sniper precision shooting for nerds ............................  @bruno
+  PR173 Sniper precision shooting for nerds ............................. @bruno
 
 
 --[ SOUND ]
