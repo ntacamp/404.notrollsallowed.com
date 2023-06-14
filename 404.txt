@@ -32,7 +32,10 @@ into some framework" type of topics.
   PR169 Making centimeter accuracy lawn mower robot ........................ @2m
   PR170 Activity: Play with Flight simulator with VR glasses ............ @vidma
   PR170 Aerodynamics 101 (efficiency optimization of model Airplanes) ... @vidma
-  PR174 Becoming a sniper - how ballistics are similar to coding&&bizdev  @bruno
+  PR171 ATK 2021 kortelės programa ir jos funkcionalumai ................ @monai
+  PR172 Workshop: compare cheap and expensive soldering irons ......... Tovaldas
+  PR174 Digital photos: How much reality is left there ............. @aurelijusb
+  PR173 Sniper precision shooting for nerds ............................  @bruno
 
 
 --[ SOUND ]
@@ -43,8 +46,8 @@ There will be sound & traditional police visits. More info soon.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 2090€
-  * status   : -3910€
+  * donated  : 2474€
+  * status   : -3526€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 6000€. If you want
@@ -65,6 +68,8 @@ fame. Thank you!
   Petras Baukys ........................................................ 256 EUR
   Vilius Kraujutis....................................................... 42 EUR
   Aispeco UAB .......................................................... 512 EUR
+  Henrik Korkuc ........................................................ 256 EUR
+  Artūras Šlajus ....................................................... 128 EUR
 
 
                                     /\_/\
