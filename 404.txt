@@ -36,7 +36,7 @@ into some framework" type of topics.
   PR172 Workshop: compare cheap and expensive soldering irons ......... Tovaldas
   PR174 Digital photos: How much reality is left there ............. @aurelijusb
   PR173 Sniper precision shooting for nerds ............................. @bruno
-  PR174 Elektroniniai muzikos instrumentai 90-ųjų DIY scenoje .......... Marukas
+  PR176 Elektroniniai muzikos instrumentai 90-ųjų DIY scenoje .......... Marukas
 
 
 --[ SOUND ]
