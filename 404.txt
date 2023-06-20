@@ -38,7 +38,7 @@ into some framework" type of topics.
   PR173 Sniper precision shooting for nerds ............................. @bruno
   PR175 Teisės į intelektinę nuosavybę, kodėl robotas negali būti autorius . @KJ
   PR176 Elektroniniai muzikos instrumentai 90-ųjų DIY scenoje .......... Marukas
-  PR177 Attraction: Bookshelf of old IT-related books ........… . Renardas (KMS)
+  PR177 Attraction: Bookshelf of old IT-related books ....… . … . Renardas (KMS)
 
 
 --[ SOUND ]
@@ -49,8 +49,8 @@ There will be sound & traditional police visits. More info soon.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 2474€
-  * status   : -3526€
+  * donated  : 2878€
+  * status   : -3122€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 6000€. If you want
