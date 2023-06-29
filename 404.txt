@@ -41,6 +41,7 @@ into some framework" type of topics.
   PR177 Attraction: Bookshelf of old IT-related books ............. Renardas KMS
   PR178 Rubikas kubikas .................................................. Jonas
   PR179 Moksliukiškas požiūris į paveldo restauraciją (Čiulai) .......... Aistis
+  PR164 I know zero about hacking. Can I work in cybersecurity? ........ @sigrks
   PR181 Introduction to gliding. Practical considerations ........... @domnantas
 
 
