@@ -36,7 +36,7 @@ into some framework" type of topics.
   PR172 Workshop: compare cheap and expensive soldering irons ......... Tovaldas
   PR174 Digital photos: How much reality is left there ............. @aurelijusb
   PR173 Sniper precision shooting for nerds ............................. @bruno
-  PR175 Teisės į intelektinę nuosavybę, kodėl robotas negali būti autorius . @KJ
+  PR175 Teisės į intelektinę nuosavybę, kodėl robotas negali būti autorius .. LV
   PR176 Elektroniniai muzikos instrumentai 90-ųjų DIY scenoje .......... Marukas
   PR177 Attraction: Bookshelf of old IT-related books ............. Renardas KMS
   PR178 Rubikas kubikas .................................................. Jonas
@@ -45,6 +45,7 @@ into some framework" type of topics.
   PR181 Introduction to gliding. Practical considerations ........... @domnantas
   PR182 Scuba Diving 101: Practical Intro into Underwater Exploration .. @rockaz
   PR183 Design Your Own ISA and Build a (Virtual) CPU .................... @rtfb
+  PR184 My little Shiitake farm ...................................... @anna-did 
 
 
 --[ SOUND ]
