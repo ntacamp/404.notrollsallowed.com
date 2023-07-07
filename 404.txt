@@ -45,6 +45,7 @@ into some framework" type of topics.
   PR181 Introduction to gliding. Practical considerations ........... @domnantas
   PR182 Scuba Diving 101: Practical Intro into Underwater Exploration .. @rockaz
   PR183 Design Your Own ISA and Build a (Virtual) CPU .................... @rtfb
+  PR185 Electric skateboard riding workshop .......................... @cheloveq
 
 
 --[ SOUND ]
