@@ -38,7 +38,6 @@ into some framework" type of topics.
   PR173 Sniper precision shooting for nerds ............................. @bruno
   PR175 Teisės į intelektinę nuosavybę, kodėl robotas negali būti autorius .. LV
   PR176 Elektroniniai muzikos instrumentai 90-ųjų DIY scenoje .......... Marukas
-  PR177 Attraction: Bookshelf of old IT-related books … . … . … . Renardas (KMS)
   PR177 Attraction: Bookshelf of old IT-related books ............. Renardas KMS
   PR178 Rubikas kubikas .................................................. Jonas
   PR179 Moksliukiškas požiūris į paveldo restauraciją (Čiulai) .......... Aistis
@@ -85,13 +84,13 @@ fame. Thank you!
   Shift4 Payments Lithuania ............................................ 404 EUR
   Tadas Kleinauskas .................................................... 256 EUR
   Simonas Kareiva ...................................................... 256 EUR
-  Anna Didžbanienė ... 42 EUR
-  Tomas Leščinskas ... 256 EUR
-  Gediminas Guoba ... 256 EUR
-  Aurelijus Banelis ... 128 EUR
-  Linas Minkevičius ... 64 EUR
-  Artūras Raižys ... 256 EUR
-  Mantas Šidlauskas ... 256 EUR
+  Anna Didžbanienė ...................................................... 42 EUR
+  Tomas Leščinskas ..................................................... 256 EUR
+  Gediminas Guoba ...................................................... 256 EUR
+  Aurelijus Banelis .................................................... 128 EUR
+  Linas Minkevičius ..................................................... 64 EUR
+  Artūras Raižys ....................................................... 256 EUR
+  Mantas Šidlauskas .................................................... 256 EUR
 
 
                                     /\_/\
