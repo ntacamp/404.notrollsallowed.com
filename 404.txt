@@ -55,9 +55,6 @@ into some framework" type of topics.
   PR190 The Art of Mini Sumo: Strategy and Skill .......... @TomasSiauliaiNights
   PR191 Home-made second generation ROV................................@laukejas
 
-[Description]
-Last summer I built the first iteration of the underwater exploration drone (ROV), which was presented in the previous NTA. Although it allowed to perform several expeditions, I soon discovered it's limitations and design flaws. I spent the next year building the second generation ROV that addresses these issues. It was a fun and educating challenge with lots of new obstacles to overcome. The new ROV features a far more robust frame, full 6-axis control, extended sensors - compass, depth, temperature, gyroscopes and accelerometers, allowing for far better navigation and research. In addition, ROV now features a gripper, dedicated controller with video feed and telemetry, is now rated to 100 meters (still limited to 62 m. - the deepest lake in Lithuania), and is now very close in it's capabilities to commercial ROVs. This presentation will be all about the technical design challenges and solutions that I engaged in during the hardware and software development, testing and integration. At the end of the presentation, we will launch an underwater expedition into the Galvė lake, and spectators will have a chance to drive this ROV themselves.
-
 
 --[ SOUND ]
 
