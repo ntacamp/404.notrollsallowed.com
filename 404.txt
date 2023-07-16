@@ -46,9 +46,13 @@ into some framework" type of topics.
   PR182 Scuba Diving 101: Practical Intro into Underwater Exploration .. @rockaz
   PR183 Design Your Own ISA and Build a (Virtual) CPU .................... @rtfb
   PR180 Hiking and camping with kids: survival guide for adults ....... @rutaisa
-  PR184 My little Shiitake farm ...................................… . @anna-did
+  PR184 My little Shiitake farm ...................................... @anna-did
   PR185 Electric skateboard riding workshop .......................... @cheloveq
+  PR186 How to music 101 ........................................... Austėja KMS
+  PR187 Ghostbusters R.T.V - cosplay inžineriškai ..................... Giedrius
+  PR188 Antweight combat robot workshop ................... @TomasSiauliaiNights
   PR189 Antweight presentation: Small Bots, Big Battles ... @TomasSiauliaiNights
+  PR190 The Art of Mini Sumo: Strategy and Skill .......... @TomasSiauliaiNights
 
 
 --[ SOUND ]
