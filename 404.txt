@@ -49,6 +49,7 @@ into some framework" type of topics.
   PR184 My little Shiitake farm ...................................... @anna-did
   PR185 Electric skateboard riding workshop .......................... @cheloveq
   PR186 How to music 101 ........................................... Austėja KMS
+  PR190 The Art of Mini Sumo: Strategy and Skill .......... @TomasSiauliaiNights
 
 
 --[ SOUND ]
