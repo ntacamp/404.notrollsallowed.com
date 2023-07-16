@@ -48,7 +48,7 @@ into some framework" type of topics.
   PR180 Hiking and camping with kids: survival guide for adults ....... @rutaisa
   PR184 My little Shiitake farm ...................................… . @anna-did
   PR185 Electric skateboard riding workshop .......................... @cheloveq
-  PR187 Antweight presentation: Small Bots, Big Battles ... @TomasSiauliaiNights
+  PR189 Antweight presentation: Small Bots, Big Battles ... @TomasSiauliaiNights
 
 --[ SOUND ]
 
