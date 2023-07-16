@@ -46,9 +46,12 @@ into some framework" type of topics.
   PR182 Scuba Diving 101: Practical Intro into Underwater Exploration .. @rockaz
   PR183 Design Your Own ISA and Build a (Virtual) CPU .................... @rtfb
   PR180 Hiking and camping with kids: survival guide for adults ....... @rutaisa
-  PR184 My little Shiitake farm ...................................… . @anna-did
+  PR184 My little Shiitake farm ...................................... @anna-did
   PR185 Electric skateboard riding workshop .......................... @cheloveq
+  PR186 How to music 101 ........................................... Austėja KMS
   PR187 Ghostbusters R.T.V - cosplay inžineriškai ..................... Giedrius
+  PR190 The Art of Mini Sumo: Strategy and Skill .......... @TomasSiauliaiNights
+
 
 --[ SOUND ]
 
@@ -58,8 +61,8 @@ There will be sound & traditional police visits. More info soon.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 5330€
-  * status   : -670€
+  * donated  : 5372€
+  * status   : -628€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 6000€. If you want
@@ -95,6 +98,7 @@ fame. Thank you!
   Mindaugs Liubinas .................................................... 128 EUR
   Melitonas ............................................................ 512 EUR
   Andrius Minkevičius ................................................... 42 EUR
+  Laurynas Alekna ....................................................... 42 EUR
 
 
                                     /\_/\
