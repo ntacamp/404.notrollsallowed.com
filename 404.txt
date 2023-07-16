@@ -51,6 +51,7 @@ into some framework" type of topics.
   PR186 How to music 101 ........................................... Austėja KMS
   PR187 Ghostbusters R.T.V - cosplay inžineriškai ..................... Giedrius
   PR188 Antweight combat robot workshop ................... @TomasSiauliaiNights
+  PR189 Antweight presentation: Small Bots, Big Battles ... @TomasSiauliaiNights
   PR190 The Art of Mini Sumo: Strategy and Skill .......... @TomasSiauliaiNights
 
 
