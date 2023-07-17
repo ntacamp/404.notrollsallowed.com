@@ -53,6 +53,7 @@ into some framework" type of topics.
   PR188 Antweight combat robot workshop ................... @TomasSiauliaiNights
   PR189 Antweight presentation: Small Bots, Big Battles ... @TomasSiauliaiNights
   PR190 The Art of Mini Sumo: Strategy and Skill .......... @TomasSiauliaiNights
+  PR192 Automating financial decisions with AI ..............@valentasgruzauskas
 
 
 --[ SOUND ]
