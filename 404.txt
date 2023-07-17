@@ -53,6 +53,7 @@ into some framework" type of topics.
   PR188 Antweight combat robot workshop ................... @TomasSiauliaiNights
   PR189 Antweight presentation: Small Bots, Big Battles ... @TomasSiauliaiNights
   PR190 The Art of Mini Sumo: Strategy and Skill .......... @TomasSiauliaiNights
+  PR191 Home-made second generation ROV .............................. @laukejas
   PR192 Automating financial decisions with AI ..............@valentasgruzauskas
 
 
@@ -74,8 +75,8 @@ during or even after the event. Though we prefer before. If bigger than targeted
 amount is collected before the event, we'll build better infrastructure. In case
 the event is canceled - we will return your donations. Bank account for
 transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose field: "Parama:
-404". Every donor is listed at the hall of fame below. For transparency and
-fame. Thank you!
+404". We also accept BTC to bech32 address [2]. Every donor is listed at the
+hall of fame below. For transparency and fame. Thank you!
 
 
   VšĮ "Programuotojai" ................................................. 256 EUR
@@ -109,5 +110,6 @@ fame. Thank you!
                                     > ^ <
 
   [1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
+  [2] bc1qvrsl0zfwl688j3vrqd6ujazshqdn70kvz7suw2cj0055s6936g9qh2h7ct
 
 # vim: formatoptions+=aw spell tw=80
