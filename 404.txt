@@ -54,7 +54,7 @@ into some framework" type of topics.
   PR189 Antweight presentation: Small Bots, Big Battles ... @TomasSiauliaiNights
   PR190 The Art of Mini Sumo: Strategy and Skill .......... @TomasSiauliaiNights
   PR191 Home-made second generation ROV .............................. @laukejas
-  PR192 Automating financial decisions with AI ..............@valentasgruzauskas
+  PR192 Automating financial decisions with AI ............. @valentasgruzauskas
 
 
 --[ SOUND ]
