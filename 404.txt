@@ -55,6 +55,7 @@ into some framework" type of topics.
   PR190 The Art of Mini Sumo: Strategy and Skill .......... @TomasSiauliaiNights
   PR191 Home-made second generation ROV .............................. @laukejas
   PR192 Automating financial decisions with AI ............. @valentasgruzauskas
+  PR195 Šakočių kepimas...............................................@PauliusPo
 
 
 --[ SOUND ]
