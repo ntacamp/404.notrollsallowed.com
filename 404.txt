@@ -58,6 +58,7 @@ into some framework" type of topics.
   PR193 Workshop: Board games ...................................... @IndreVilke
   PR194 Besikapstant po skaitmenines nuotekas ....................... @kamiccolo
   PR195 Šakočių kepimas ............................................. @PauliusPo
+  PR196 Origami ........................................... @giedriusmarkevicius
 
 
 --[ SOUND ]
