@@ -59,6 +59,7 @@ into some framework" type of topics.
   PR194 Besikapstant po skaitmenines nuotekas ....................... @kamiccolo
   PR195 Šakočių kepimas ............................................. @PauliusPo
   PR196 Stovėjimas ant vinių ..................................... @aistisraudys
+  PR197 Origami dirbtuvės ................................. @giedriusmarkevicius
 
 
 --[ SOUND ]
