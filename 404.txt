@@ -61,6 +61,7 @@ into some framework" type of topics.
   PR196 Stovėjimas ant vinių ..................................... @aistisraudys
   PR197 Origami dirbtuvės ................................. @giedriusmarkevicius
   PR198 Oro filtravimas asmeninei ir kolektyvinei darbų saug…  @jonasAndriusiunas
+  PR198 Įspūdžiai, sprendimai bandant sumažinti elektros sąskaitą.. @PSasnauskas
 
 
 --[ SOUND ]
