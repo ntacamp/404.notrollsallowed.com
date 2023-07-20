@@ -65,8 +65,8 @@ format_topic() {
         -v len_topic="$len_topic" \
         'BEGIN {
             content_width=page_width-pr_width
-            if (len_topic + len_author > content_width) {
-                len_topic=content_width-len_author-3
+            if (len_topic + len_author >= content_width) {
+                len_topic=content_width-len_author-1
                 topic=sprintf("%s…", substr(topic, 1, len_topic-1))
             }
             printf "  %-5s %s ", pr, topic
