@@ -71,8 +71,8 @@ There will be sound & traditional police visits. More info soon.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 6858€
-  * status   : 858€
+  * donated  : 7058€
+  * status   : 1058€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 6000€. If you want
