@@ -63,7 +63,7 @@ into some framework" type of topics.
   PR198 Oro filtravimas asmeninei ir kolektyvinei darbų saug…  @jonasAndriusiunas
   PR199 Įspūdžiai, sprendimai bandant sumažinti elektros sąskaitą . @PSasnauskas
   PR200 Activity: LARP "What Actually Happened? ....................... @MaryJ25
-  
+
 
 --[ SOUND ]
 
@@ -118,6 +118,7 @@ hall of fame below. For transparency and fame. Thank you!
   Rytis Bieliauskas .................................................... 666 EUR
   MB Sasnausko Technologijos ............................................ 64 EUR
   Motiejus Jakštys ..................................................... 200 EUR
+  Ričardas Leščinskas .................................................. 128 EUR
 
 
                                     /\_/\
