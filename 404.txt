@@ -63,8 +63,9 @@ into some framework" type of topics.
   PR198 Oro filtravimas asmeninei ir kolektyvinei darbų saug…  @jonasAndriusiunas
   PR199 Įspūdžiai, sprendimai bandant sumažinti elektros sąskaitą . @PSasnauskas
   PR200 Activity: LARP "What Actually Happened? ....................... @MaryJ25
+  PR202 Severely overengineering differential steering gearbox ......... @pypkus
   PR203 Paslaptingas bičių pasaulis: šeima, darbai, įdomybės ........ @aturasjas
-  
+
 
 --[ SOUND ]
 
@@ -74,8 +75,8 @@ There will be sound & traditional police visits. More info soon.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 7058€
-  * status   : 1058€
+  * donated  : 7186€
+  * status   : 1186€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 6000€. If you want
@@ -119,6 +120,7 @@ hall of fame below. For transparency and fame. Thank you!
   Rytis Bieliauskas .................................................... 666 EUR
   MB Sasnausko Technologijos ............................................ 64 EUR
   Motiejus Jakštys ..................................................... 200 EUR
+  Ričardas Leščinskas .................................................. 128 EUR
 
 
                                     /\_/\
