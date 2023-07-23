@@ -76,9 +76,9 @@ There will be sound & traditional police visits. More info soon.
 
 --[ DONATIONS ]
 
-  * target   : 6000€
-  * donated  : 7186€
-  * status   : 1186€
+  * target   : 6000.00€
+  * donated  : 7185.99€
+  * status   : 1185.99€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 6000€. If you want
@@ -121,7 +121,7 @@ hall of fame below. For transparency and fame. Thank you!
   Žilvinas Vaiciukevičius .............................................. 128 EUR
   Rytis Bieliauskas .................................................... 666 EUR
   MB Sasnausko Technologijos ............................................ 64 EUR
-  Motiejus Jakštys ..................................................... 200 EUR
+  Motiejus Jakštys .................................................. 199.99 EUR
   Ričardas Leščinskas .................................................. 128 EUR
 
 
