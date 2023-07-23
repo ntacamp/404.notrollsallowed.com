@@ -67,7 +67,7 @@ into some framework" type of topics.
   PR203 Paslaptingas bičių pasaulis: šeima, darbai, įdomybės ........ @aturasjas
   PR204 Small epoxy jewelry project including restoring pressure pot  @berzasprod
   PR166 Kodėl man trukčioja akis perkant el. knygas Amazon.com? ......... @pawka
-  PR--- How to learn to draw in 120 hours or 60 days ............ @VandalPaulius
+  PR208 How to learn to draw in 120 hours or 60 days ............ @VandalPaulius
 
 --[ SOUND ]
 
