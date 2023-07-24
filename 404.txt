@@ -69,7 +69,7 @@ into some framework" type of topics.
   PR205 Kodėl man trukčioja akis perkant el. knygas Amazon.com? ......... @pawka
   PR201 Asmeniniai atradimai apie atmintį ir mokymąsį ................. @dainora
   PR207 Amateurs guide how to make your own programming language ..... @pijuskri
-
+  PR208 How to learn to draw in 120 hours or 60 days ............ @VandalPaulius
 
 
 --[ SOUND ]
