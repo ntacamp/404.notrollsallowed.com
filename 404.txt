@@ -76,6 +76,7 @@ into some framework" type of topics.
   PR213 Workshop: Mazgų rišimas ............................. @mantas-sidlauskas
   PR215 Vanlife kemperis - kaip iš buso pasigaminti kemperį ...... @mariovilnius
   PR205 Sea Shanties: Istorija & Trivia ............................ @saint66735
+  PR217 Personal Story of Partly Succesfull Open-Source Side Project.... @aidiss
 
 
 --[ SOUND ]
