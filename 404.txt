@@ -73,6 +73,7 @@ into some framework" type of topics.
   PR209 Apnea diving 101 ............................................. @motiejus
   PR211 Workshop: The Quiet Year - map-building/rpg/storytelling ....... @tadkle
   PR212 Show and tell: Oscilloscope Music .............................. @wybczu
+  PR213 Workshop: Mazgų rišimas.............................. @mantas-sidlauskas
 
 
 --[ SOUND ]
