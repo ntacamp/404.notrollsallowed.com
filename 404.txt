@@ -74,6 +74,7 @@ into some framework" type of topics.
   PR211 Workshop: The Quiet Year - map-building/rpg/storytelling ....... @tadkle
   PR212 Show and tell: Oscilloscope Music .............................. @wybczu
   PR213 Workshop: Mazgų rišimas ............................. @mantas-sidlauskas
+  PR214 Vanlife kemperis - kaip iš buso pasigaminti kemperį ...... @mariovilnius
 
 
 --[ SOUND ]
