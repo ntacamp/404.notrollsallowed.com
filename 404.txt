@@ -67,6 +67,7 @@ into some framework" type of topics.
   PR203 Paslaptingas bičių pasaulis: šeima, darbai, įdomybės ........ @aturasjas
   PR204 Small epoxy jewelry project including restoring pressure pot  @berzasprod
   PR205 Kodėl man trukčioja akis perkant el. knygas Amazon.com? ......... @pawka
+  PR201 Asmeniniai atradimai apie atmintį ir mokymąsį,klaidos & pamokos @dainora 
 
 
 --[ SOUND ]
