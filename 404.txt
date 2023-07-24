@@ -66,7 +66,7 @@ into some framework" type of topics.
   PR202 Severely overengineering differential steering gearbox ......... @pypkus
   PR203 Paslaptingas bičių pasaulis: šeima, darbai, įdomybės ........ @aturasjas
   PR204 Small epoxy jewelry project including restoring pressure pot  @berzasprod
-  PR166 Kodėl man trukčioja akis perkant el. knygas Amazon.com? ......... @pawka
+  PR205 Kodėl man trukčioja akis perkant el. knygas Amazon.com? ......... @pawka
 
 
 --[ SOUND ]
