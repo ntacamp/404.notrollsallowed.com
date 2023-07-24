@@ -66,7 +66,10 @@ into some framework" type of topics.
   PR202 Severely overengineering differential steering gearbox ......... @pypkus
   PR203 Paslaptingas bičių pasaulis: šeima, darbai, įdomybės ........ @aturasjas
   PR204 Small epoxy jewelry project including restoring pressure pot  @berzasprod
-  PR166 Kodėl man trukčioja akis perkant el. knygas Amazon.com? ......... @pawka
+  PR205 Kodėl man trukčioja akis perkant el. knygas Amazon.com? ......... @pawka
+  PR201 Asmeniniai atradimai apie atmintį ir mokymąsį ................. @dainora
+  PR207 Amateurs guide how to make your own programming language ..... @pijuskri
+  PR208 How to learn to draw in 120 hours or 60 days ............ @VandalPaulius
   PR209 Apnea diving 101 ............................................. @motiejus
 
 
