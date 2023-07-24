@@ -77,7 +77,7 @@ into some framework" type of topics.
   PR215 Vanlife kemperis - kaip iš buso pasigaminti kemperį ...... @mariovilnius
   PR205 Sea Shanties: Istorija & Trivia ............................ @saint66735
   PR216 Reverse Engineering a Freezer Drier ................... @ViliusKraujutis
-  PR217 Gal jau laikas IPv6 ..............................................@cirka
+  PR217 Gal jau laikas IPv6 ............................................. @cirka
 
 
 --[ SOUND ]
