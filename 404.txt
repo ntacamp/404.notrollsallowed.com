@@ -81,7 +81,7 @@ into some framework" type of topics.
   PR218 Personal Story of Partly Succesfull Open-Source Side Project ... @aidiss
   PR219 300km dviračiu vienu užsėdimu .................................. @kuusas
   PR222 Compiler from scratch - small binary is a requirement ........... @zolia
-  PR225 Workshop: AI in a box .................................... @juodumas
+  PR225 Workshop: AI in a box ........................................ @juodumas
 
 
 --[ SOUND ]
