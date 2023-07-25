@@ -80,6 +80,7 @@ into some framework" type of topics.
   PR217 Gal jau laikas IPv6 ............................................. @cirka
   PR218 Personal Story of Partly Succesfull Open-Source Side Project ... @aidiss
   PR219 300km dviračiu vienu užsėdimu .................................. @kuusas
+  PR222 Compiler from scratch - small binary is a requirement ........... @zolia
 
 
 --[ SOUND ]
@@ -138,6 +139,7 @@ hall of fame below. For transparency and fame. Thank you!
   Motiejus Jakštys ..................................................... 200 EUR
   Ričardas Leščinskas .................................................. 128 EUR
   Algardas Pelakauskas ................................................. 128 EUR
+  Antanas Masevičius ................................................... 128 EUR
 
 
                                     /\_/\
