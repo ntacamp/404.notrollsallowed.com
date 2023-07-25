@@ -80,6 +80,7 @@ into some framework" type of topics.
   PR217 Gal jau laikas IPv6 ............................................. @cirka
   PR218 Personal Story of Partly Succesfull Open-Source Side Project ... @aidiss
   PR219 300km dviračiu vienu užsėdimu .................................. @kuusas
+  PR220 Activity: Table football.....................................@baciliukas
 
 
 --[ SOUND ]
