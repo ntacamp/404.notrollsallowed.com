@@ -91,8 +91,8 @@ on Wednesday, cardio on Thursday. Synth party on Friday.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 7314€
-  * status   : 1314€
+  * donated  : 7953€
+  * status   : 1953€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
