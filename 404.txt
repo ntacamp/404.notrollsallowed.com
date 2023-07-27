@@ -82,7 +82,7 @@ into some framework" type of topics.
   PR219 300km dviračiu vienu užsėdimu .................................. @kuusas
   PR222 Compiler from scratch - small binary is a requirement ........... @zolia
   PR225 Workshop: AI in a box ........................................ @juodumas
-  PR230 Vizualus Efektai Pradedantiesiems.............................@jurgis
+  PR230 Vizualūs Efektai Pradedantiesiems................................@jurgis
 
 --[ SOUND ]
 
