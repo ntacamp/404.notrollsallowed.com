@@ -85,6 +85,8 @@ into some framework" type of topics.
   PR226 Nintendo Wii gidas. Konsolės taikymas mokant vaikus skaityti .. Vytautas
   PR223 Daltonizmo emuliatorius - arba kaip mes matom spalvas .......... @VEC7OR
   PR227 Hyperfoil + async-profiler for Java profiling ................ @macro161
+  PR228 Retro Bluetooth kolonėlė ........................................ Arnas
+
 
 
 --[ SOUND ]
