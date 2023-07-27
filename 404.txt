@@ -82,6 +82,12 @@ into some framework" type of topics.
   PR219 300km dviračiu vienu užsėdimu .................................. @kuusas
   PR222 Compiler from scratch - small binary is a requirement ........... @zolia
   PR225 Workshop: AI in a box ........................................ @juodumas
+  PR226 Nintendo Wii gidas. Konsolės taikymas mokant vaikus skaityti .. Vytautas
+  PR223 Daltonizmo emuliatorius - arba kaip mes matom spalvas .......... @VEC7OR
+  PR227 Hyperfoil + async-profiler for Java profiling ................ @macro161
+  PR228 Retro Bluetooth kolonėlė ......................................... Arnas
+  PR229 The cosmic workshop for kids .......................... @justinasjaronis
+  PR230 Vizualūs Efektai Pradedantiesiems .............................. @jurgis
   PR231 Technologijų karas ........................................ @gediminasgu
 
 
@@ -94,8 +100,8 @@ on Wednesday, cardio on Thursday. Synth party on Friday.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 7952.99€
-  * status   : 1952.99€
+  * donated  : 8144.99€
+  * status   : 2144.99€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
@@ -145,6 +151,8 @@ hall of fame below. For transparency and fame. Thank you!
   Łukasz Szczensky ..................................................... 255 EUR
   PyCon Lithuania ...................................................... 256 EUR
   Antanas Masevičius ................................................... 128 EUR
+  Božena Boravskaja ..................................................... 64 EUR
+  Jonas Jasas .......................................................... 128 EUR
 
 
                                     /\_/\
