@@ -84,7 +84,7 @@ into some framework" type of topics.
   PR225 Workshop: AI in a box ........................................ @juodumas
   PR226 Nintendo Wii gidas. Konsolės taikymas mokant vaikus skaityti .. Vytautas
   PR223 Daltonizmo emuliatorius - arba kaip mes matom spalvas .......... @VEC7OR
-  PR227 Hyperfoil + async-profiler for Java profiling .................@macro161
+  PR227 Hyperfoil + async-profiler for Java profiling ................ @macro161
 
 
 --[ SOUND ]
