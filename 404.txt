@@ -75,24 +75,28 @@ into some framework" type of topics.
   PR212 Show and tell: Oscilloscope Music .............................. @wybczu
   PR213 Workshop: Mazgų rišimas ............................. @mantas-sidlauskas
   PR215 Vanlife kemperis - kaip iš buso pasigaminti kemperį ...... @mariovilnius
-  PR205 Sea Shanties: Istorija & Trivia ............................ @saint66735
+  PR206 Sea Shanties: Istorija & Trivia ............................ @saint66735
   PR216 Reverse Engineering a Freezer Drier ................... @ViliusKraujutis
   PR217 Gal jau laikas IPv6 ............................................. @cirka
   PR218 Personal Story of Partly Succesfull Open-Source Side Project ... @aidiss
   PR219 300km dviračiu vienu užsėdimu .................................. @kuusas
+  PR222 Compiler from scratch - small binary is a requirement ........... @zolia
+  PR225 Workshop: AI in a box ........................................ @juodumas
+  PR226 Nintendo Wii gidas. Konsolės taikymas mokant vaikus skaityti .. Vytautas
   PR223 Daltonizmo emuliatorius - arba kaip mes matom spalvas .......... @VEC7OR
 
 
 --[ SOUND ]
 
-There will be sound & traditional police visits. More info soon.
+There will be sound & traditional police visits. Jam session from mobile phone
+on Wednesday, cardio on Thursday. Synth party on Friday.
 
 
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 7314€
-  * status   : 1314€
+  * donated  : 8144.99€
+  * status   : 2144.99€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
@@ -136,9 +140,14 @@ hall of fame below. For transparency and fame. Thank you!
   Žilvinas Vaiciukevičius .............................................. 128 EUR
   Rytis Bieliauskas .................................................... 666 EUR
   MB Sasnausko Technologijos ............................................ 64 EUR
-  Motiejus Jakštys ..................................................... 200 EUR
+  Motiejus Jakštys .................................................. 199.99 EUR
   Ričardas Leščinskas .................................................. 128 EUR
   Algardas Pelakauskas ................................................. 128 EUR
+  Łukasz Szczensky ..................................................... 255 EUR
+  PyCon Lithuania ...................................................... 256 EUR
+  Antanas Masevičius ................................................... 128 EUR
+  Božena Boravskaja ..................................................... 64 EUR
+  Jonas Jasas .......................................................... 128 EUR
 
 
                                     /\_/\
