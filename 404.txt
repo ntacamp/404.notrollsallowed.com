@@ -88,6 +88,7 @@ into some framework" type of topics.
   PR228 Retro Bluetooth kolonėlė ......................................... Arnas
   PR229 The cosmic workshop for kids .......................... @justinasjaronis
   PR230 Vizualūs Efektai Pradedantiesiems .............................. @jurgis
+  PR231 Technologijų karas ........................................ @gediminasgu
 
 
 --[ SOUND ]
