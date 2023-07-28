@@ -89,7 +89,7 @@ into some framework" type of topics.
   PR229 The cosmic workshop for kids .......................... @justinasjaronis
   PR230 Vizualūs Efektai Pradedantiesiems .............................. @jurgis
   PR231 Technologijų karas ........................................ @gediminasgu
-  PR232 ką gali pasigaminti savo kojų wattais.........................@vytautasj
+  PR236 ką gali pasigaminti savo kojų wattais.........................@vytautasj
 
 --[ SOUND ]
 
