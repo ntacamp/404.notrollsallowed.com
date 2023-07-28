@@ -99,7 +99,7 @@ on Wednesday, cardio on Thursday. Synth party on Friday.
 
 --[ DONATIONS ]
 
-  * target   : 6000€
+  * target   : 6040€
   * donated  : 8144.99€
   * status   : 2144.99€
 
