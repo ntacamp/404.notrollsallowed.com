@@ -90,8 +90,8 @@ into some framework" type of topics.
   PR230 Vizualūs Efektai Pradedantiesiems .............................. @jurgis
   PR231 Technologijų karas ........................................ @gediminasgu
   PR232 New Passion – Electric UniCycle (EUC) .............. @RičardasLeščinskas
+  PR233 Smart Roadster EV. 2 dalis ................................. @elektrinis
   PR237 Kaip atnaujinti routerį ir kaip sekėsi man .................... @kvaidas
-
 
 --[ SOUND ]
 
