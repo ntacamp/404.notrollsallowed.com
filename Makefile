@@ -8,7 +8,7 @@ MAKEFLAGS += --no-builtin-rules
 INPUT?=404.txt
 OUTPUT?=index.html
 
-ARCHIVE=2022
+ARCHIVE=2023
 
 .PHONY: build update all archive
 

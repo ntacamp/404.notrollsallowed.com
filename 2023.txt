@@ -1,0 +1,170 @@
+                             _  _    ___  _  _
+                            | || |  / _ \| || |
+                            | || |_| | | | || |_
+                            |__   _| | | |__   _|
+                               | | | |_| |  | |
+                               |_|  \___/   |_|
+                                Camp Not Found
+
+
+--[ DETAILS ]
+
+  Date . .............................................. Wednesday - Sunday, 2023
+  Location .............................................. Somewhere in Lithuania
+
+
+--[ PRESENTATIONS & ACTIVITIES ]
+
+There will be one stage. Common stage. Named "Common sense stage". If you want
+to participate, you must contribute. Add your topic to presentations list on
+404.txt file [1] and open a pull request. Set topic title or workshop name as PR
+title, add short description in the PR description field and wait. If we decide
+your topic meets the spirit of 404, it will be approved. We are interested in
+hacking, making, building, coding, brewing, hobbing, art, workshops. We are not
+interested in travel stories, life journeys, startups, commercial sh*t, "intro
+into some framework" type of topics.
+
+
+  PR163 Intro: No Tolls Allowed #11 ..................................... @pawka
+  PR165 Extending C#: How we got tired of boilerplate and added macros  @arturaz
+  PR166 Running image generation locally 101 .......................... @singler
+  PR168 Connecting your grandma's rotary phone to modern PSTNs ........ @kareiva
+  PR169 Making centimeter accuracy lawn mower robot ........................ @2m
+  PR170 Activity: Play with Flight simulator with VR glasses ............ @vidma
+  PR170 Aerodynamics 101 (efficiency optimization of model Airplanes) ... @vidma
+  PR171 ATK 2021 kortelės programa ir jos funkcionalumai ................ @monai
+  PR172 Workshop: compare cheap and expensive soldering irons ......... Tovaldas
+  PR174 Digital photos: How much reality is left there ............. @aurelijusb
+  PR173 Sniper precision shooting for nerds ............................. @bruno
+  PR175 Teisės į intelektinę nuosavybę, kodėl robotas negali būti autorius .. LV
+  PR176 Elektroniniai muzikos instrumentai 90-ųjų DIY scenoje .......... Marukas
+  PR177 Attraction: Bookshelf of old IT-related books ............. Renardas KMS
+  PR178 Rubikas kubikas .................................................. Jonas
+  PR179 Moksliukiškas požiūris į paveldo restauraciją (Čiulai) .......... Aistis
+  PR164 I know zero about hacking. Can I work in cybersecurity? ........ @sigrks
+  PR181 Introduction to gliding. Practical considerations ........... @domnantas
+  PR182 Scuba Diving 101: Practical Intro into Underwater Exploration .. @rockaz
+  PR183 Design Your Own ISA and Build a (Virtual) CPU .................... @rtfb
+  PR180 Hiking and camping with kids: survival guide for adults ....... @rutaisa
+  PR184 My little Shiitake farm ...................................... @anna-did
+  PR185 Electric skateboard riding workshop .......................... @cheloveq
+  PR186 How to music 101 ........................................... Austėja KMS
+  PR187 Ghostbusters R.T.V - cosplay inžineriškai ..................... Giedrius
+  PR188 Antweight combat robot workshop ................... @TomasSiauliaiNights
+  PR189 Antweight presentation: Small Bots, Big Battles ... @TomasSiauliaiNights
+  PR190 The Art of Mini Sumo: Strategy and Skill .......... @TomasSiauliaiNights
+  PR191 Home-made second generation ROV .............................. @laukejas
+  PR192 Automating financial decisions with AI ............. @valentasgruzauskas
+  PR193 Workshop: Board games ...................................... @IndreVilke
+  PR194 Besikapstant po skaitmenines nuotekas ....................... @kamiccolo
+  PR195 Šakočių kepimas ............................................. @PauliusPo
+  PR196 Stovėjimas ant vinių ..................................... @aistisraudys
+  PR197 Origami dirbtuvės ................................. @giedriusmarkevicius
+  PR198 Oro filtravimas asmeninei ir kolektyvinei darbų saug…  @jonasAndriusiunas
+  PR199 Įspūdžiai, sprendimai bandant sumažinti elektros sąskaitą . @PSasnauskas
+  PR200 Activity: LARP "What Actually Happened? ....................... @MaryJ25
+  PR202 Severely overengineering differential steering gearbox ......... @pypkus
+  PR203 Paslaptingas bičių pasaulis: šeima, darbai, įdomybės ........ @aturasjas
+  PR204 Small epoxy jewelry project including restoring pressure pot  @berzasprod
+  PR205 Kodėl man trukčioja akis perkant el. knygas Amazon.com? ......... @pawka
+  PR201 Asmeniniai atradimai apie atmintį ir mokymąsį ................. @dainora
+  PR207 Amateurs guide how to make your own programming language ..... @pijuskri
+  PR208 How to learn to draw in 120 hours or 60 days ............ @VandalPaulius
+  PR209 Apnea diving 101 ............................................. @motiejus
+  PR211 Workshop: The Quiet Year - map-building/rpg/storytelling ....... @tadkle
+  PR212 Show and tell: Oscilloscope Music .............................. @wybczu
+  PR213 Workshop: Mazgų rišimas ............................. @mantas-sidlauskas
+  PR215 Vanlife kemperis - kaip iš buso pasigaminti kemperį ...... @mariovilnius
+  PR206 Sea Shanties: Istorija & Trivia ............................ @saint66735
+  PR216 Reverse Engineering a Freezer Drier ................... @ViliusKraujutis
+  PR217 Gal jau laikas IPv6 ............................................. @cirka
+  PR218 Personal Story of Partly Succesfull Open-Source Side Project ... @aidiss
+  PR219 300km dviračiu vienu užsėdimu .................................. @kuusas
+  PR222 Compiler from scratch - small binary is a requirement ........... @zolia
+  PR225 Workshop: AI in a box ........................................ @juodumas
+  PR226 Nintendo Wii gidas. Konsolės taikymas mokant vaikus skaityti .. Vytautas
+  PR223 Daltonizmo emuliatorius - arba kaip mes matom spalvas .......... @VEC7OR
+  PR227 Hyperfoil + async-profiler for Java profiling ................ @macro161
+  PR228 Retro Bluetooth kolonėlė ......................................... Arnas
+  PR229 The cosmic workshop for kids .......................... @justinasjaronis
+  PR230 Vizualūs Efektai Pradedantiesiems .............................. @jurgis
+  PR231 Technologijų karas ........................................ @gediminasgu
+  PR232 New Passion – Electric UniCycle (EUC) .............. @RičardasLeščinskas
+  PR233 Smart Roadster EV. 2 dalis ................................. @elektrinis
+  PR237 Kaip atnaujinti routerį ir kaip sekėsi man .................... @kvaidas
+
+--[ SOUND ]
+
+There will be sound & traditional police visits. Jam session from mobile phone
+on Wednesday, cardio on Thursday. Synth party on Friday.
+
+
+--[ DONATIONS ]
+
+  * target   : 6040€
+  * donated  : 8437.19€
+  * status   : 2397.19€
+
+
+The event is free. Free of sponsors too. But we still spend fiat for
+infrastructure and cookies. A rough estimate of event cost is 6000€. If you want
+to support this initiative, we accept donations. Donations are accepted before,
+during or even after the event. Though we prefer before. If bigger than targeted
+amount is collected before the event, we'll build better infrastructure. In case
+the event is canceled - we will return your donations. Bank account for
+transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose field: "Parama:
+404". We also accept BTC to bech32 address [2]. Every donor is listed at the
+hall of fame below. For transparency and fame. Thank you!
+
+
+  VšĮ "Programuotojai" ................................................. 256 EUR
+  Povilas Balzaravičius ................................................ 256 EUR
+  Paulius Podolskis .................................................... 256 EUR
+  Žilvinas Kuusas ...................................................... 256 EUR
+  bruno ................................................................ 256 EUR
+  Petras Baukys ........................................................ 256 EUR
+  Vilius Kraujutis....................................................... 42 EUR
+  Aispeco UAB .......................................................... 512 EUR
+  Henrik Korkuc ........................................................ 256 EUR
+  Artūras Šlajus ....................................................... 128 EUR
+  Shift4 Payments Lithuania ............................................ 404 EUR
+  Tadas Kleinauskas .................................................... 256 EUR
+  Simonas Kareiva ...................................................... 256 EUR
+  Anna Didžbanienė ...................................................... 42 EUR
+  Tomas Leščinskas ..................................................... 256 EUR
+  Gediminas Guoba ...................................................... 256 EUR
+  Aurelijus Banelis .................................................... 128 EUR
+  Linas Minkevičius ..................................................... 64 EUR
+  Artūras Raižys ....................................................... 256 EUR
+  Mantas Šidlauskas .................................................... 256 EUR
+  Mindaugs Liubinas .................................................... 128 EUR
+  Melitonas ............................................................ 512 EUR
+  Andrius Minkevičius ................................................... 42 EUR
+  Laurynas Alekna ....................................................... 42 EUR
+  Algirdas Lašas ....................................................... 256 EUR
+  Rokas Adiklis ........................................................ 128 EUR
+  Automaton Trading .................................................... 244 EUR
+  Žilvinas Vaiciukevičius .............................................. 128 EUR
+  Rytis Bieliauskas .................................................... 666 EUR
+  MB Sasnausko Technologijos ............................................ 64 EUR
+  Motiejus Jakštys .................................................. 199.99 EUR
+  Ričardas Leščinskas .................................................. 128 EUR
+  Algardas Pelakauskas ................................................. 128 EUR
+  Łukasz Szczęsny ...................................................... 255 EUR
+  PyCon Lithuania ...................................................... 256 EUR
+  Antanas Masevičius ................................................... 128 EUR
+  Božena Boravskaja ..................................................... 64 EUR
+  Jonas Jasas .......................................................... 128 EUR
+  Mantas Klasavičius ................................................... 256 EUR
+  Šarūnas Šutėnas ...................................................... 4.2 EUR
+  Paulius Briedis ....................................................... 32 EUR
+
+
+                                    /\_/\
+                                   ( o.o )
+                                    > ^ <
+
+  [1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
+  [2] bc1qvrsl0zfwl688j3vrqd6ujazshqdn70kvz7suw2cj0055s6936g9qh2h7ct
+
+# vim: formatoptions+=aw spell tw=80
