@@ -50,7 +50,7 @@ amount is collected before the event, we'll build better infrastructure. In case
 the event is canceled - we will return your donations. Bank account for
 transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose field: "Parama:
 404". We also accept BTC to bech32 address [2]. Every donor is listed at the
-hall of fame below. For transparency and fame. Thank you!
+hall of fame below. For transparency and fame but mostly fame. Thank you!
 
 
   VšĮ "Programuotojai" ................................................. 256 EUR
