@@ -28,7 +28,7 @@ into some framework" type of topics.
   PR163 Intro: No Trolls Allowed #12 .................................... @pawka
   PR239 Kodėl tentas yra geriausias stovyklautojo įrankis ............... @pawka
   PR240 Litavimo ir elektronikos dirbtuvės visiems .................... @kareiva
-  PR250 Sodyba nuo nulio (2020 NTA istorijos tęsinys)................... @sigrks
+  PR242 Sodyba nuo nulio (2020 NTA istorijos tęsinys)................... @sigrks
 
 --[ SOUND ]
 
