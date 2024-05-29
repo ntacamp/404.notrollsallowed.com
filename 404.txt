@@ -30,6 +30,7 @@ into some framework" type of topics.
   PR240 Litavimo ir elektronikos dirbtuvės visiems .................... @kareiva
   PR242 Sodyba nuo nulio (2020 NTA istorijos tęsinys) .................. @sigrks
   PR243 Bendra virtuvė ................................................ Hakeriai
+  PR244 Airplane aerodynamics software (design & predict performance) ... @vidma
 
 --[ SOUND ]
 
