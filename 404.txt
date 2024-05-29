@@ -32,6 +32,7 @@ into some framework" type of topics.
   PR243 Bendra virtuvė ................................................ Hakeriai
   PR244 Airplane aerodynamics software (design & predict performance) ... @vidma
 
+
 --[ SOUND ]
 
 There will be sound & traditional police visits. Jam session from mobile phone
