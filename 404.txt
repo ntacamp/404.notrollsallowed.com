@@ -32,6 +32,7 @@ into some framework" type of topics.
   PR243 Bendra virtuvė ................................................ Hakeriai
   PR244 Airplane aerodynamics software (design & predict performance) ... @vidma
   PR245 Kaip pasakojau inžinieriams apie internetą ir PHP ............. @jbutkus
+  PR246 Building Your Own Chips Is Finally Affordable .................... @rtfb
 
 
 --[ SOUND ]
