@@ -33,6 +33,7 @@ into some framework" type of topics.
   PR244 Airplane aerodynamics software (design & predict performance) ... @vidma
   PR245 Kaip pasakojau inžinieriams apie internetą ir PHP ............. @jbutkus
   PR247 Building Your Own Chips Is Finally Affordable .................... @rtfb
+  PR248 Rainbow gathering .......................................... @aurelijusb
 
 
 --[ SOUND ]
