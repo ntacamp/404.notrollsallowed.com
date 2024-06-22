@@ -34,6 +34,7 @@ into some framework" type of topics.
   PR245 Kaip pasakojau inžinieriams apie internetą ir PHP ............. @jbutkus
   PR247 Building Your Own Chips Is Finally Affordable .................... @rtfb
   PR248 Rainbow gathering .......................................... @aurelijusb
+  PR249 Tepaluotųjų pirščiukų kampelis. Ir mažiems, ir dideliems......@kestlovas
 
 
 --[ SOUND ]
