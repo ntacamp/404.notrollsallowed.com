@@ -35,6 +35,7 @@ into some framework" type of topics.
   PR247 Building Your Own Chips Is Finally Affordable .................... @rtfb
   PR248 Rainbow gathering .......................................... @aurelijusb
   PR249 Tepaluotųjų pirščiukų kampelis. Ir mažiems, ir dideliems .... @kestlovas
+  PRXXX Groups vs teams: differences in decision making process .... @rutaisa
 
 
 --[ SOUND ]
