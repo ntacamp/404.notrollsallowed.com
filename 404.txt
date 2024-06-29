@@ -35,7 +35,9 @@ into some framework" type of topics.
   PR247 Building Your Own Chips Is Finally Affordable .................... @rtfb
   PR248 Rainbow gathering .......................................... @aurelijusb
   PR249 Tepaluotųjų pirščiukų kampelis. Ir mažiems, ir dideliems .... @kestlovas
-  PR250 Scuba Diving 101: Practical Intro to Underwater Exploration .... @rockaz
+  PR250 Groups vs teams: differences in decision making process ....... @rutaisa
+  PR251 My approach to Personal Knowledge Management (PKM) .......... @4giedrius
+  PR252 Scuba Diving 101: Practical Intro to Underwater Exploration .... @rockaz
 
 
 --[ SOUND ]
@@ -47,8 +49,8 @@ on Wednesday, cardio on Thursday. Synth party on Friday.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 4912€
-  * status   : -1088€
+  * donated  : 5040€
+  * status   : -960€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
@@ -76,7 +78,9 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Aurelijus Banelis .................................................... 128 EUR
   Vytautas Šaltenis .................................................... 256 EUR
   Vilius Kraujutis ...................................................... 54 EUR
+  Mantvidas Miškinis ................................................... 128 EUR
   Rokas Adiklis ........................................................ 128 EUR
+
                                     /\_/\
                                    ( o.o )
                                     > ^ <
