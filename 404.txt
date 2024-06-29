@@ -36,6 +36,7 @@ into some framework" type of topics.
   PR248 Rainbow gathering .......................................... @aurelijusb
   PR249 Tepaluotųjų pirščiukų kampelis. Ir mažiems, ir dideliems .... @kestlovas
   PR250 Groups vs teams: differences in decision making process ....... @rutaisa
+  PR251 My approach to Personal Knowledge Management (PKM) .......... @4giedrius
 
 
 --[ SOUND ]
