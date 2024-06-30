@@ -38,7 +38,7 @@ into some framework" type of topics.
   PR250 Groups vs teams: differences in decision making process ....... @rutaisa
   PR251 My approach to Personal Knowledge Management (PKM) .......... @4giedrius
   PR252 Scuba Diving 101: Practical Intro to Underwater Exploration .... @rockaz
-  PR253 Akadem. tarptautinių santykių teorijos, kada (ne)kariaujama..@berzasprod
+  PR253 Akadem. tarptautinių santykių teorijos, kada (ne)kariaujama  @berzasprod
 
 
 --[ SOUND ]
