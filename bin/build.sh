@@ -5,8 +5,13 @@ set -euo pipefail
 readonly PROJECT_URL="https://github.com/ntacamp/404.notrollsallowed.com"
 
 build_html() {
-    sed '1s/^/\<pre\>\n/'
-    echo '</pre>'
+    readonly replace_keyword="_CONTENT_"
+    readonly template_file="bin/index.tpl"
+
+    # Load stdin into variable.
+    feed=$(cat <&0)
+    template=$(cat < "$template_file")
+    echo "${template/$replace_keyword/$feed}"
 }
 
 add_pr_links() {
