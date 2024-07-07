@@ -40,6 +40,7 @@ into some framework" type of topics.
   PR252 Scuba Diving 101: Practical Intro to Underwater Exploration .... @rockaz
   PR253 Akadem. tarptautinių santykių teorijos, kada (ne)kariaujama  @berzasprod
   PR254 Attraction: Bookshelf of old IT-related books ..........…  Renardas (KMS)
+  PR257 Android Auto headunit from scratch .......................... @nyancat42
 
 
 --[ SOUND ]
