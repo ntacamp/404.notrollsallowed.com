@@ -43,6 +43,7 @@ into some framework" type of topics.
   PR255 Using autonomous 2cm precision GPS lawnmower for a year ............ @2m
   PR256 Waxing bike chains for fun and profit ............................ @alga
   PR257 Android Auto headunit from scratch .......................... @nyancat42
+  PR258 Lock picking workshop .......................................... @kuusas
 
 
 --[ SOUND ]
