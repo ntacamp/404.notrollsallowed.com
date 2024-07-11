@@ -44,8 +44,8 @@ into some framework" type of topics.
   PR256 Waxing bike chains for fun and profit ............................ @alga
   PR257 Android Auto headunit from scratch .......................... @nyancat42
   PR258 Lock picking workshop .......................................... @kuusas
-  PR259 Kaip man DBT padėjo valdyti įtampą ir jausmus.................. @kuuskus
-
+  PR259 Make your own T-shirt workshop ........................... @aistisraudys
+  PR260 Kaip man DBT padėjo valdyti įtampą ir jausmus.................. @kuuskus
 
 --[ SOUND ]
 
@@ -56,8 +56,8 @@ on Wednesday, cardio on Thursday. Synth party on Friday.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 5808€
-  * status   : -192€
+  * donated  : 5936€
+  * status   : -64€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
@@ -89,6 +89,7 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Rokas Adiklis ........................................................ 128 EUR
   Henrik Horkuc ........................................................ 512 EUR
   Gediminas Guoba ...................................................... 256 EUR
+  Mindaugas Liubinas ................................................... 128 EUR
 
                                     /\_/\
                                    ( o.o )
