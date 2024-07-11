@@ -45,7 +45,7 @@ into some framework" type of topics.
   PR257 Android Auto headunit from scratch .......................... @nyancat42
   PR258 Lock picking workshop .......................................... @kuusas
   PR259 Make your own T-shirt workshop ........................... @aistisraudys
-  PR260 Kaip man DBT padėjo valdyti įtampą ir jausmus.................. @kuuskus
+  PR260 Kaip man DBT padėjo valdyti įtampą ir jausmus ................. @kuuskus
 
 --[ SOUND ]
 
