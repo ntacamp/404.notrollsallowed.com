@@ -48,6 +48,7 @@ into some framework" type of topics.
   PR260 Kaip man DBT padėjo valdyti įtampą ir jausmus ................. @kuuskus
   PR262 Crokinole: learn to play workshop .............................. @tadkle
   PR263 Beer making 101 + tasting .................................. @saint66735
+  PR265 Esu Mechanikas pas Ryanair'a, Avia mech darbo specifika +QA .... Douglas
 
 
 --[ SOUND ]
