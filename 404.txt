@@ -52,6 +52,7 @@ into some framework" type of topics.
   PR265 Esu Mechanikas pas Ryanair'a, Avia mech darbo specifika +QA .... Douglas
   PR267 Raktų pakabukų pynimo dirbtuvės ................................... Ieva
   PR268 Programų atestacijos Apple įrenginiuose problemos ............... @monai
+  PR269 Kas yra mėgėjiškas radijas? ................................. @domnantas
 
 
 --[ SOUND ]
