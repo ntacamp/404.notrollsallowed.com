@@ -51,6 +51,7 @@ into some framework" type of topics.
   PR264 ARDF – elektroninių lapių medžioklė ......................... @domnantas
   PR265 Esu Mechanikas pas Ryanair'a, Avia mech darbo specifika +QA .... Douglas
   PR277 Raktų pakabukų pynimo dirbtuvės ................................... Ieva
+  PR278 Programų atestacijos Apple įrenginiuose problemos ............... @monai
 
 
 --[ SOUND ]
