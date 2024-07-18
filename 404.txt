@@ -48,7 +48,12 @@ into some framework" type of topics.
   PR260 Kaip man DBT padėjo valdyti įtampą ir jausmus ................. @kuuskus
   PR262 Crokinole: learn to play workshop .............................. @tadkle
   PR263 Beer making 101 + tasting .................................. @saint66735
-  PR264 Badmintono pasižaidimai .........................................@vizo95
+  PR264 ARDF – elektroninių lapių medžioklė ......................... @domnantas
+  PR265 Esu Mechanikas pas Ryanair'a, Avia mech darbo specifika +QA .... Douglas
+  PR267 Raktų pakabukų pynimo dirbtuvės ................................... Ieva
+  PR268 Programų atestacijos Apple įrenginiuose problemos ............... @monai
+  PR269 Kas yra mėgėjiškas radijas? ................................. @domnantas
+  PR266 Badmintono pasižaidimai .........................................@vizo95
 
 
 --[ SOUND ]
@@ -60,8 +65,8 @@ on Wednesday, cardio on Thursday. Synth party on Friday.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 6128€
-  * status   : 128€
+  * donated  : 6197.69€
+  * status   : 197.69€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
@@ -96,6 +101,7 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Mindaugas Liubinas ................................................... 128 EUR
   Tadas Kleinauskas .................................................... 128 EUR
   Mykolas Kunevičius .................................................... 64 EUR
+  Melitonas .......................................................... 69.69 EUR
 
                                     /\_/\
                                    ( o.o )
