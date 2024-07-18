@@ -55,6 +55,7 @@ into some framework" type of topics.
   PR269 Kas yra mėgėjiškas radijas? ................................. @domnantas
   PR266 Badmintono pasižaidimai ........................................ @vizo95
   PR270 Workshop: Blizgučių stotelė ................................... @golceva
+  PR272 Burlentės - puikus sportas programuotojams ................... @povilasb
 
 
 --[ SOUND ]
