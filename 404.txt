@@ -53,7 +53,8 @@ into some framework" type of topics.
   PR267 Raktų pakabukų pynimo dirbtuvės ................................... Ieva
   PR268 Programų atestacijos Apple įrenginiuose problemos ............... @monai
   PR269 Kas yra mėgėjiškas radijas? ................................. @domnantas
-  PRxxx Workshop: Blizgučių stotelė ................................... @golceva
+  PR266 Badmintono pasižaidimai ........................................ @vizo95
+  PR270 Workshop: Blizgučių stotelė ................................... @golceva
 
 
 --[ SOUND ]
