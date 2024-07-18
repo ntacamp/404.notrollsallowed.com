@@ -54,6 +54,7 @@ into some framework" type of topics.
   PR268 Programų atestacijos Apple įrenginiuose problemos ............... @monai
   PR269 Kas yra mėgėjiškas radijas? ................................. @domnantas
   PR266 Badmintono pasižaidimai ........................................ @vizo95
+  PR270 Workshop: Blizgučių stotelė ................................... @golceva
 
 
 --[ SOUND ]
