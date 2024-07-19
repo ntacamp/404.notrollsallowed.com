@@ -62,6 +62,7 @@ into some framework" type of topics.
   PR275 Rytinė mankšta su Lotynų Amerikos ritmais ............. Austėja & Božena
   PR276 Kaip atspausdinti inkstą? .................................... @konradas
   PR277 Suprasti paauglę: septynios pakopos į suaugusiųjų gyvenimą .. @vytautasv
+  PR278 Be emocijų nėra intelekto ...................................... Emilija
 
 
 --[ SOUND ]
