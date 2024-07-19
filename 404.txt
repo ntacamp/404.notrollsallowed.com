@@ -57,6 +57,7 @@ into some framework" type of topics.
   PR270 Workshop: Blizgučių stotelė ................................... @golceva
   PR272 Burlentės - puikus sportas programuotojams ................... @povilasb
   PR271 Vyrai ir pedikiūras: kodėl verta rūpintis savo pėdomis ......... Paulina
+  PR273 DIY PAPR oro filtravimo sistema ..................... @jonasAndriusiunas
 
 
 --[ SOUND ]
