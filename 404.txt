@@ -60,7 +60,6 @@ into some framework" type of topics.
   PR273 DIY PAPR oro filtravimo sistema ..................... @jonasAndriusiunas
 
 
-
 --[ SOUND ]
 
 There will be sound & traditional police visits. Jam session from mobile phone
