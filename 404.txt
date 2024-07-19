@@ -61,6 +61,7 @@ into some framework" type of topics.
   PR274 Edukacija apie bites ....................................... @arturasjas
   PR275 Rytinė mankšta su Lotynų Amerikos ritmais ............. Austėja & Božena
   PR276 Kaip atspausdinti inkstą? .................................... @konradas
+  PR277 Suprasti paauglę: septynios pakopos į suaugusiųjų gyvenimą....@vytautasv
 
 
 --[ SOUND ]
