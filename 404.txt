@@ -74,8 +74,8 @@ on Wednesday, cardio on Thursday.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 6197.69€
-  * status   : 197.69€
+  * donated  : 6238.09€
+  * status   : 238.09€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
