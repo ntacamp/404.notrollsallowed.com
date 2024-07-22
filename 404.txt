@@ -63,6 +63,7 @@ into some framework" type of topics.
   PR276 Kaip atspausdinti inkstą? .................................... @konradas
   PR277 Suprasti paauglę: septynios pakopos į suaugusiųjų gyvenimą .. @vytautasv
   PR278 Be emocijų nėra intelekto ...................................... Emilija
+  PR279 Kornukopija - maistas kūnui, protui ir sielai .................... Ryčka
   PR281 Kaip išsirinkti dviratį ........................................ @kuusas
 
 
@@ -75,8 +76,8 @@ on Wednesday, cardio on Thursday.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 6238.09€
-  * status   : 238.09€
+  * donated  : 6598€
+  * status   : 598€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
@@ -113,6 +114,9 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Mykolas Kunevičius .................................................... 64 EUR
   Melitonas .......................................................... 69.69 EUR
   Vilma Kazakauskė ................................................... 40.40 EUR
+  Diana Ustinovaitė .................................................. 61.91 EUR
+  Ričardas Leščinskas ................................................... 42 EUR
+  Mantas Šidlauskas .................................................... 256 EUR
 
 
                                     /\_/\
