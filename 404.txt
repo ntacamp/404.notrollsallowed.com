@@ -66,6 +66,7 @@ into some framework" type of topics.
   PR279 Kornukopija - maistas kūnui, protui ir sielai .................... Ryčka
   PR281 Kaip išsirinkti dviratį ........................................ @kuusas
   PR282 Blynų robotas pristatymas ir degustacija ................ @PovilasBrazys
+  PR283 Vieno ruskių app'so istorija. Arba kaip įsisavinti EU lėšas . @kamiccolo
 
 
 --[ SOUND ]
