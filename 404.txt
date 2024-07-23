@@ -65,7 +65,7 @@ into some framework" type of topics.
   PR278 Be emocijų nėra intelekto ...................................... Emilija
   PR279 Kornukopija - maistas kūnui, protui ir sielai .................... Ryčka
   PR281 Kaip išsirinkti dviratį ........................................ @kuusas
-  PR282 Blynų robotas pristatymas ir degustacija .................. @PovilasBraz
+  PR282 Blynų robotas pristatymas ir degustacija ................ @PovilasBrazys
 
 
 --[ SOUND ]
