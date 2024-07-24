@@ -1,7 +1,14 @@
+SHELL := bash
+.ONESHELL:
+.SHELLFLAGS := -eu -o pipefail -c
+.DELETE_ON_ERROR:
+MAKEFLAGS += --warn-undefined-variables
+MAKEFLAGS += --no-builtin-rules
+
 INPUT?=404.txt
 OUTPUT?=index.html
 
-ARCHIVE=2021
+ARCHIVE=2023
 
 .PHONY: build update all archive
 
