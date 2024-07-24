@@ -70,7 +70,7 @@ into some framework" type of topics.
   PR285 Moto trials - smagiau, saugiau, pigiau, daugiau progreso .... @Palivonas
   PR286 100-mečio Lietuvos dainų šventė iš vidaus .................. Austėja KMS
   PR287 RC plane upgrade with an autopilot and video streaming ........ @singler
-  PR288 Let's create LLM party to replace Lithuanian government ........ @aidiss
+  PR290 Let's create LLM party to replace Lithuanian government ........ @aidiss
 
 
 --[ SOUND ]
