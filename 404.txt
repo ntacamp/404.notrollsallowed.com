@@ -67,7 +67,7 @@ into some framework" type of topics.
   PR281 Kaip išsirinkti dviratį ........................................ @kuusas
   PR282 Blynų robotas pristatymas ir degustacija ................ @PovilasBrazys
   PR283 Vieno ruskių app'so istorija. Arba kaip įsisavinti EU lėšas . @kamiccolo
-  PR285 Moto trials - fun, safe, cheap, builds skill ................ @Palivonas
+  PR285 Moto trials - smagiau, saugiau, pigiau, daugiau progreso .... @Palivonas
 
 
 --[ SOUND ]
