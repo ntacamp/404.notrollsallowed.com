@@ -68,6 +68,7 @@ into some framework" type of topics.
   PR282 Blynų robotas pristatymas ir degustacija ................ @PovilasBrazys
   PR283 Vieno ruskių app'so istorija. Arba kaip įsisavinti EU lėšas . @kamiccolo
   PR284 Origami workshopas ................................ @giedriusmarkevicius
+  PR285 Moto trials - smagiau, saugiau, pigiau, daugiau progreso .... @Palivonas
 
 --[ SOUND ]
 
