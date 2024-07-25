@@ -71,6 +71,8 @@ into some framework" type of topics.
   PR286 100-mečio Lietuvos dainų šventė iš vidaus .................. Austėja KMS
   PR287 RC plane upgrade with an autopilot and video streaming ........ @singler
   PR288 Tingios pupelės: kaip informatikas pupeles bando auginti ........ @cirka
+  PR289 Spagečių tilto iššūkis .......................................... @edast
+
 
 --[ SOUND ]
 
