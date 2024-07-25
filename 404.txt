@@ -73,6 +73,7 @@ into some framework" type of topics.
   PR288 Tingios pupelės: kaip informatikas pupeles bando auginti ........ @cirka
   PR289 Spagečių tilto iššūkis .......................................... @edast
   PR290 Let's create LLM party to replace Lithuanian government ........ @aidiss
+  PR291 Naujas trendas parkuose - SpikeBall aka Smūginis. Pažaisim ..... @darles
 
 
 --[ SOUND ]
