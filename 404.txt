@@ -75,7 +75,11 @@ into some framework" type of topics.
   PR290 Let's create LLM party to replace Lithuanian government ........ @aidiss
   PR291 Naujas trendas parkuose - SpikeBall aka Smūginis. Pažaisim ..... @darles
   PR292 3D printing on repeat ................................. @ViliusKraujutis
+  PR293 #404TV: pranešimų transliacijos ir teletekstas analogine TV ... @kareiva
+  PR294 Genų inžinerijos pradmenys - kaip gaminamas insulinas ....... @Varlyte90
+  PR296 Savanorystė. Kam man to reikia? ................................... Bžik
   PR295 Kosminės tamsoje šviečiančios meno dirbtuvės .......... @justinasjaronis
+
 
 --[ SOUND ]
 
@@ -86,8 +90,8 @@ on Wednesday, cardio on Thursday.
 --[ DONATIONS ]
 
   * target   : 6000€
-  * donated  : 6598€
-  * status   : 598€
+  * donated  : 6704€
+  * status   : 704€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
@@ -127,6 +131,8 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Diana Ustinovaitė .................................................. 61.91 EUR
   Ričardas Leščinskas ................................................... 42 EUR
   Mantas Šidlauskas .................................................... 256 EUR
+  Andrius Minkevičius ................................................... 42 EUR
+  Darius Leskauskas ..................................................... 64 EUR
 
 
                                     /\_/\
