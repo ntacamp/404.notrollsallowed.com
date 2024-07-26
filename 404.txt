@@ -116,7 +116,7 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Justas Butkus ........................................................ 256 EUR
   Vitalija Golceva ...................................................... 42 EUR
   Algirdas Stonys ..................................................... 2000 EUR
-  Aurelijus Banelis .................................................... 128 EUR
+  Aurelijus Banelis .................................................... 328 EUR
   Vytautas Šaltenis .................................................... 256 EUR
   Vilius Kraujutis ...................................................... 54 EUR
   Mantvidas Miškinis ................................................... 128 EUR
@@ -134,6 +134,7 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Andrius Minkevičius ................................................... 42 EUR
   Darius Leskauskas ..................................................... 64 EUR
   Vytautas Valatka ..................................................... 100 EUR
+  Giedrius Zakaitis .................................................... 128 EUR
 
 
                                     /\_/\
