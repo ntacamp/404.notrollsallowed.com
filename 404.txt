@@ -75,7 +75,7 @@ into some framework" type of topics.
   PR290 Let's create LLM party to replace Lithuanian government ........ @aidiss
   PR291 Naujas trendas parkuose - SpikeBall aka Smūginis. Pažaisim ..... @darles
   PR292 3D printing on repeat ................................. @ViliusKraujutis
-
+  PR295 Kosminės tamsoje šviečiančios meno dirbtuvės .......... @justinasjaronis
 
 --[ SOUND ]
 
