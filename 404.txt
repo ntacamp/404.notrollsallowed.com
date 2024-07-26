@@ -78,6 +78,7 @@ into some framework" type of topics.
   PR293 #404TV: pranešimų transliacijos ir teletekstas analogine TV ... @kareiva
   PR294 Genų inžinerijos pradmenys - kaip gaminamas insulinas ....... @Varlyte90
   PR296 Savanorystė. Kam man to reikia? ................................... Bžik
+  PR295 Kosminės tamsoje šviečiančios meno dirbtuvės .......... @justinasjaronis
 
 
 --[ SOUND ]
