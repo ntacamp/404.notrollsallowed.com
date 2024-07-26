@@ -76,7 +76,7 @@ into some framework" type of topics.
   PR291 Naujas trendas parkuose - SpikeBall aka Smūginis. Pažaisim ..... @darles
   PR292 3D printing on repeat ................................. @ViliusKraujutis
   PR293 #404TV: pranešimų transliacijos ir teletekstas analogine TV ... @kareiva
-  PR294 Genų inžinerijos pradmenys - kaip gaminamas insulinas.........@Varlyte90
+  PR294 Genų inžinerijos pradmenys - kaip gaminamas insulinas ....... @Varlyte90
 
 
 --[ SOUND ]
