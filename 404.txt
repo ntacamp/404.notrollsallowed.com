@@ -80,6 +80,7 @@ into some framework" type of topics.
   PR296 Savanorystė. Kam man to reikia? ................................... Bžik
   PR295 Kosminės tamsoje šviečiančios meno dirbtuvės .......... @justinasjaronis
   PR297 OSINT - atvirų šaltinių žvalgyba .......................... @brunislovas
+  PR298 You Suck at Cooking ............................................ @xb1itz
 
 --[ SOUND ]
 
