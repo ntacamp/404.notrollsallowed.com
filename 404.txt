@@ -90,7 +90,7 @@ on Wednesday, cardio on Thursday.
 
 --[ DONATIONS ]
 
-  * target   : 6000€
+  * target   : 7300€
   * donated  : 7502€
   * status   : 1502€
 
