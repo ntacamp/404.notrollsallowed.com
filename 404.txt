@@ -9,7 +9,7 @@
 
 --[ DETAILS ]
 
-  Date . .............................................. Wednesday - Sunday, 2024
+  Date . .............................................. Wednesday - Sunday, 2025
   Location .............................................. Somewhere in Lithuania
 
 
@@ -25,62 +25,7 @@ interested in travel stories, life journeys, startups, commercial sh*t, "intro
 into some framework" type of topics.
 
 
-  PR163 Intro: No Trolls Allowed #12 .................................... @pawka
-  PR239 Kodėl tentas yra geriausias stovyklautojo įrankis ............... @pawka
-  PR240 Litavimo ir elektronikos dirbtuvės visiems .................... @kareiva
-  PR242 Sodyba nuo nulio (2020 NTA istorijos tęsinys) .................. @sigrks
-  PR243 Bendra virtuvė ................................................ Hakeriai
-  PR244 Airplane aerodynamics software (design & predict performance) ... @vidma
-  PR245 Kaip pasakojau inžinieriams apie internetą ir PHP ............. @jbutkus
-  PR247 Building Your Own Chips Is Finally Affordable .................... @rtfb
-  PR248 Rainbow gathering .......................................... @aurelijusb
-  PR249 Tepaluotųjų pirščiukų kampelis. Ir mažiems, ir dideliems .... @kestlovas
-  PR250 Groups vs teams: differences in decision making process ....... @rutaisa
-  PR251 My approach to Personal Knowledge Management (PKM) .......... @4giedrius
-  PR252 Scuba Diving 101: Practical Intro to Underwater Exploration .... @rockaz
-  PR253 Akadem. tarptautinių santykių teorijos, kada (ne)kariaujama  @berzasprod
-  PR254 Attraction: Bookshelf of old IT-related books ............. Renardas KMS
-  PR255 Using autonomous 2cm precision GPS lawnmower for a year ............ @2m
-  PR256 Waxing bike chains for fun and profit ............................ @alga
-  PR257 Android Auto headunit from scratch .......................... @nyancat42
-  PR258 Lock picking workshop .......................................... @kuusas
-  PR259 Make your own T-shirt workshop ........................... @aistisraudys
-  PR260 Kaip man DBT padėjo valdyti įtampą ir jausmus ................. @kuuskus
-  PR262 Crokinole: learn to play workshop .............................. @tadkle
-  PR263 Beer making 101 + tasting .................................. @saint66735
-  PR264 ARDF – elektroninių lapių medžioklė ......................... @domnantas
-  PR265 Esu Mechanikas pas Ryanair'a, Avia mech darbo specifika +QA .... Douglas
-  PR267 Raktų pakabukų pynimo dirbtuvės ................................... Ieva
-  PR268 Programų atestacijos Apple įrenginiuose problemos ............... @monai
-  PR269 Kas yra mėgėjiškas radijas? ................................. @domnantas
-  PR266 Badmintono pasižaidimai ........................................ @vizo95
-  PR270 Workshop: Blizgučių stotelė ................................... @golceva
-  PR272 Burlentės - puikus sportas programuotojams ................... @povilasb
-  PR271 Vyrai ir pedikiūras: kodėl verta rūpintis savo pėdomis ......... Paulina
-  PR273 DIY PAPR oro filtravimo sistema ..................... @jonasAndriusiunas
-  PR274 Edukacija apie bites ....................................... @arturasjas
-  PR276 Kaip atspausdinti inkstą? .................................... @konradas
-  PR277 Suprasti paauglę: septynios pakopos į suaugusiųjų gyvenimą .. @vytautasv
-  PR278 Be emocijų nėra intelekto ...................................... Emilija
-  PR279 Kornukopija - maistas kūnui, protui ir sielai .................... Ryčka
-  PR281 Kaip išsirinkti dviratį ........................................ @kuusas
-  PR282 Blynų robotas pristatymas ir degustacija ................ @PovilasBrazys
-  PR283 Vieno ruskių app'so istorija. Arba kaip įsisavinti EU lėšas . @kamiccolo
-  PR284 Origami workshopas ................................ @giedriusmarkevicius
-  PR285 Moto trials - smagiau, saugiau, pigiau, daugiau progreso .... @Palivonas
-  PR286 100-mečio Lietuvos dainų šventė iš vidaus .................. Austėja KMS
-  PR287 RC plane upgrade with an autopilot and video streaming ........ @singler
-  PR288 Tingios pupelės: kaip informatikas pupeles bando auginti ........ @cirka
-  PR289 Spagečių tilto iššūkis .......................................... @edast
-  PR290 Let's create LLM party to replace Lithuanian government ........ @aidiss
-  PR291 Naujas trendas parkuose - SpikeBall aka Smūginis. Pažaisim ..... @darles
-  PR292 3D printing on repeat ................................. @ViliusKraujutis
-  PR293 #404TV: pranešimų transliacijos ir teletekstas analogine TV ... @kareiva
-  PR294 Genų inžinerijos pradmenys - kaip gaminamas insulinas ....... @Varlyte90
-  PR296 Savanorystė. Kam man to reikia? ................................... Bžik
-  PR295 Kosminės tamsoje šviečiančios meno dirbtuvės .......... @justinasjaronis
-  PR297 OSINT - atvirų šaltinių žvalgyba .......................... @brunislovas
-  PR298 You Suck at Cooking ............................................ @xb1itz
+  PR299 Intro: No Trolls Allowed #13 .................................... @pawka
 
 --[ SOUND ]
 
@@ -90,9 +35,9 @@ on Wednesday, cardio on Thursday.
 
 --[ DONATIONS ]
 
-  * target   : 7300€
-  * donated  : 7502€
-  * status   : 202€
+  * target   : 7500€
+  * donated  : 256€
+  * status   : -7244€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
@@ -107,39 +52,6 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
 
 
   VšĮ "Programuotojai" ................................................. 256 EUR
-  Povilas Balzaravičius ................................................ 256 EUR
-  Paulius Podolskis .................................................... 256 EUR
-  Žilvinas Kuusas ...................................................... 256 EUR
-  Simonas Kareiva ...................................................... 256 EUR
-  Petras Baukys ........................................................ 256 EUR
-  MB Strategijos.lt .................................................... 256 EUR
-  MB Sasnausko Technologijos ........................................... 256 EUR
-  Justas Butkus ........................................................ 256 EUR
-  Vitalija Golceva ...................................................... 42 EUR
-  Algirdas Stonys ..................................................... 2000 EUR
-  Aurelijus Banelis .................................................... 328 EUR
-  Vytautas Šaltenis .................................................... 256 EUR
-  Vilius Kraujutis ...................................................... 54 EUR
-  Mantvidas Miškinis ................................................... 128 EUR
-  Rokas Adiklis ........................................................ 128 EUR
-  Henrik Horkuc ........................................................ 512 EUR
-  Gediminas Guoba ...................................................... 256 EUR
-  Mindaugas Liubinas ................................................... 128 EUR
-  Tadas Kleinauskas .................................................... 128 EUR
-  Mykolas Kunevičius .................................................... 64 EUR
-  Melitonas .......................................................... 69.69 EUR
-  Vilma Kazakauskė ................................................... 40.40 EUR
-  Diana Ustinovaitė .................................................. 61.91 EUR
-  Ričardas Leščinskas ................................................... 42 EUR
-  Mantas Šidlauskas .................................................... 256 EUR
-  Andrius Minkevičius ................................................... 42 EUR
-  Darius Leskauskas ..................................................... 64 EUR
-  Vytautas Valatka ..................................................... 100 EUR
-  Giedrius Zakaitis .................................................... 128 EUR
-  Povilas Balčiūnas .................................................... 128 EUR
-  Inga Blaževičienė ..................................................... 50 EUR
-  Jonas Jasas ........................................................... 64 EUR
-  Domantas Petrauskas .................................................. 128 EUR
 
 
                                     /\_/\
