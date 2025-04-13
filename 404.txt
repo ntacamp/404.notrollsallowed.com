@@ -27,6 +27,7 @@ into some framework" type of topics.
 
   PR163 Intro: No Trolls Allowed #13 .................................... @pawka
   PR299 Open Kitchen / Bendra Virtuvė ..................................... Visi
+  PR300 Using autonomous 2cm precision GPS lawnmower for two years ......... @2m
 
 
 -- [ FOOD & KITCHEN AREA ]
