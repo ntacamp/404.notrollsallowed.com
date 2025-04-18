@@ -42,7 +42,7 @@ good, follow it.
 
 --[ DONATIONS ]
 
-  * target   : 7500€
+  * target   : 9000€
   * donated  : 656€
   * status   : -6844€
 
@@ -60,6 +60,7 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
 
   VšĮ "Programuotojai" ................................................. 256 EUR
   Vaidotas Kučinskas ................................................... 400 EUR
+  Rokas Adiklis ........................................................ 256 EUR
 
 
                                     /\_/\
