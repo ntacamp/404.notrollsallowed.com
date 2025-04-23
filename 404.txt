@@ -29,6 +29,7 @@ into some framework" type of topics.
   PR299 Open Kitchen / Bendra Virtuvė ..................................... Visi
   PR300 Using autonomous 2cm precision GPS lawnmower for two years ......... @2m
   PR301 Collatz Number Cruncher at Tiny Tapeout 05: An Update ............ @rtfb
+  PR302 Kodel geriausi investuotojai - mire investuotojai? ............ Martynas
 
 
 -- [ FOOD & KITCHEN AREA ]
