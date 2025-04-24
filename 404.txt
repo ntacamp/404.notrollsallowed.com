@@ -31,6 +31,7 @@ into some framework" type of topics.
   PR301 Collatz Number Cruncher at Tiny Tapeout 05: An Update ............ @rtfb
   PR302 Kodel geriausi investuotojai - mirę investuotojai? ............ Martynas
   PR303 Terminalo kultas ............................................... Brolija
+  PR304 PX4 Autopilot: add a new ARM chip - RP2350 / Raspberry Pico 2 ... @vidma
 
 
 -- [ FOOD & KITCHEN AREA ]
