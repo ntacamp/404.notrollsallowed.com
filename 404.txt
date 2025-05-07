@@ -34,6 +34,7 @@ into some framework" type of topics.
   PR304 PX4 Autopilot: add a new ARM chip - RP2350 / Raspberry Pico 2 ... @vidma
   PR305 Istorinis fechtavimas ilguoju kalaviju ............ @Douglas  @saint66735
   PR306 Jausminis programavimas - dydžio problemos .................... @jbutkus
+  PR307 Trainable Logic Gate Networks ................................ @jogundas
 
 
 -- [ FOOD & KITCHEN AREA ]
