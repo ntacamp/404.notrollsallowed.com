@@ -49,8 +49,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 9000€
-  * donated  : 1168€
-  * status   : -7832€
+  * donated  : 1513€
+  * status   : -7487€
 
 
 The event is free. Free of sponsors too. But we still spend fiat for
