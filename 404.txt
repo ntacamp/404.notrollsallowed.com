@@ -32,10 +32,10 @@ into some framework" type of topics.
   PR302 Kodel geriausi investuotojai - mirę investuotojai? ............ Martynas
   PR303 Terminalo kultas ............................................... Brolija
   PR304 PX4 Autopilot: add a new ARM chip - RP2350 / Raspberry Pico 2 ... @vidma
-  PR305 Istorinis fechtavimas ilguoju kalaviju ............ @Douglas  @saint66735
+  PR305 Istorinis fechtavimas ilguoju kalaviju ............ Douglas & saint66735
   PR306 Jausminis programavimas - dydžio problemos .................... @jbutkus
   PR307 Trainable Logic Gate Networks ................................ @jogundas
-  PR308 How russkies are interfering with any given democracy in the world; a short glimpse into Dezinfo......... @bruno
+  PR308 Countering russkies dezinformation ,,,,,,,,,,,,,,,,,,,,,......... @bruno
 
 
 -- [ FOOD & KITCHEN AREA ]
