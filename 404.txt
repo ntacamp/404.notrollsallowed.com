@@ -35,7 +35,7 @@ into some framework" type of topics.
   PR305 Istorinis fechtavimas ilguoju kalaviju ............ Douglas & saint66735
   PR306 Jausminis programavimas - dydžio problemos .................... @jbutkus
   PR307 Trainable Logic Gate Networks ................................ @jogundas
-  PR308 Countering russkies dezinformation ,,,,,,,,,,,,,,,,,,,,,......... @bruno
+  PR308 Countering russkies dezinformation ,,,,,,,,,,,,,,,,,,,,, ........ @bruno
 
 
 -- [ FOOD & KITCHEN AREA ]
