@@ -29,13 +29,14 @@ into some framework" type of topics.
   PR299 Open Kitchen / Bendra Virtuvė ..................................... Visi
   PR300 Using autonomous 2cm precision GPS lawnmower for two years ......... @2m
   PR301 Collatz Number Cruncher at Tiny Tapeout 05: An Update ............ @rtfb
-  PR302 Kodel geriausi investuotojai - mirę investuotojai? ............ Martynas
+  PR302 Kodėl geriausi investuotojai - mirę investuotojai? ............ Martynas
   PR303 Terminalo kultas ............................................... Brolija
   PR304 PX4 Autopilot: add a new ARM chip - RP2350 / Raspberry Pico 2 ... @vidma
   PR305 Istorinis fechtavimas ilguoju kalaviju ............ Douglas & saint66735
   PR306 Jausminis programavimas - dydžio problemos .................... @jbutkus
   PR307 Trainable Logic Gate Networks ................................ @jogundas
   PR308 Countering russkies dezinformation .............................. @bruno
+  PR309 Ką reiškia "būti šauliu"? Apie šaulystę atvirai ............. @vidmantas
 
 
 -- [ FOOD & KITCHEN AREA ]
