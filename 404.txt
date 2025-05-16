@@ -37,6 +37,7 @@ into some framework" type of topics.
   PR307 Trainable Logic Gate Networks ................................ @jogundas
   PR308 Countering russkies dezinformation .............................. @bruno
   PR309 Ką reiškia "būti šauliu"? Apie šaulystę atvirai ............. @vidmantas
+  PR310 Web apps I made for my music hobby .............................. emilis
 
 
 -- [ FOOD & KITCHEN AREA ]
