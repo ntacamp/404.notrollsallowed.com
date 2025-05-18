@@ -38,6 +38,7 @@ into some framework" type of topics.
   PR308 Countering russkies dezinformation .............................. @bruno
   PR309 Ką reiškia "būti šauliu"? Apie šaulystę atvirai ............. @vidmantas
   PR310 Web apps I made for my music hobby ............................. @emilis
+  PR311 LogSeq: just another Notepad? .............................. @aurelijusb
 
 
 -- [ FOOD & KITCHEN AREA ]
