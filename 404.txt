@@ -39,6 +39,7 @@ into some framework" type of topics.
   PR309 Ką reiškia "būti šauliu"? Apie šaulystę atvirai ............. @vidmantas
   PR310 Web apps I made for my music hobby ............................. @emilis
   PR311 LogSeq: just another Notepad? .............................. @aurelijusb
+  PR312 Nardymas. Ko tikėtis gaunant PADI licenziją ir po to? ........ @adomas-s
 
 
 -- [ FOOD & KITCHEN AREA ]
