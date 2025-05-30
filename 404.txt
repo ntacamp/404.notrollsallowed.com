@@ -40,7 +40,7 @@ into some framework" type of topics.
   PR310 Web apps I made for my music hobby ............................. @emilis
   PR311 LogSeq: just another Notepad? .............................. @aurelijusb
   PR312 Nardymas. Ko tikėtis gaunant PADI licenziją ir po to? ........ @adomas-s
-  PR313 Litavimo workshopas pradedantiesiems: LED'ai, radijos ir kt...  @kareiva
+  PR313 Litavimo workshopas pradedantiesiems: LED'ai, radijos ir kt ... @kareiva
 
 -- [ FOOD & KITCHEN AREA ]
 
