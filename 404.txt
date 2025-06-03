@@ -41,6 +41,7 @@ into some framework" type of topics.
   PR311 LogSeq: just another Notepad? .............................. @aurelijusb
   PR312 Nardymas. Ko tikėtis gaunant PADI licenziją ir po to? ........ @adomas-s
   PR313 Litavimo workshopas pradedantiesiems: LED'ai, radijos ir kt ... @kareiva
+  PR314 Apie antenas ............................................... @INightmare
 
 -- [ FOOD & KITCHEN AREA ]
 
