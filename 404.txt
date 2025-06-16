@@ -44,6 +44,7 @@ into some framework" type of topics.
   PR314 Apie antenas ............................................... @INightmare
   PR315 Madflight Autopilot: simple but powerful / Raspberry Pico 2 ..... @vidma
 
+
 -- [ FOOD & KITCHEN AREA ]
 
 There will be a kitchen area. Open-source style. Bring your own gear, bring your
@@ -77,6 +78,7 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   MB Sasnausko Technologijos ........................................... 256 EUR
   Aurelijus Banelis .................................................... 345 EUR
   Bruno ................................................................ 313 EUR
+  Emilis Dambauskas .................................................... 137 EUR
 
 
                                     /\_/\
