@@ -43,7 +43,7 @@ into some framework" type of topics.
   PR313 Litavimo workshopas pradedantiesiems: LED'ai, radijos ir kt ... @kareiva
   PR314 Apie antenas ............................................... @INightmare
   PR315 Madflight Autopilot: simple but powerful / Raspberry Pico 2 ..... @vidma
-
+  PR316 TCCC - Tactical Combat Casualty Care ........................... @Šernas
 
 -- [ FOOD & KITCHEN AREA ]
 
