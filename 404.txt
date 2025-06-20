@@ -44,6 +44,7 @@ into some framework" type of topics.
   PR314 Apie antenas ............................................... @INightmare
   PR315 Madflight Autopilot: simple but powerful / Raspberry Pico 2 ..... @vidma
   PR316 TCCC - Tactical Combat Casualty Care ........................... @Šernas
+  PR317 Vibe Coding with AI Agents (My Personal Journey) ............... @kuusas
 
 -- [ FOOD & KITCHEN AREA ]
 
