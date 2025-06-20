@@ -46,6 +46,7 @@ into some framework" type of topics.
   PR316 TCCC - Tactical Combat Casualty Care ........................... @Šernas
   PR317 Vibe Coding with AI Agents (My Personal Journey) ............... @kuusas
 
+
 -- [ FOOD & KITCHEN AREA ]
 
 There will be a kitchen area. Open-source style. Bring your own gear, bring your
@@ -80,6 +81,7 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Aurelijus Banelis .................................................... 345 EUR
   Bruno ................................................................ 313 EUR
   Emilis Dambauskas .................................................... 137 EUR
+  Mykolas Kunevičius .................................................... 42 EUR
 
 
                                     /\_/\
