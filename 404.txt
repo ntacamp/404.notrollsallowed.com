@@ -45,6 +45,7 @@ into some framework" type of topics.
   PR315 Madflight Autopilot: simple but powerful / Raspberry Pico 2 ..... @vidma
   PR316 TCCC - Tactical Combat Casualty Care ........................... @Šernas
   PR317 Vibe Coding with AI Agents (My Personal Journey) ............... @kuusas
+  PR318 Astrofotografija: Kaip veikia elektroninė astronomija? .@JuliusStanionis
 
 
 -- [ FOOD & KITCHEN AREA ]
