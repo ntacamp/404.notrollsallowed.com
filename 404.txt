@@ -46,6 +46,7 @@ into some framework" type of topics.
   PR316 TCCC - Tactical Combat Casualty Care ........................... @Šernas
   PR317 Vibe Coding with AI Agents (My Personal Journey) ............... @kuusas
   PR318 Astrofotografija: Kaip veikia elektroninė astronomija?  @JuliusStanionis
+  PR319 Buriavimo burlente teorija ir praktika ..........................Artūras
 
 
 -- [ FOOD & KITCHEN AREA ]
