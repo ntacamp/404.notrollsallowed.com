@@ -35,7 +35,7 @@ into some framework" type of topics.
   PR305 Istorinis fechtavimas ilguoju kalaviju ............ Douglas & saint66735
   PR306 Jausminis programavimas - dydžio problemos .................... @jbutkus
   PR307 Trainable Logic Gate Networks ................................ @jogundas
-  PR308 Countering russkies dezinformation .............................. @bruno
+  PR308 Countering russkies dezinformation ............................... bruno
   PR309 Ką reiškia "būti šauliu"? Apie šaulystę atvirai ............. @vidmantas
   PR310 Web apps I made for my music hobby ............................. @emilis
   PR311 LogSeq: just another Notepad? .............................. @aurelijusb
@@ -43,7 +43,7 @@ into some framework" type of topics.
   PR313 Litavimo workshopas pradedantiesiems: LED'ai, radijos ir kt ... @kareiva
   PR314 Apie antenas ............................................... @INightmare
   PR315 Madflight Autopilot: simple but powerful / Raspberry Pico 2 ..... @vidma
-  PR316 TCCC - Tactical Combat Casualty Care ........................... @Šernas
+  PR316 TCCC - Tactical Combat Casualty Care ............................ Šernas
   PR317 Vibe Coding with AI Agents (My Personal Journey) ............... @kuusas
   PR318 Astrofotografija: Kaip veikia elektroninė astronomija?  @JuliusStanionis
   PR319 Buriavimo burlente teorija ir praktika ......................... Artūras
