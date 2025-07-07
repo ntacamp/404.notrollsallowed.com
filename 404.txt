@@ -49,7 +49,7 @@ into some framework" type of topics.
   PR319 Buriavimo burlente teorija ir praktika ......................... Artūras
   PR320 Įvadas į techninę rinkos analizę ................................ @monai
   PR321 Viešo kalbėjimo kelionė, teorija, praktika ir klaidos ......... @dainora
-  PR322 …  PR322 Kas ta branduolinė energetika ir kaip ji reikalinga Lietuvoje? . Vytenis
+  PR322 Branduolinė energetika ir kaip ji reikalinga Lietuvoje? ........ Vytenis
 
 
 -- [ FOOD & KITCHEN AREA ]
