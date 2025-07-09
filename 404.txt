@@ -50,6 +50,7 @@ into some framework" type of topics.
   PR320 Įvadas į techninę rinkos analizę ................................ @monai
   PR321 Viešo kalbėjimo kelionė, teorija, praktika ir klaidos ......... @dainora
   PR322 Branduolinė energetika ir kaip ji reikalinga Lietuvoje? ........ Vytenis
+  PR323 Kamal: „deployink web app'sus“ bet kur ........................ @daliusd
 
 
 -- [ FOOD & KITCHEN AREA ]
