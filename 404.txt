@@ -52,6 +52,8 @@ into some framework" type of topics.
   PR322 Branduolinė energetika ir kaip ji reikalinga Lietuvoje? ........ Vytenis
   PR323 Kamal: „deployink web app'sus“ bet kur ........................ @daliusd
   PR324 Odininkystės workshopas ....................................... Zhioorke
+  PR325 Kaip visada maikonų workshopas ........................... @aistisraudys
+
 
 -- [ FOOD & KITCHEN AREA ]
 
