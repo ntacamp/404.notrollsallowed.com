@@ -51,7 +51,7 @@ into some framework" type of topics.
   PR321 Viešo kalbėjimo kelionė, teorija, praktika ir klaidos ......... @dainora
   PR322 Branduolinė energetika ir kaip ji reikalinga Lietuvoje? ........ Vytenis
   PR323 Kamal: „deployink web app'sus“ bet kur ........................ @daliusd
-
+  PR324 Odininkystės workshopas........................................ Zhioorke
 
 -- [ FOOD & KITCHEN AREA ]
 
