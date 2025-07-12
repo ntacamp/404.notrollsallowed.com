@@ -52,6 +52,7 @@ into some framework" type of topics.
   PR323 Kamal: „deployink web app'sus“ bet kur ........................ @daliusd
   PR324 Odininkystės workshopas ...................................... @Zhioorke
   PR325 Kaip visada maikonų workshopas ........................... @aistisraudys
+  PR326 Tatuiruočių stotelė ........................................... Vitalija
 
 
 -- [ FOOD & KITCHEN AREA ]
