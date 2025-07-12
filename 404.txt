@@ -53,6 +53,7 @@ into some framework" type of topics.
   PR324 Odininkystės workshopas ...................................... @Zhioorke
   PR325 Kaip visada maikonų workshopas ........................... @aistisraudys
   PR327 Atvirųjų šaltinių žvalgyba ir tyrimų žurnalistika ...... Mindaugas Aušra
+  PR326 Tatuiruočių stotelė ........................................... Vitalija
 
 
 -- [ FOOD & KITCHEN AREA ]
