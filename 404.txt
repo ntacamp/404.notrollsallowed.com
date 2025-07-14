@@ -54,7 +54,7 @@ into some framework" type of topics.
   PR325 Kaip visada maikonų workshopas ........................... @aistisraudys
   PR327 Atvirųjų šaltinių žvalgyba ir tyrimų žurnalistika ...... Mindaugas Aušra
   PR326 Tatuiruočių stotelė ........................................... Vitalija
-  PR328 Pranešimas apie sandėlį, robotus ir konvejerius................@liubinas
+  PR328 Pranešimas apie sandėlį, robotus ir konvejerius .............. @liubinas
 
 
 -- [ FOOD & KITCHEN AREA ]
