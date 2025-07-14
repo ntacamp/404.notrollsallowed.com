@@ -68,8 +68,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 9000€
-  * donated  : 4260.7€
-  * status   : -4739.3€
+  * donated  : 4576.7€
+  * status   : -4423.3€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 9000€. If you want
@@ -99,6 +99,8 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Simonas Kareiva ...................................................... 404 EUR
   Rūta Šiaučiulytė ..................................................... 256 EUR
   Vitalija Golceva ...................................................... 42 EUR
+  Mindaugas Liubinas ................................................... 256 EUR
+  Mindaugas Aušra ....................................................... 60 EUR
 
                                     /\_/\
                                    ( o.o )
