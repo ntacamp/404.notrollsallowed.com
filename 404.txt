@@ -56,6 +56,7 @@ into some framework" type of topics.
   PR326 Tatuiruočių stotelė ........................................... Vitalija
   PR328 Pranešimas apie sandėlį, robotus ir konvejerius .............. @liubinas
   PR329 Matuoti visą vandenį ............................................... @rm
+  PR3xx Penktadienį dieną bus WS - laivų dronų vandens mūšis ............... @rm
   PRxxx Sklandymas - geriau 1000km be variklio ar akrobatika su +6, -4G? .. @EVJ
 
 -- [ FOOD & KITCHEN AREA ]
