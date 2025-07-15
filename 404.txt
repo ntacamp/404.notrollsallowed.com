@@ -69,8 +69,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 9000€
-  * donated  : 5256.7€
-  * status   : -3743.3€
+  * donated  : 5640.7€
+  * status   : -3359.3€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 9000€. If you want
@@ -83,7 +83,7 @@ transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose field: "Parama:
 hall of fame below. For transparency and fame but mostly fame. Thank you!
 
   VšĮ "Programuotojai" ................................................. 256 EUR
-  Vaidotas Kučinskas ................................................... 400 EUR
+  Vaidotas Kučinskas ................................................... 512 EUR
   Rokas Adiklis ........................................................ 256 EUR
   MB Sasnausko Technologijos ........................................... 256 EUR
   Aurelijus Banelis .................................................... 345 EUR
@@ -105,7 +105,8 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Mindaugas Aušra ....................................................... 60 EUR
   Benas Žukauskas ...................................................... 256 EUR
   Mantas Šidlauskas .................................................... 256 EUR
-  Vaidotas Kučinskas ................................................... 112 EUR
+  Adomas Sliuzinskas ................................................... 128 EUR
+  Vytautas Šaltenis .................................................... 256 EUR
 
 
                                     /\_/\
