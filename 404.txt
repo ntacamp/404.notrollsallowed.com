@@ -55,6 +55,7 @@ into some framework" type of topics.
   PR327 Atvirųjų šaltinių žvalgyba ir tyrimų žurnalistika ...... Mindaugas Aušra
   PR326 Tatuiruočių stotelė ........................................... Vitalija
   PR328 Pranešimas apie sandėlį, robotus ir konvejerius .............. @liubinas
+  PRXXX Lockpicking workshop ........................................ Makerspace
 
 
 -- [ FOOD & KITCHEN AREA ]
