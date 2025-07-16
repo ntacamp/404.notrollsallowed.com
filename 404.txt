@@ -59,7 +59,7 @@ into some framework" type of topics.
   PR331 Tinklo spintų pertvarka įstaigoje - kaip man pavyko ........... Renardas
   PR329 Matuoti visą vandenį ............................................... @rm
   PR332 Laivų dronų vandens mūšis .......................................... @rm
-  PRxxx Sklandymas - geriau 1000km be variklio ar akrobatika su +6, -4G? .. @EVJ
+  PR333 Sklandymas - geriau 1000km be variklio ar akrobatika su +6, -4G? .. @EVJ
 
 
 -- [ FOOD & KITCHEN AREA ]
