@@ -59,7 +59,7 @@ into some framework" type of topics.
   PR331 Tinklo spintų pertvarka įstaigoje - kaip man pavyko ........... Renardas
   PR329 Matuoti visą vandenį ............................................... @rm
   PR332 Laivų dronų vandens mūšis .......................................... @rm
-  PR333 Sklandymas - geriau 1000km be variklio ar akrobatika su +6, -4G? .. @EVJ
+  PR333 +6,-4G be variklio; nutrauk dūmus nuo nosies; 4kW rozetė kuprinėj . @EVJ
   PR334 Kaip iš veido atpažinti inžinierių? .................... Tomas ir Gabija
 
 
@@ -75,8 +75,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 9000€
-  * donated  : 6024.7€
-  * status   : -2975.3€
+  * donated  : 6197.84€
+  * status   : -2802.16€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 9000€. If you want
@@ -115,6 +115,10 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Vytautas Šaltenis .................................................... 256 EUR
   Ričardas Leščinskas .................................................. 128 EUR
   Žilvinas Kuusas ...................................................... 256 EUR
+  Eglė Silauskaitė ...................................................... 42 EUR
+  Tomas Stasiukaitis .................................................. 3.14 EUR
+  Renardas Gruodis ..................................................... 128 EUR
+
 
                                     /\_/\
                                    ( o.o )
