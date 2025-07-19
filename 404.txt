@@ -60,6 +60,9 @@ into some framework" type of topics.
   PR329 Matuoti visą vandenį ............................................... @rm
   PR332 Laivų dronų vandens mūšis .......................................... @rm
   PR333 Sklandymas - geriau 1000km be variklio ar akrobatika su +6, -4G? .. @EVJ
+  PR334 Eko sodas, greitas kompostas, augalų sinergija....................Sandra
+  PR335 Kai bedarbis atranda fermentaciją..................................Ryčka
+  PR336 Ale viduramžių mėsgalis molyje (ir pasakos prie laužo)....Tomas ir Ryčka
 
 
 -- [ FOOD & KITCHEN AREA ]
