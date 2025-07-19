@@ -62,6 +62,7 @@ into some framework" type of topics.
   PR333 +6,-4G be variklio; nutrauk dūmus nuo nosies; 4kW rozetė kuprinėj . @EVJ
   PR336 Kaip iš veido atpažinti inžinierių? .................... Tomas ir Gabija
   PR337 Šunų dantų priežiūra 101 ................................ Zefyros Draugė
+  PR338 Moksliuko nuotykiai su Scientific American ir Google Gemini...@VytautasV
 
 
 -- [ FOOD & KITCHEN AREA ]
