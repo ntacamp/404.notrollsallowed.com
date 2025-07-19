@@ -60,6 +60,7 @@ into some framework" type of topics.
   PR329 Matuoti visą vandenį ............................................... @rm
   PR332 Laivų dronų vandens mūšis .......................................... @rm
   PR333 +6,-4G be variklio; nutrauk dūmus nuo nosies; 4kW rozetė kuprinėj . @EVJ
+  PR336 Kaip iš veido atpažinti inžinierių? .................... Tomas ir Gabija
 
 
 -- [ FOOD & KITCHEN AREA ]
