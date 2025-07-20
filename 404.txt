@@ -64,6 +64,8 @@ into some framework" type of topics.
   PR337 Šunų dantų priežiūra 101 .................................. Julė & Greta
   PR338 Moksliuko nuotykiai su Scientific American ir Google Gemini . @VytautasV
   PR339 Antweight robotukų dirbtuvės ................................. @juodumas
+  PR340 ALe viduramžių mėsgalis molyje (ir pasakos prie laužo) .. Tomas ir Ryčka
+  PR341 Eko sodas, greitas kompostas ir augalų sinergija ................ Sandra
   PR442 Kai bedarbis atranda fermentaciją..................................Ryčka
 
 
@@ -79,8 +81,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 9000€
-  * donated  : 6261.84€
-  * status   : -2738.16€
+  * donated  : 6773.84€
+  * status   : -2226.16€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 9000€. If you want
@@ -123,6 +125,7 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Tomas Stasiukaitis .................................................. 3.14 EUR
   Renardas Gruodis ..................................................... 128 EUR
   Inga Blaževičienė ..................................................... 64 EUR
+  Henrik Korkuc ........................................................ 512 EUR
 
 
                                     /\_/\
