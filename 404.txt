@@ -64,6 +64,7 @@ into some framework" type of topics.
   PR337 Šunų dantų priežiūra 101 .................................. Julė & Greta
   PR338 Moksliuko nuotykiai su Scientific American ir Google Gemini . @VytautasV
   PR339 Antweight robotukų dirbtuvės ................................. @juodumas
+  PR340 ALe viduramžių mėsgalis molyje (ir pasakos prie laužo)....Tomas ir Ryčka
 
 
 -- [ FOOD & KITCHEN AREA ]
