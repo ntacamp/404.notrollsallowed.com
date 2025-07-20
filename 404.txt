@@ -66,8 +66,9 @@ into some framework" type of topics.
   PR339 Antweight robotukų dirbtuvės ................................. @juodumas
   PR340 ALe viduramžių mėsgalis molyje (ir pasakos prie laužo) .. Tomas ir Ryčka
   PR341 Eko sodas, greitas kompostas ir augalų sinergija ................ Sandra
-  PR442 Kai bedarbis atranda fermentaciją ................................ Ryčka
+  PR342 Kai bedarbis atranda fermentaciją ................................ Ryčka
   PR343 Vibe Bread baking ..................................... @TankiaiTaskuota
+  PR344 Gyvenimas su miniatiūriniu tiranozauru (t.y. vištuke) ......... Kristina
 
 
 -- [ FOOD & KITCHEN AREA ]
