@@ -70,6 +70,8 @@ into some framework" type of topics.
   PR343 Vibe Bread baking ..................................... @TankiaiTaskuota
   PR344 Gyvenimas su miniatiūriniu tiranozauru (t.y. vištuke) ......... Kristina
   PR345 Dideli muilo burbulai ............................... Aurelijus ir Adelė
+  PR346 Miesto karščio salos - kas tai ir kaip jas valdyti? ........... MsZefyra
+
 
 -- [ FOOD & KITCHEN AREA ]
 
