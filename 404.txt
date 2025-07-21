@@ -72,7 +72,7 @@ into some framework" type of topics.
   PR345 Dideli muilo burbulai ............................... Aurelijus ir Adelė
   PR346 Miesto karščio salos - kas tai ir kaip jas valdyti? ........... MsZefyra
   PR347 Muzikinis protmūšis .............................................. Laima
-  PR348 Kaip rašyti be klaidų........................................Austėja KMS
+  PR348 Kaip rašyti be klaidų ...................................... Austėja KMS
 
 
 
