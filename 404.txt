@@ -69,7 +69,7 @@ into some framework" type of topics.
   PR342 Kai bedarbis atranda fermentaciją ................................ Ryčka
   PR343 Vibe Bread baking ..................................... @TankiaiTaskuota
   PR344 Gyvenimas su miniatiūriniu tiranozauru (t.y. vištuke) ......... Kristina
-
+  PR345 Dideli muilo burbulai ............................... Aurelijus ir Adelė
 
 -- [ FOOD & KITCHEN AREA ]
 
