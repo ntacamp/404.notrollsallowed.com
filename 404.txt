@@ -71,6 +71,8 @@ into some framework" type of topics.
   PR344 Gyvenimas su miniatiūriniu tiranozauru (t.y. vištuke) ......... Kristina
   PR345 Dideli muilo burbulai ............................... Aurelijus ir Adelė
   PR346 Miesto karščio salos - kas tai ir kaip jas valdyti? ........... MsZefyra
+  PR347 Muzikinis protmūšis .............................................. Laima
+
 
 
 -- [ FOOD & KITCHEN AREA ]
