@@ -74,6 +74,7 @@ into some framework" type of topics.
   PR347 Muzikinis protmūšis .............................................. Laima
   PR348 Kaip rašyti be klaidų ...................................... Austėja KMS
   PR349 Išgyventi Dakarą. Sunkiausias ralis ar geriausios atostogos? ... @darles
+  PR350 Retro library (main stage area) - nostalgiška literatūra .... Makerspace
 
 
 -- [ FOOD & KITCHEN AREA ]
