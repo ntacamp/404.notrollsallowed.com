@@ -76,7 +76,6 @@ into some framework" type of topics.
   PR349 Išgyventi Dakarą. Sunkiausias ralis ar geriausios atostogos? ... @darles
 
 
-
 -- [ FOOD & KITCHEN AREA ]
 
 There will be a kitchen area. Open-source style. Bring your own gear, bring your
@@ -137,8 +136,8 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Justas Chadasevičius .................................................. 64 EUR
   Julius Stanionis ...................................................... 25 EUR
   Mindina  .............................................................. 84 EUR
-  Darius Leskauskas  ................................................... 256 EUR
-
+  Darius Leskauskas .................................................... 256 EUR
+  Tadas Kleinauskas ..................................................... 64 EUR
 
                                     /\_/\
                                    ( o.o )
