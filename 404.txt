@@ -73,6 +73,7 @@ into some framework" type of topics.
   PR346 Miesto karščio salos - kas tai ir kaip jas valdyti? ........... MsZefyra
   PR347 Muzikinis protmūšis .............................................. Laima
   PR348 Kaip rašyti be klaidų ...................................... Austėja KMS
+  PRXXX Retro library (main stage area) - nostalgiška literatūra .... Makerspace
 
 
 
