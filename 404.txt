@@ -75,6 +75,7 @@ into some framework" type of topics.
   PR348 Kaip rašyti be klaidų ...................................... Austėja KMS
   PR349 Išgyventi Dakarą. Sunkiausias ralis ar geriausios atostogos? ... @darles
   PR350 Retro library (main stage area) - nostalgiška literatūra .... Makerspace
+  PR351 Ką reiškia skaičiai ant miegmaišio ar turistinio kilimėlio? ... Kristina
 
 
 -- [ FOOD & KITCHEN AREA ]
