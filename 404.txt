@@ -73,7 +73,7 @@ into some framework" type of topics.
   PR346 Miesto karščio salos - kas tai ir kaip jas valdyti? ........... MsZefyra
   PR347 Muzikinis protmūšis .............................................. Laima
   PR348 Kaip rašyti be klaidų ...................................... Austėja KMS
-
+  PR349 Išgyventi Dakarą. Sunkiausias ralis ar geriausios atostogos? ... @darles
 
 
 -- [ FOOD & KITCHEN AREA ]
@@ -88,8 +88,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 9000€
-  * donated  : 7266.84€
-  * status   : -1733.16€
+  * donated  : 7202.84€
+  * status   : -1797.16€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 9000€. If you want
@@ -138,7 +138,6 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Mindina  .............................................................. 84 EUR
   Darius Leskauskas .................................................... 256 EUR
   Tadas Kleinauskas ..................................................... 64 EUR
-  
 
                                     /\_/\
                                    ( o.o )
