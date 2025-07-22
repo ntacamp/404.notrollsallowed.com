@@ -76,6 +76,7 @@ into some framework" type of topics.
   PR349 Išgyventi Dakarą. Sunkiausias ralis ar geriausios atostogos? ... @darles
   PR350 Retro library (main stage area) - nostalgiška literatūra .... Makerspace
   PR351 Ką reiškia skaičiai ant miegmaišio ar turistinio kilimėlio? ... Kristina
+  PR352 Crokinole and other board games workshop ....................... @tadkle
 
 
 -- [ FOOD & KITCHEN AREA ]
