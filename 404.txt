@@ -77,6 +77,7 @@ into some framework" type of topics.
   PR350 Retro library (main stage area) - nostalgiška literatūra .... Makerspace
   PR351 Ką reiškia skaičiai ant miegmaišio ar turistinio kilimėlio? ... Kristina
   PR352 Crokinole and other board games workshop ....................... @tadkle
+  PR353 Širšių lizdo naikinimo workšopas ........................ Petras & Pawka
 
 
 -- [ FOOD & KITCHEN AREA ]
