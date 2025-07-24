@@ -78,8 +78,10 @@ into some framework" type of topics.
   PR351 Ką reiškia skaičiai ant miegmaišio ar turistinio kilimėlio? ... Kristina
   PR352 Crokinole and other board games workshop ....................... @tadkle
   PR353 Širšių lizdo naikinimo workšopas ........................ Petras & Pawka
-  PR355 Kai natas skaityti sunku, o groti norisi ..................... @Lashas83 
-
+  PR354 Psichologinė nuosavybė: oras, kodas ir mokslas ................. @credas
+  PR355 Origami dirbtuves ............................................. Giedrius
+  PR356 Šakočio tešlos maišymas, kepimas ir degustacija ................ Paulius
+  PR357 Kai natas skaityti sunku, o groti norisi ..................... @Lashas83 
 
 
 -- [ FOOD & KITCHEN AREA ]
