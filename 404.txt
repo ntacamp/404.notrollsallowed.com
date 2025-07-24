@@ -80,6 +80,7 @@ into some framework" type of topics.
   PR353 Širšių lizdo naikinimo workšopas ........................ Petras & Pawka
   PR354 Psichologinė nuosavybė: oras, kodas ir mokslas ................. @credas
   PR355 Origami dirbtuves ............................................. Giedrius
+  PR356 Šakočio tešlos maišymas, kepimas ir degustacija ................ Paulius
 
 
 -- [ FOOD & KITCHEN AREA ]
