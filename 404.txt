@@ -79,6 +79,8 @@ into some framework" type of topics.
   PR352 Crokinole and other board games workshop ....................... @tadkle
   PR353 Širšių lizdo naikinimo workšopas ........................ Petras & Pawka
   PR354 Psichologinė nuosavybė: oras, kodas ir mokslas ................. @credas
+  PR355 Origami dirbtuves ............................................. Giedrius
+
 
 -- [ FOOD & KITCHEN AREA ]
 
