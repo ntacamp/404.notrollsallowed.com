@@ -78,6 +78,8 @@ into some framework" type of topics.
   PR351 Ką reiškia skaičiai ant miegmaišio ar turistinio kilimėlio? ... Kristina
   PR352 Crokinole and other board games workshop ....................... @tadkle
   PR353 Širšių lizdo naikinimo workšopas ........................ Petras & Pawka
+  PR358 Pa-kontributinkim: atviro kodo bei duomenų bad, good & ugly . @kamiccolo
+
 
 
 -- [ FOOD & KITCHEN AREA ]
