@@ -81,6 +81,7 @@ into some framework" type of topics.
   PR354 Psichologinė nuosavybė: oras, kodas ir mokslas ................. @credas
   PR355 Origami dirbtuves ............................................. Giedrius
   PR356 Šakočio tešlos maišymas, kepimas ir degustacija ................ Paulius
+  PR357 Kai natas skaityti sunku, o groti norisi ..................... @Lashas83 
 
 
 -- [ FOOD & KITCHEN AREA ]
