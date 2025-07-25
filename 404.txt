@@ -81,10 +81,12 @@ into some framework" type of topics.
   PR354 Psichologinė nuosavybė: oras, kodas ir mokslas ................. @credas
   PR355 Origami dirbtuves ............................................. Giedrius
   PR356 Šakočio tešlos maišymas, kepimas ir degustacija ................ Paulius
-  PR357 Kai natas skaityti sunku, o groti norisi ....................…  @Lashas83
+  PR357 Kai natas skaityti sunku, o groti norisi ..................... @Lashas83
   PR358 Pa-kontributinkim: atviro kodo bei duomenų bad, good & ugly . @kamiccolo
   PR359 Atsisėk ant off road motociklo ................................. Andrius
-  PR360 Village Electricity and Electronics: Part 1.....................Pranas S
+  PR360 Alternatyvus būstas keliaujant: nuo bomžturo iki pilies ........ Jaronis
+  PR361 Zefyrų kepimas ant turboreaktyvinio variklio :) .. Martynas Vosylius KMS
+  PR362 Village Electricity and Electronics: Part 1.....................Pranas S
 
 
 -- [ FOOD & KITCHEN AREA ]
@@ -99,8 +101,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 9000€
-  * donated  : 7867€
-  * status   : -1133€
+  * donated  : 7909€
+  * status   : -1091€
 
 The event is free. Free of sponsors too. But we still spend fiat for
 infrastructure and cookies. A rough estimate of event cost is 9000€. If you want
@@ -153,6 +155,7 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
   Karolis Viduto ...................................................... 9.81 EUR
   Gedas Kucinskas ...................................................... 123 EUR
   Paulius Briedis .................................................... 63.35 EUR
+  Douglas Glivva ........................................................ 42 EUR
 
 
                                     /\_/\
