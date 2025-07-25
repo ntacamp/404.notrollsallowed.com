@@ -86,7 +86,7 @@ into some framework" type of topics.
   PR359 Atsisėk ant off road motociklo ................................. Andrius
   PR360 Alternatyvus būstas keliaujant: nuo bomžturo iki pilies ........ Jaronis
   PR361 Zefyrų kepimas ant turboreaktyvinio variklio :) .. Martynas Vosylius KMS
-  PR362 Village Electricity and Electronics: Part 1.....................Pranas S
+  PR362 Village Electricity and Electronics: Part 1 ................... Pranas S
 
 
 -- [ FOOD & KITCHEN AREA ]
