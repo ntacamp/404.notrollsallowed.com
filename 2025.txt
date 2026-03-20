@@ -1,0 +1,180 @@
+                             _  _    ___  _  _
+                            | || |  / _ \| || |
+                            | || |_| | | | || |_
+                            |__   _| | | |__   _|
+                               | | | |_| |  | |
+                               |_|  \___/   |_|
+                                Camp Not Found
+
+
+--[ DETAILS ]
+
+  Date . .............................................. Wednesday - Sunday, 2025
+  Location .............................................. Somewhere in Lithuania
+
+
+--[ PRESENTATIONS & ACTIVITIES ]
+
+There will be one stage. Common stage. Named "Common sense stage". If you want
+to participate, you must contribute. Add your topic to presentations list on
+404.txt file [1] and open a pull request. Set topic title or workshop name as PR
+title, add short description in the PR description field and wait. If we decide
+your topic meets the spirit of 404, it will be approved. We are interested in
+hacking, making, building, coding, brewing, hobbing, art, workshops. We are not
+interested in travel stories, life journeys, startups, commercial sh*t, "intro
+into some framework" type of topics.
+
+  PR163 Intro: No Trolls Allowed #13 .................................... @pawka
+  PR299 Open Kitchen / Bendra Virtuvė ..................................... Visi
+  PR300 Using autonomous 2cm precision GPS lawnmower for two years ......... @2m
+  PR301 Collatz Number Cruncher at Tiny Tapeout 05: An Update ............ @rtfb
+  PR302 Kodėl geriausi investuotojai - mirę investuotojai? ............ Martynas
+  PR303 Terminalo kultas ............................................... Brolija
+  PR304 PX4 Autopilot: add a new ARM chip - RP2350 / Raspberry Pico 2 ... @vidma
+  PR305 Istorinis fechtavimas ilguoju kalaviju ............ Douglas & saint66735
+  PR306 Jausminis programavimas - dydžio problemos .................... @jbutkus
+  PR307 Trainable Logic Gate Networks ................................ @jogundas
+  PR308 Countering russkies dezinformation ............................... bruno
+  PR309 Ką reiškia "būti šauliu"? Apie šaulystę atvirai ............. @vidmantas
+  PR310 Web apps I made for my music hobby ............................. @emilis
+  PR311 LogSeq: just another Notepad? .............................. @aurelijusb
+  PR312 Nardymas. Ko tikėtis gaunant PADI licenziją ir po to? ........ @adomas-s
+  PR313 Litavimo workshopas pradedantiesiems: LED'ai, radijos ir kt ... @kareiva
+  PR314 Apie antenas ............................................... @INightmare
+  PR315 Madflight Autopilot: simple but powerful / Raspberry Pico 2 ..... @vidma
+  PR316 TCCC - Tactical Combat Casualty Care ............................ Šernas
+  PR317 Vibe Coding with AI Agents (My Personal Journey) ............... @kuusas
+  PR318 Astrofotografija: Kaip veikia elektroninė astronomija?  @JuliusStanionis
+  PR319 Buriavimo burlente teorija ir praktika ..................... @arturasjas
+  PR320 Įvadas į techninę rinkos analizę ................................ @monai
+  PR321 Viešo kalbėjimo kelionė, teorija, praktika ir klaidos ......... @dainora
+  PR322 Branduolinė energetika ir kaip ji reikalinga Lietuvoje? ........ Vytenis
+  PR323 Kamal: „deployink web app'sus“ bet kur ........................ @daliusd
+  PR324 Odininkystės workshopas ...................................... @Zhioorke
+  PR325 Kaip visada maikonų workshopas ........................... @aistisraudys
+  PR327 Atvirųjų šaltinių žvalgyba ir tyrimų žurnalistika ...... Mindaugas Aušra
+  PR326 Tatuiruočių stotelė ........................................... Vitalija
+  PR328 Pranešimas apie sandėlį, robotus ir konvejerius .............. @liubinas
+  PR330 Lockpicking workshop ........................................ Makerspace
+  PR331 Tinklo spintų pertvarka įstaigoje - kaip man pavyko ........... Renardas
+  PR329 Matuoti visą vandenį ............................................... @rm
+  PR332 Laivų dronų vandens mūšis .......................................... @rm
+  PR333 +6,-4G be variklio; nutrauk dūmus nuo nosies; 4kW rozetė kuprinėj . @EVJ
+  PR336 Kaip iš veido atpažinti inžinierių? .................... Tomas ir Gabija
+  PR337 Šunų dantų priežiūra 101 .................................. Julė & Greta
+  PR338 Moksliuko nuotykiai su Scientific American ir Google Gemini . @VytautasV
+  PR339 Antweight robotukų dirbtuvės ................................. @juodumas
+  PR340 ALe viduramžių mėsgalis molyje (ir pasakos prie laužo) .. Tomas ir Ryčka
+  PR341 Eko sodas, greitas kompostas ir augalų sinergija ................ Sandra
+  PR342 Kai bedarbis atranda fermentaciją ................................ Ryčka
+  PR343 Vibe Bread baking ..................................... @TankiaiTaskuota
+  PR344 Gyvenimas su miniatiūriniu tiranozauru (t.y. vištuke) ......... Kristina
+  PR345 Dideli muilo burbulai ............................... Aurelijus ir Adelė
+  PR346 Miesto karščio salos - kas tai ir kaip jas valdyti? ........... MsZefyra
+  PR347 Muzikinis protmūšis .............................................. Laima
+  PR348 Kaip rašyti be klaidų ...................................... Austėja KMS
+  PR349 Išgyventi Dakarą. Sunkiausias ralis ar geriausios atostogos? ... @darles
+  PR350 Retro library (main stage area) - nostalgiška literatūra .... Makerspace
+  PR351 Ką reiškia skaičiai ant miegmaišio ar turistinio kilimėlio? ... Kristina
+  PR352 Crokinole and other board games workshop ....................... @tadkle
+  PR353 Širšių lizdo naikinimo workšopas ........................ Petras & Pawka
+  PR354 Psichologinė nuosavybė: oras, kodas ir mokslas ................. @credas
+  PR355 Origami dirbtuves ............................................. Giedrius
+  PR356 Šakočio tešlos maišymas, kepimas ir degustacija ................ Paulius
+  PR357 Kai natas skaityti sunku, o groti norisi ..................... @Lashas83
+  PR358 Pa-kontributinkim: atviro kodo bei duomenų bad, good & ugly . @kamiccolo
+  PR359 Atsisėk ant off road motociklo ................................. Andrius
+  PR360 Alternatyvus būstas keliaujant: nuo bomžturo iki pilies ........ Jaronis
+  PR361 Zefyrų kepimas ant turboreaktyvinio variklio :) .. Martynas Vosylius KMS
+  PR362 Village Electricity and Electronics: Part 1 ................... Pranas S
+  PR363 Happy Backups with Btrfs ...................................... @Eximius
+
+
+-- [ FOOD & KITCHEN AREA ]
+
+There will be a kitchen area. Open-source style. Bring your own gear, bring your
+own food, or bring your own weird recipe and share it. No meals provided, no
+equipment supplied, no chef hats—just burners, blades, and bits. Hack your
+lunch, patch your dinner. Volunteers welcome, mess inevitable. If it smells
+good, follow it.
+
+
+--[ DONATIONS ]
+
+  * target   : 9000€
+  * donated  : 8983€
+  * status   : -17€
+
+The event is free. Free of sponsors too. But we still spend fiat for
+infrastructure and cookies. A rough estimate of event cost is 9000€. If you want
+to support this initiative, we accept donations. Donations are accepted before,
+during or even after the event. Though we prefer before. If bigger than targeted
+amount is collected before the event, we'll build better infrastructure. In case
+the event is canceled - we will return your donations. Bank account for
+transfers: LT927300010139226671 "VšĮ Programuotojai". Purpose field: "Parama:
+404". We also accept BTC to bech32 address [2]. Every donor is listed at the
+hall of fame below. For transparency and fame but mostly fame. Thank you!
+
+  VšĮ "Programuotojai" ................................................. 256 EUR
+  Vaidotas Kučinskas ................................................... 512 EUR
+  Rokas Adiklis ........................................................ 256 EUR
+  MB Sasnausko Technologijos ........................................... 256 EUR
+  Aurelijus Banelis .................................................... 345 EUR
+  Bruno ................................................................ 313 EUR
+  Emilis Dambauskas .................................................... 137 EUR
+  Mykolas Kunevičius .................................................... 42 EUR
+  Justas Butkus ........................................................ 404 EUR
+  Melitonas Mikaločius ................................................. 256 EUR
+  Dainora Bučytė ........................................................ 42 EUR
+  Vilius Bilinkevičius ................................................ 91.7 EUR
+  Dalius Dobravolskas .................................................. 100 EUR
+  Andrius Minkevičius .................................................. 404 EUR
+  Paulius Podolskis .................................................... 256 EUR
+  Simonas Kareiva ...................................................... 404 EUR
+  Rūta Šiaučiulytė ..................................................... 256 EUR
+  Vitalija Golceva ...................................................... 42 EUR
+  Jasevičius Artūras .................................................... 56 EUR
+  Mindaugas Liubinas ................................................... 256 EUR
+  Mindaugas Aušra ....................................................... 60 EUR
+  Benas Žukauskas ...................................................... 256 EUR
+  Mantas Šidlauskas .................................................... 256 EUR
+  Adomas Sliuzinskas ................................................... 128 EUR
+  Vytautas Šaltenis .................................................... 256 EUR
+  Ričardas Leščinskas .................................................. 128 EUR
+  Žilvinas Kuusas ...................................................... 256 EUR
+  Eglė Silauskaitė ...................................................... 42 EUR
+  Tomas Stasiukaitis .................................................. 3.14 EUR
+  Renardas Gruodis ..................................................... 128 EUR
+  Inga Blaževičienė ..................................................... 64 EUR
+  Henrik Korkuc ........................................................ 512 EUR
+  Justas Chadasevičius .................................................. 64 EUR
+  Julius Stanionis ...................................................... 25 EUR
+  Mindina  .............................................................. 84 EUR
+  Darius Leskauskas .................................................... 256 EUR
+  Tadas Kleinauskas ..................................................... 64 EUR
+  Anonimical donation .................................................. 404 EUR
+  Karolis Viduto ...................................................... 9.81 EUR
+  Gedas Kucinskas ...................................................... 123 EUR
+  Paulius Briedis .................................................... 63.35 EUR
+  Douglas Glivva ........................................................ 42 EUR
+  Gretė Vaičaitytė ...................................................... 42 EUR
+  MB Pastatų Inžinerinės Sistemos ....................................... 99 EUR
+  Aivaras Baranauskas ................................................... 50 EUR
+  Audrius Blaževičius .................................................. 128 EUR
+  Domas Gerta ........................................................... 64 EUR
+  Vaidotas Kascėnas ...................................................80.08 EUR
+  Giedrius Zakaitis .................................................... 128 EUR
+  Vytautas Valatka ..................................................... 168 EUR
+  MB Dopaminas ......................................................... 256 EUR
+  Algirdas Lašas ........................................................ 97 EUR
+  Julė Jankauskaitė ..................................................... 42 EUR
+
+
+                                    /\_/\
+                                   ( o.o )
+                                    > ^ <
+
+  [1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
+  [2] bc1qvrsl0zfwl688j3vrqd6ujazshqdn70kvz7suw2cj0055s6936g9qh2h7ct
+
+# vim: formatoptions+=aw spell tw=80
