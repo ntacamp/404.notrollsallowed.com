@@ -26,6 +26,7 @@ into some framework" type of topics.
 
   PR163 Intro: No Trolls Allowed #14 .................................... @pawka
   PR299 Open Kitchen / Bendra Virtuvė ..................................... Visi
+  PR364 Ardupilot IMU drivers: adding new fancy Murata IMUs ............. @vidma
 
 
 -- [ FOOD & KITCHEN AREA ]
