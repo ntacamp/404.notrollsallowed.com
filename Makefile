@@ -10,7 +10,7 @@ OUTPUT?=index.html
 
 ARCHIVE=2025
 
-.PHONY: build update all archive
+.PHONY: build update all archive serve
 
 all: build archive
 
@@ -20,6 +20,15 @@ build: update
 update:
 	bin/update.sh < $(INPUT) > $(INPUT).tmp
 	mv $(INPUT).tmp $(INPUT)
+
+serve: build
+	python3 << 'EOF'
+	import http.server, socketserver, subprocess
+	ip = subprocess.check_output(['hostname', '-I']).decode().split()[0]
+	server = socketserver.TCPServer(('0.0.0.0', 0), http.server.SimpleHTTPRequestHandler)
+	print(f'http://{ip}:{server.server_address[1]}')
+	server.serve_forever()
+	EOF
 
 archive: $(ARCHIVE) $(ARCHIVE).txt $(ARCHIVE)/index.html
 

@@ -12,6 +12,7 @@
             max-width: 100%;
             box-sizing: border-box;
             overflow-x: auto;
+            font-size: clamp(6px, 2vw, 16px);
         }
     </style>
 </head>
