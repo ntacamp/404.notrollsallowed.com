@@ -67,7 +67,7 @@ hall of fame below. For transparency and fame but mostly fame. Thank you!
                                    ( o.o )
                                     > ^ <
 
-  [1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
-  [2] bc1qvrsl0zfwl688j3vrqd6ujazshqdn70kvz7suw2cj0055s6936g9qh2h7ct
+[1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
+[2] bc1qvrsl0zfwl688j3vrqd6ujazshqdn70kvz7suw2cj0055s6936g9qh2h7ct
 
 # vim: formatoptions+=aw spell tw=80

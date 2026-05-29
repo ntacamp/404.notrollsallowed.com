@@ -28,8 +28,27 @@ add_links() {
     sed -E 's~ (http(s)://[^ ]+)~ <a href="\1">\1</a>~g'
 }
 
+add_footnote_links() {
+    local content
+    content=$(cat)
+
+    local subs=""
+    while IFS= read -r line; do
+        if [[ "$line" =~ \[([0-9]+)\][[:space:]]+(https?://[^[:space:]]+) ]]; then
+            local ref="${BASH_REMATCH[1]}"
+            local url="${BASH_REMATCH[2]}"
+            subs+="s~\[${ref}\]~<a href=\"${url}\">[${ref}]</a>~g;"
+        fi
+    done <<< "$content"
+
+    [[ -z "$subs" ]] && { echo "$content"; return; }
+
+    echo "$content" \
+        | sed -E "/^[[:space:]]*\[[0-9]+\][[:space:]]/! { ${subs} }"
+}
+
 main() {
-    add_links | add_pr_links | add_user_links | build_html
+    add_footnote_links | add_links | add_pr_links | add_user_links | build_html
 }
 
 main "$@"
