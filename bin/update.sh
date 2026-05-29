@@ -22,11 +22,53 @@ update_donations() {
         | sed -E "s~( status[^-0-9]+)(-?[0-9.]+)~\1$status~"
 }
 
+get_donor_name() {
+    local line=$1
+    echo "$line" \
+        | sed -E 's/ +[.[:space:]]*[0-9]+(\.[0-9]+)? EUR$//' \
+        | awk '{ $1 = $1; print $0 }'
+}
+
+get_donor_amount() {
+    local line=$1
+    echo "$line" | grep -Eo "[0-9]+(\.[0-9]+)? EUR"
+}
+
+format_donor() {
+    local line=$1
+
+    local name
+    name=$(get_donor_name "$line")
+
+    local amount
+    amount=$(get_donor_amount "$line")
+
+    local page_width=80
+    local len_name=${#name}
+    local len_amount=${#amount}
+
+    awk \
+        -v name="$name" \
+        -v amount="$amount" \
+        -v page_width="$page_width" \
+        -v len_name="$len_name" \
+        -v len_amount="$len_amount" \
+        'BEGIN {
+            printf "  %s ", name
+            dots = page_width - 2 - len_name - 1 - 1 - len_amount
+            for (i = 0; i < dots; i++) printf "."
+            printf " %s\n", amount
+        }'
+}
+
 justify_text() {
     local topic_pattern="^[[:blank:]]+PR[[:digit:]]+ "
+    local donor_pattern="^[[:blank:]]+.*[0-9]+(\.[0-9]+)? EUR$"
     while IFS='$\n' read -r line; do
         if [[ "$line" =~ $topic_pattern ]]; then
             format_topic "$line"
+        elif [[ "$line" =~ $donor_pattern ]]; then
+            format_donor "$line"
         else
             echo "$line"
         fi
