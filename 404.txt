@@ -28,6 +28,7 @@ into some framework" type of topics.
   PR299 Open Kitchen / Bendra Virtuvė ..................................... Visi
   PR367 Ardupilot IMU drivers: adding new fancy Murata IMUs ............. @vidma
   PR368 Terminalo Kultas. II dublis .................................... Brolija
+  PR369 Introduction to Plan 9 ........................................... @rtfb
 
 
 -- [ FOOD & KITCHEN AREA ]
