@@ -29,6 +29,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR367 Ardupilot IMU drivers: adding new fancy Murata IMUs ............. @vidma
   PR368 Terminalo Kultas. II dublis .................................... Brolija
   PR369 Introduction to Plan 9 ........................................... @rtfb
+  PR370 RPM: kitoks būdas planuoti gyvenimą ............................ @simnau
 
 
 -- [ FOOD & KITCHEN AREA ]
