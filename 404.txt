@@ -31,6 +31,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR369 Introduction to Plan 9 ........................................... @rtfb
   PR370 RPM: kitoks būdas planuoti gyvenimą ............................ @simnau
   PR371 MCP Apps: UI inside AI ..................................... @aurelijusb
+  PR372 Autistiškas žmogus šeimoje. Kas toliau? ....................... @kroitus
 
 
 -- [ FOOD & KITCHEN AREA ]
