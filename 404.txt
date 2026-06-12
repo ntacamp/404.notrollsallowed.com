@@ -32,6 +32,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR370 RPM: kitoks būdas planuoti gyvenimą ............................ @simnau
   PR371 MCP Apps: UI inside AI ..................................... @aurelijusb
   PR372 Autistiškas žmogus šeimoje. Kas toliau? ....................... @kroitus
+  PR373 A kiek lietuviško interneto yr internete? .................... @debesyla
 
 
 -- [ FOOD & KITCHEN AREA ]
