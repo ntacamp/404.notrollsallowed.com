@@ -33,6 +33,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR371 MCP Apps: UI inside AI ..................................... @aurelijusb
   PR372 Autistiškas žmogus šeimoje. Kas toliau? ....................... @kroitus
   PR373 A kiek lietuviško interneto yr internete? .................... @debesyla
+  PR374 AI programavimo agentas nuo nulio ............................... @monai
 
 
 -- [ FOOD & KITCHEN AREA ]
