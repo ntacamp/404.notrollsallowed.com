@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "main-entrance",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.98482, 54.657344]
+      },
+      "properties": {
+        "name": "Main Entrance",
+        "icons": ["🚪"],
+        "description": "Primary entry point with information desk and lost & found",
+        "activities": ["🚪 Entry Gate", "ℹ️ Information", "📦 Lost & Found"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parking-main",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.984841, 54.661329]
+      },
+      "properties": {
+        "name": "Parking Area",
+        "icons": ["🅿️"],
+        "description": "Central parking zone for camp visitors",
+        "activities": ["🅿️ Car Parking", "📍 Central Parking Zone"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "base-camp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.985192, 54.661103]
+      },
+      "properties": {
+        "name": "Base Camp",
+        "icons": ["🚽", "♻️", "💧", "🔌"],
+        "description": "Central facility hub with essential amenities",
+        "activities": ["🚽 Toilets", "♻️ Recycling", "💧 Hot Water", "🔌 Charging Station"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "kitchen-area",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9861, 54.6613]
+      },
+      "properties": {
+        "name": "Kitchen",
+        "icons": ["🍽️", "🍳", "☕", "🍿"],
+        "description": "Main food service area with scheduled meal times",
+        "activities": [
+          "🍳 Breakfast 07:-09:30",
+          "☕ Coffee 07:-11:",
+          "🥪 Lunch 12:-14:30",
+          "🍿 Popcorn 15:-17:",
+          "🍽️ Dinner 18:-20:30"
+        ],
+
+        "marker-color": "#ea580c",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "talks",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9858, 54.6611]
+      },
+      "properties": {
+        "name": "Talks",
+        "icons": ["📢"],
+        "description": "Learning area for hands-on workshops and presentations",
+        "activities": ["📢 Talks"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "workshop-zone",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9857, 54.6614]
+      },
+      "properties": {
+        "name": "Workshop",
+        "icons": ["🔨"],
+        "description": "Learning area for hands-on workshops and presentations",
+        "activities": ["🔨 Workshops"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "campfire-circle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.986815, 54.660984]
+      },
+      "properties": {
+        "name": "Campfire",
+        "icons": ["🔥", "🍺"],
+        "description": "Social area for evening fires and refreshments",
+        "activities": ["🔥 Evening Fires", "🍺 Beer Area 20:-23:"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "lieptelis-grove",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9869683, 54.6613]
+      },
+      "properties": {
+        "name": "Lieptelis Grove",
+        "icons": ["🌳", "🧘"],
+        "description": "Peaceful area around the historic Lieptelis tree",
+        "activities": ["🌳 Historic Tree", "🧘 Quiet Space"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "beach-main",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.98656, 54.6613]
+      },
+      "properties": {
+        "name": "Beach",
+        "icons": ["🏖️", "🏊"],
+        "description": "Primary beach access point for swimming and water activities",
+        "activities": ["🏊 Swimming", "🏖️ Beach Access"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sunset-peninsula",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.983742, 54.661853]
+      },
+      "properties": {
+        "name": "Sunset Peninsula",
+        "icons": ["🌅", "📸"],
+        "description": "Scenic peninsula perfect for sunset photography",
+        "activities": ["🌅 Sunset Views", "📸 Photo Spot"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "camping-site-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.983811, 54.661425]
+      },
+      "properties": {
+        "name": "Camp 2",
+        "icons": ["⛺", "🌙"],
+        "description": "Designated camping area for overnight stays",
+        "activities": ["⛺ Camping Spot", "🌙 Night Area"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "camping-site-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.983731, 54.661232]
+      },
+      "properties": {
+        "name": "Camp 3",
+        "icons": ["⛺", "🏕️"],
+        "description": "Peaceful camping area away from main activities",
+        "activities": ["⛺ Camping Spot", "🏕️ Quiet Zone"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "south-beach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.987159, 54.660553]
+      },
+      "properties": {
+        "name": "South Beach",
+        "icons": ["🏖️", "🌊"],
+        "description": "Secondary beach area for water activities",
+        "activities": ["🏖️ Beach Access", "🌊 Water Activities"],
+
+        "marker-color": "#0ea5e9",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "high-mountain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.985989, 54.660596]
+      },
+      "properties": {
+        "name": "High Mountain",
+        "icons": ["⛰️", "📸"],
+        "description": "Elevated viewpoint offering panoramic views of the area",
+        "activities": ["⛰️ Viewpoint", "📸 Scenic Spot"]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "id": "trash-bin-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.987, 54.6608]
+      },
+      "properties": {
+        "name": "Trash Bin",
+        "icons": ["🗑️"],
+        "activities": []
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "trash-bin-4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9842, 54.661]
+      },
+      "properties": {
+        "name": "Trash Bin",
+        "icons": ["🗑️"],
+        "activities": []
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "restroom",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9856, 54.6612]
+      },
+      "properties": {
+        "name": "Restroom",
+        "icons": ["🚻"],
+        "description": "",
+        "activities": []
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "restroom",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.986, 54.6609]
+      },
+      "properties": {
+        "name": "Restroom",
+        "icons": ["🚻"],
+        "description": "",
+        "activities": []
+      }
+    }
+  ]
+}
