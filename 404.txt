@@ -34,7 +34,8 @@ commercial sh*t, "intro to some framework" type of topics.
   PR372 Autistiškas žmogus šeimoje. Kas toliau? ....................... @kroitus
   PR373 A kiek lietuviško interneto yr internete? .................... @debesyla
   PR374 AI programavimo agentas nuo nulio ............................... @monai
-  PR375 TCCC: Karo medicina, M Raidė ................................... @swatas
+  PR375 TCC: Karo medicina, M raidė .................................... @swatas
+  PR376 Topografija: Kaip naudotis žemėlapiu ir kompasu ................ @swatas
   PR377 Maikonų dirbtuvės ........................................ @aistisraudys
 
 -- [ FOOD & KITCHEN AREA ]
