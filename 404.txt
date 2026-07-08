@@ -37,6 +37,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR375 TCC: Karo medicina, M raidė .................................... @swatas
   PR376 Topografija: Kaip naudotis žemėlapiu ir kompasu ................ @swatas
   PR377 Maikonų dirbtuvės ........................................ @aistisraudys
+  PRxx  Nuo senovinių burlaivių iki skraidančių kiborgų..............@arturasjas
 
 -- [ FOOD & KITCHEN AREA ]
 
