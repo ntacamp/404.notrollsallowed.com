@@ -39,6 +39,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR377 Maikonų dirbtuvės ........................................ @aistisraudys
   PR378 Nuo senovinių burlaivių iki skraidančių kiborgų ............ @arturasjas
   PR379 Antweight robotukų dirbtuvės ...................... @TomasSiauliaiNights
+  PR380 Kasų pynimo dirbtuvės ........................................... @milda
 
 -- [ FOOD & KITCHEN AREA ]
 
