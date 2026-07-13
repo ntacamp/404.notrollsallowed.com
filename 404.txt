@@ -42,6 +42,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR380 Kasų pynimo dirbtuvės ........................................... @milda
   PR382 My external brain in production ................................ @kuusas
   PR383 Kiek visgi to aukso "data - is the new gold" klišėje? ....... @kamiccolo
+  PR385 Perpetual Stew/Amžinas troškinys..............................@Richardas
 
 -- [ FOOD & KITCHEN AREA ]
 
