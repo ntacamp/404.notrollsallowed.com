@@ -44,6 +44,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR383 Kiek visgi to aukso "data - is the new gold" klišėje? ....... @kamiccolo
   PR384 Peilių galandinimo dirbtuvės/mokymai ........................ @Richardas
   PR385 Perpetual Stew/Amžinas troškinys ............................ @Richardas
+  PR386 Teaching a local machine to read manga ................ @tankiaitaskuota
 
 -- [ FOOD & KITCHEN AREA ]
 
