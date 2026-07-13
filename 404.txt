@@ -41,6 +41,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR379 Antweight robotukų dirbtuvės ...................... @TomasSiauliaiNights
   PR380 Kasų pynimo dirbtuvės ........................................... @milda
   PR382 My external brain in production ................................ @kuusas
+  PR383 Kiek visgi to aukso "data - is the new gold" klišėje? ........@kamiccolo
 
 -- [ FOOD & KITCHEN AREA ]
 
