@@ -42,6 +42,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR380 Kasų pynimo dirbtuvės ........................................... @milda
   PR382 My external brain in production ................................ @kuusas
   PR383 Kiek visgi to aukso "data - is the new gold" klišėje? ....... @kamiccolo
+  PR384 Peilių galandinimo dirbtuvės/mokymai ........................ @Richardas
   PR385 Perpetual Stew/Amžinas troškinys..............................@Richardas
 
 -- [ FOOD & KITCHEN AREA ]
@@ -56,8 +57,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 8000€
-  * donated  : 3589€
-  * status   : -4411€
+  * donated  : 3629€
+  * status   : -4371€
 
 The event is free. Free of sponsors too. But we still spend fiat for cookies and
 infrastructure. A rough estimate of the event cost is just a few lines above. If
@@ -85,6 +86,7 @@ and fame but mostly fame. Thank you!
   Milda Kučinskienė .................................................... 128 EUR
   Vilius Kraujutis ...................................................... 42 EUR
   Ričardas Leščinskas ................................................... 69 EUR
+  Mindaugas Aušra ....................................................... 40 EUR
 
 
                                     /\_/\
