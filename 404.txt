@@ -45,8 +45,9 @@ commercial sh*t, "intro to some framework" type of topics.
   PR384 Peilių galandinimo dirbtuvės/mokymai ........................ @Richardas
   PR385 Perpetual Stew/Amžinas troškinys ............................ @Richardas
   PR386 Teaching a local machine to read manga ................ @tankiaitaskuota
-  PR387 Kaip tirti Lietuvos interneto raidą? ......... @mrmktb  @postscriptum1984
+  PR387 Kaip tirti Lietuvos interneto raidą? ......... @mrmktb @postscriptum1984
   PR388 Digital necromancy - OCR your ancestors back to life .......... @aleksas
+  PR389 FPV dronai, valdymas, konfiguravimas ........................... Andrius
 
 -- [ FOOD & KITCHEN AREA ]
 
