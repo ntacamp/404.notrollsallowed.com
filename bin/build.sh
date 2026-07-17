@@ -21,7 +21,7 @@ add_pr_links() {
 }
 
 add_user_links() {
-    sed -E "s~@(\b.+\b)~<a href=\"https://github.com/\1\">@\1</a>~g"
+    sed -E 's~@([-_a-zA-Z0-9]+)~<a href="https://github.com/\1">@\1</a>~g'
 }
 
 add_links() {

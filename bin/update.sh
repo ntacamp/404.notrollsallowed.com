@@ -121,7 +121,8 @@ get_author() {
     local line=$1
     local author
     author=$(echo "$line" | \
-        grep -Eo "\@[-_a-zA-Z0-9]+$"
+        grep -Eo "\@[-_a-zA-Z0-9]+([[:space:]]+\@[-_a-zA-Z0-9]+)*$" \
+        | awk '{ $1 = $1; print $0 }'
     )
     if [[ -z "$author" ]]; then
         author=$(
@@ -138,9 +139,11 @@ get_author() {
 get_topic() {
     local line=$1
     local author=$2
+    local author_pattern
+    author_pattern=$(printf '%s' "$author" | sed -E 's/ /[[:space:]]+/g')
     local topic
     topic=$(echo "$line" \
-        | sed -E "s%${author}$%%" \
+        | sed -E "s%[[:space:]]*${author_pattern}\$%%" \
         | sed -E "s/[ \. ]+$//" \
         | awk '{ $1 = ""; print $0 }' \
         | awk '{ $1 = $1; print $0 }' \
