@@ -48,6 +48,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR387 Kaip tirti Lietuvos interneto raidą? ......... @mrmktb  @postscriptum1984
   PR388 Digital necromancy - OCR your ancestors back to life .......... @aleksas
   PR389 FPV dronai, valdymas, konfiguravimas ........................... Andrius
+  PR390 Išgyvenimas su parakinėmis priemonėmis.......................... Andrius
 
 -- [ FOOD & KITCHEN AREA ]
 
