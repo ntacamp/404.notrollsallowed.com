@@ -62,8 +62,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 8000€
-  * donated  : 4053€
-  * status   : -3947€
+  * donated  : 4565€
+  * status   : -3435€
 
 The event is free. Free of sponsors too. But we still spend fiat for cookies and
 infrastructure. A rough estimate of the event cost is just a few lines above. If
