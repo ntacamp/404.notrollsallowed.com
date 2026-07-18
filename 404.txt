@@ -49,6 +49,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR388 Digital necromancy - OCR your ancestors back to life .......... @aleksas
   PR389 FPV dronai, valdymas, konfiguravimas ........................... Andrius
   PR390 Išgyvenimas su parakinėmis priemonėmis ......................... Andrius
+  PR391 Blacksmithing for dummies, by dummies ............... Mykolas ir Douglas
 
 -- [ FOOD & KITCHEN AREA ]
 
