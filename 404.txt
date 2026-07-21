@@ -51,6 +51,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR390 Išgyvenimas su parakinėmis priemonėmis ......................... Andrius
   PR391 Blacksmithing for dummies, by dummies ............... Mykolas ir Douglas
   PR392 Smart Letter Box ................................................ @edast
+  PR393 Riichi Mahjong ..................................... @EimantasZubavicius
 
 -- [ FOOD & KITCHEN AREA ]
 
