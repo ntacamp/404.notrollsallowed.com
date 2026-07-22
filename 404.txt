@@ -53,6 +53,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR392 Smart Letter Box ................................................ @edast
   PR393 Riichi Mahjong ..................................... @EimantasZubavicius
   PR394 GIPSO workshop’as, kuriame lipdysime kūno dalis ....... Violeta ir Arnas
+  PR395 Nardymas 2: srovės, kabliai ir simuliuojamas chaosas ......... @adomas-s
 
 -- [ FOOD & KITCHEN AREA ]
 
