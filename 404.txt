@@ -52,7 +52,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR391 Blacksmithing for dummies, by dummies ............... Mykolas ir Douglas
   PR392 Smart Letter Box ................................................ @edast
   PR393 Riichi Mahjong ..................................... @EimantasZubavicius
-  PR394 GIPSO workshop’as, kuriame lipdysime kūno dalis. ...... Violeta ir Arnas
+  PR394 GIPSO workshop’as, kuriame lipdysime kūno dalis ....... Violeta ir Arnas
 
 -- [ FOOD & KITCHEN AREA ]
 
