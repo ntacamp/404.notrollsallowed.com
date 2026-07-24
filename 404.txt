@@ -56,71 +56,72 @@ commercial sh*t, "intro to some framework" type of topics.
   PR395 Nardymas 2: srovės, kabliai ir simuliuojamas chaosas ......... @adomas-s
   PR396 Kodėl „truputį kasdien“ neveikia: produktyvumas per apsėdimą ... @credas
   PR397 Viešpirkiu iniciatyva - ką gali entuziastai AI amziuje? .......... @eima
+  PR398 Asmeninės galios pajauta ................................ Antanas Mockus
   PR399 Lietuvos Kariuomenės Mažosios oro gynybos sistema (MOGS) ..... @Gintaris
   PR400 Juostiniai aidai - kas tai yra ir kodėl įdomu ........ @VytautasVisminas
   PR401 Kodėl Lietuvos keliai tokie? .................................... vaidas
   PR402 Ar perdegimas = „tiesiog pavargau“? .............................. Daiva
 
--- [ FOOD & KITCHEN AREA ]
+    -- [ FOOD & KITCHEN AREA ]
 
-There will be a kitchen area. Open-source style. Bring your own gear, bring your
-own food, or bring your own weird recipe and share it. No meals provided, no
-equipment supplied, no chef hats—just burners, blades, and bits. Hack your
-lunch, patch your dinner. Volunteers welcome, mess inevitable. If it smells
-good, follow it.
+    There will be a kitchen area. Open-source style. Bring your own gear, bring your
+    own food, or bring your own weird recipe and share it. No meals provided, no
+    equipment supplied, no chef hats—just burners, blades, and bits. Hack your
+    lunch, patch your dinner. Volunteers welcome, mess inevitable. If it smells
+    good, follow it.
 
 
---[ DONATIONS ]
+    --[ DONATIONS ]
 
-  * target   : 8000€
-  * donated  : 5648€
-  * status   : -2352€
+      * target   : 8000€
+      * donated  : 5648€
+      * status   : -2352€
 
-The event is free. Free of sponsors too. But we still spend fiat for cookies and
-infrastructure. A rough estimate of the event cost is just a few lines above. If
-you want to support this initiative, we accept donations. Donations are accepted
-before, during or even after the event. Though we prefer before. If bigger than
-targeted amount is collected, we'll build better infrastructure or transfer the
-funds to next year. In case the event is canceled - we will return your
-donations. Bank account for transfers: LT927300010139226671 "VšĮ
-Programuotojai", purpose field: "Parama: 404". We also accept BTC to a bech32
-address [2]. Every donor is listed at the hall of fame below. For transparency
-and fame but mostly fame. Thank you!
+    The event is free. Free of sponsors too. But we still spend fiat for cookies and
+    infrastructure. A rough estimate of the event cost is just a few lines above. If
+    you want to support this initiative, we accept donations. Donations are accepted
+    before, during or even after the event. Though we prefer before. If bigger than
+    targeted amount is collected, we'll build better infrastructure or transfer the
+    funds to next year. In case the event is canceled - we will return your
+    donations. Bank account for transfers: LT927300010139226671 "VšĮ
+    Programuotojai", purpose field: "Parama: 404". We also accept BTC to a bech32
+    address [2]. Every donor is listed at the hall of fame below. For transparency
+    and fame but mostly fame. Thank you!
 
-  Benas Žukauskas ...................................................... 256 EUR
-  Bruno ................................................................ 256 EUR
-  MB Sasnausko Technologijos ........................................... 256 EUR
-  Łukasz Szczęsny ...................................................... 200 EUR
-  Winter NTA Meetup overhead ........................................... 718 EUR
-  Vaidotas Kučinskas ................................................... 256 EUR
-  Andrius Minkevičius .................................................. 256 EUR
-  Leonas ............................................................... 128 EUR
-  Vytautas Šaltenis .................................................... 256 EUR
-  Aurelijus Banelis .................................................... 256 EUR
-  Vitalija Golceva ..................................................... 128 EUR
-  Zigmuntas Naulickas .................................................. 384 EUR
-  Milda Kučinskienė .................................................... 128 EUR
-  Vilius Kraujutis ...................................................... 42 EUR
-  Ričardas Leščinskas ................................................... 69 EUR
-  Mindaugas Aušra ....................................................... 40 EUR
-  Andrius Ulrikas ...................................................... 128 EUR
-  Jovita Žėkaitė-Maconko ................................................ 40 EUR
-  Rokas Adiklis ........................................................ 256 EUR
-  Henrik Korkuc ........................................................ 512 EUR
-  Mykolas Kunevičius....................................................  64 EUR
-  Kristina Gabrilavičiūtė ............................................... 64 EUR
-  Mindaugas Drevinskas .................................................. 64 EUR
-  Gedas Kucinskas ...................................................... 123 EUR
-  Adomas Sliuzinskas ................................................... 256 EUR
-  Mantas Šidlauskas .................................................... 256 EUR
-  Duomenų Duobkasiai ................................................... 128 EUR
-  Jonas Jasas .......................................................... 128 EUR
+      Benas Žukauskas ...................................................... 256 EUR
+      Bruno ................................................................ 256 EUR
+      MB Sasnausko Technologijos ........................................... 256 EUR
+      Łukasz Szczęsny ...................................................... 200 EUR
+      Winter NTA Meetup overhead ........................................... 718 EUR
+      Vaidotas Kučinskas ................................................... 256 EUR
+      Andrius Minkevičius .................................................. 256 EUR
+      Leonas ............................................................... 128 EUR
+      Vytautas Šaltenis .................................................... 256 EUR
+      Aurelijus Banelis .................................................... 256 EUR
+      Vitalija Golceva ..................................................... 128 EUR
+      Zigmuntas Naulickas .................................................. 384 EUR
+      Milda Kučinskienė .................................................... 128 EUR
+      Vilius Kraujutis ...................................................... 42 EUR
+      Ričardas Leščinskas ................................................... 69 EUR
+      Mindaugas Aušra ....................................................... 40 EUR
+      Andrius Ulrikas ...................................................... 128 EUR
+      Jovita Žėkaitė-Maconko ................................................ 40 EUR
+      Rokas Adiklis ........................................................ 256 EUR
+      Henrik Korkuc ........................................................ 512 EUR
+      Mykolas Kunevičius....................................................  64 EUR
+      Kristina Gabrilavičiūtė ............................................... 64 EUR
+      Mindaugas Drevinskas .................................................. 64 EUR
+      Gedas Kucinskas ...................................................... 123 EUR
+      Adomas Sliuzinskas ................................................... 256 EUR
+      Mantas Šidlauskas .................................................... 256 EUR
+      Duomenų Duobkasiai ................................................... 128 EUR
+      Jonas Jasas .......................................................... 128 EUR
 
-                                    /\_/\
-                                   ( o.o )
-                                    > ^ <
+                                        /\_/\
+                                       ( o.o )
+                                        > ^ <
 
-[1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
-[2] bc1qvrsl0zfwl688j3vrqd6ujazshqdn70kvz7suw2cj0055s6936g9qh2h7ct
+    [1] https://github.com/ntacamp/404.notrollsallowed.com/blob/master/404.txt
+    [2] bc1qvrsl0zfwl688j3vrqd6ujazshqdn70kvz7suw2cj0055s6936g9qh2h7ct
 
 # vim: formatoptions+=aw spell tw=80 nowrap
