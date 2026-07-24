@@ -59,7 +59,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR399 Lietuvos Kariuomenės Mažosios oro gynybos sistema (MOGS) ..... @Gintaris
   PR400 Juostiniai aidai - kas tai yra ir kodėl įdomu ........ @VytautasVisminas
   PR401 Kodėl Lietuvos keliai tokie? .................................... vaidas
-  PR402 Ar perdegimas = „tiesiog pavargau“?................................Daiva
+  PR402 Ar perdegimas = „tiesiog pavargau“? .............................. Daiva
 
 -- [ FOOD & KITCHEN AREA ]
 
