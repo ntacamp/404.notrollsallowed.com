@@ -56,7 +56,8 @@ commercial sh*t, "intro to some framework" type of topics.
   PR395 Nardymas 2: srovės, kabliai ir simuliuojamas chaosas ......... @adomas-s
   PR396 Kodėl „truputį kasdien“ neveikia: produktyvumas per apsėdimą ... @credas
   PR397 Viešpirkiu iniciatyva - ką gali entuziastai AI amziuje? .......... @eima
-
+  PR399 Lietuvos Kariuomenės Mažosios oro gynybos sistema (MOGS) ..... @Gintaris
+  PR400 Juostiniai aidai - kas tai yra ir kodėl įdomu ........ @VytautasVisminas
 
 -- [ FOOD & KITCHEN AREA ]
 
@@ -70,8 +71,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 8000€
-  * donated  : 5136€
-  * status   : -2864€
+  * donated  : 5648€
+  * status   : -2352€
 
 The event is free. Free of sponsors too. But we still spend fiat for cookies and
 infrastructure. A rough estimate of the event cost is just a few lines above. If
@@ -109,6 +110,9 @@ and fame but mostly fame. Thank you!
   Mindaugas Drevinskas .................................................. 64 EUR
   Gedas Kucinskas ...................................................... 123 EUR
   Adomas Sliuzinskas ................................................... 256 EUR
+  Mantas Šidlauskas .................................................... 256 EUR
+  Duomenų Duobkasiai ................................................... 128 EUR
+  Jonas Jasas .......................................................... 128 EUR
 
                                     /\_/\
                                    ( o.o )
