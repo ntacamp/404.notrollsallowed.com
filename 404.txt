@@ -61,6 +61,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR400 Juostiniai aidai - kas tai yra ir kodėl įdomu ........ @VytautasVisminas
   PR401 Kodėl Lietuvos keliai tokie? .................................... vaidas
   PR402 Ar perdegimas = „tiesiog pavargau“? .............................. Daiva
+  PR404 Stupid easy replacing product research team with AI ............ @xb1itz
 
     -- [ FOOD & KITCHEN AREA ]
 
