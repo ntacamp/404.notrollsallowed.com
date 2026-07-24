@@ -58,7 +58,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR397 Viešpirkiu iniciatyva - ką gali entuziastai AI amziuje? .......... @eima
   PR399 Lietuvos Kariuomenės Mažosios oro gynybos sistema (MOGS) ..... @Gintaris
   PR400 Juostiniai aidai - kas tai yra ir kodėl įdomu ........ @VytautasVisminas
-  PR401 Kodėl Lietuvos keliai tokie?......................................vaidas
+  PR401 Kodėl Lietuvos keliai tokie? .................................... vaidas
 
 -- [ FOOD & KITCHEN AREA ]
 
