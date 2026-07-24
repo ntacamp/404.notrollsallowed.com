@@ -56,7 +56,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR395 Nardymas 2: srovės, kabliai ir simuliuojamas chaosas ......... @adomas-s
   PR396 Kodėl „truputį kasdien“ neveikia: produktyvumas per apsėdimą ... @credas
   PR399 Lietuvos Kariuomenės Mažosios oro gynybos sistema (MOGS) ..... @Gintaris
-  PR400 Juostiniai aidai - kas tai yra ir kodėl įdomu.........@Vytautas Visminas
+  PR400 Juostiniai aidai - kas tai yra ir kodėl įdomu......... @VytautasVisminas
 
 -- [ FOOD & KITCHEN AREA ]
 
