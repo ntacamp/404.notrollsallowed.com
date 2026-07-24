@@ -55,7 +55,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR394 GIPSO workshop’as, kuriame lipdysime kūno dalis ....... Violeta ir Arnas
   PR395 Nardymas 2: srovės, kabliai ir simuliuojamas chaosas ......... @adomas-s
   PR396 Kodėl „truputį kasdien“ neveikia: produktyvumas per apsėdimą ... @credas
-  PR397 Lietuvos Kariuomenės Mažosios oro gynybos sistema (MOGS) ..... @Gintaris
+  PR399 Lietuvos Kariuomenės Mažosios oro gynybos sistema (MOGS) ..... @Gintaris
 
 -- [ FOOD & KITCHEN AREA ]
 
