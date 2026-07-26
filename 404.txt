@@ -63,7 +63,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR402 Ar perdegimas = „tiesiog pavargau“? .............................. Daiva
   PR403 Kodėl Radvilų rūmai sugriuvę? .................................... Domas
   PR405 E-tekstilės tyrinėjimai ir Fabricademy kursas .............. Ieva Marija
-
+  PR406 Kaip susikonstruoti kovinį robotą? ................ @TomasSiauliaiNights
 
 -- [ FOOD & KITCHEN AREA ]
 
