@@ -64,6 +64,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR403 Kodėl Radvilų rūmai sugriuvę? .................................... Domas
   PR405 E-tekstilės tyrinėjimai ir Fabricademy kursas .............. Ieva Marija
   PR408 Kompiuterių pamokos vis dar reikalingos ....................... @jbutkus
+  PR412 9 mėnesiai, kuriuos daugelis vadina prarastais ......... Martynas Jančys
 
 
 -- [ FOOD & KITCHEN AREA ]
