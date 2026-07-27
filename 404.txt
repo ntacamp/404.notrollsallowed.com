@@ -70,6 +70,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR410 Ukulelės terapija prie laužo ............................... Austėja KMS
   PR411 Meshcore camp network and uplink to VLN ................... Group effort
   PR412 9 mėnesiai, kuriuos daugelis vadina prarastais ......... Martynas Jančys
+  PR413 Pratybos regėjimui .... Agnė
 
 
 -- [ FOOD & KITCHEN AREA ]
