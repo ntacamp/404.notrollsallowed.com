@@ -66,6 +66,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR406 Crokinole and other board games workshop ....................... @tadkle
   PR407 Kaip susikonstruoti kovinį robotą? ................ @TomasSiauliaiNights
   PR408 Kompiuterių pamokos vis dar reikalingos ....................... @jbutkus
+  PR409 Afrikinių dūdų (a.k.a. Pulse Jet) demonstracija .....................KMS
 
 
 -- [ FOOD & KITCHEN AREA ]
