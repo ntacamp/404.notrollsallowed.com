@@ -63,6 +63,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR402 Ar perdegimas = „tiesiog pavargau“? .............................. Daiva
   PR403 Kodėl Radvilų rūmai sugriuvę? .................................... Domas
   PR405 E-tekstilės tyrinėjimai ir Fabricademy kursas .............. Ieva Marija
+  PRxxx Meshcore camp network and uplink to VLN ................... Group effort
 
 
 -- [ FOOD & KITCHEN AREA ]
