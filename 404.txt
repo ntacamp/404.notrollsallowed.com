@@ -68,6 +68,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR408 Kompiuterių pamokos vis dar reikalingos ....................... @jbutkus
   PR409 Afrikinių dūdų (a.k.a. Pulse Jet) demonstracija .................... KMS
   PR410 Ukulelės terapija prie laužo ............................... Austėja KMS
+  PR411 Meshcore camp network and uplink to VLN ................... Group effort
 
 
 -- [ FOOD & KITCHEN AREA ]
