@@ -64,6 +64,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR403 Kodėl Radvilų rūmai sugriuvę? .................................... Domas
   PR405 E-tekstilės tyrinėjimai ir Fabricademy kursas .............. Ieva Marija
   PR406 Crokinole and other board games workshop ....................... @tadkle
+  PR407 Kaip susikonstruoti kovinį robotą? ................ @TomasSiauliaiNights
   PR408 Kompiuterių pamokos vis dar reikalingos ....................... @jbutkus
 
 
