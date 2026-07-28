@@ -73,6 +73,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR413 Pratybos regėjimui ................................................ Agnė
   PR414 MeshCore - kaip pasigaminti retransliatorių? ........ @MartynasZilinskas
   PR415 Bendraminčių Bingo - susipažinimo veikla ....................... Paulina
+  PR416 Šakočių kepimas Kęstučio patūrbintu pačiumi................Paulius Algis
 
 
 -- [ FOOD & KITCHEN AREA ]
