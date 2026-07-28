@@ -71,8 +71,9 @@ commercial sh*t, "intro to some framework" type of topics.
   PR411 Meshcore camp network and uplink to VLN ................... Group effort
   PR412 9 mėnesiai, kuriuos daugelis vadina prarastais ......... Martynas Jančys
   PR413 Pratybos regėjimui ................................................ Agnė
-  PR414 Bendraminčių Bingo - susipažinimo veikla.........................Paulina
-  
+  PR414 MeshCore - kaip pasigaminti retransliatorių? ........ @MartynasZilinskas
+  PR415 Bendraminčių Bingo - susipažinimo veikla.........................Paulina
+
 
 -- [ FOOD & KITCHEN AREA ]
 
@@ -86,8 +87,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 8000€
-  * donated  : 5732€
-  * status   : -2268€
+  * donated  : 5860€
+  * status   : -2140€
 
 The event is free. Free of sponsors too. But we still spend fiat for cookies and
 infrastructure. A rough estimate of the event cost is just a few lines above. If
@@ -130,6 +131,7 @@ and fame but mostly fame. Thank you!
   Jonas Jasas .......................................................... 128 EUR
   Douglas Glivva ........................................................ 42 EUR
   Austėja Dapkutė ....................................................... 42 EUR
+  Gintaris ............................................................. 128 EUR
 
 
                                         /\_/\
