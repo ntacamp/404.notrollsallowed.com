@@ -74,8 +74,13 @@ commercial sh*t, "intro to some framework" type of topics.
   PR414 MeshCore - kaip pasigaminti retransliatorių? ........ @MartynasZilinskas
   PR415 Bendraminčių Bingo - susipažinimo veikla ....................... Paulina
   PR416 Šakočių kepimas Kęstučio patūrbintu pačiumi .............. Paulius Algis
-  PR419 400 minučių tarp greitkelio juostų vardan 2cm GPS tikslumo telefone . @pbriedis
-
+  PR417 Nuo Antikos iki Irano, karai pagal akademikus ................. Manvydas
+  PR419 400 min vidury greitkelio vardan 2cm GPS tikslumo telefone ... @pbriedis
+  PR418 4,04 km bėgimas ............................................... Kristina
+  PR419 Lietuva, tu man viena - 100 metų ekonomikos ir demografijos . @VytautasV
+  PR420 In London as a VR programming teenager ............ Ahmed Azmat-Kuizinas
+  PR421 Sea battle game workshop ........................................... @rm
+  PR422 DnD nuotykis su Linksmuoju Džeku ................................ Dalius
 
 -- [ FOOD & KITCHEN AREA ]
 
@@ -89,8 +94,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 8000€
-  * donated  : 5860€
-  * status   : -2140€
+  * donated  : 6628€
+  * status   : -1372€
 
 The event is free. Free of sponsors too. But we still spend fiat for cookies and
 infrastructure. A rough estimate of the event cost is just a few lines above. If
@@ -134,6 +139,9 @@ and fame but mostly fame. Thank you!
   Douglas Glivva ........................................................ 42 EUR
   Austėja Dapkutė ....................................................... 42 EUR
   Gintaris ............................................................. 128 EUR
+  Paulius Podolskis .................................................... 256 EUR
+  Povilas Balzaravičius ................................................ 256 EUR
+  Justas Butkus ........................................................ 256 EUR
 
 
                                         /\_/\
