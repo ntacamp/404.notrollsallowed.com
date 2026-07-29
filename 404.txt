@@ -74,7 +74,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR414 MeshCore - kaip pasigaminti retransliatorių? ........ @MartynasZilinskas
   PR415 Bendraminčių Bingo - susipažinimo veikla ....................... Paulina
   PR416 Šakočių kepimas Kęstučio patūrbintu pačiumi .............. Paulius Algis
-  PR417 Nuo Antikos iki Irano, kodėl (ne)kyla karai pagal akademikus? . Manvydas
+  PR417 …  PR417 Nuo Antikos iki Irano, kodėl (ne)kyla karai pagal akademikus? . Manvydas
   PR418 4,04 km bėgimas ............................................... Kristina
 
 
@@ -90,8 +90,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 8000€
-  * donated  : 5860€
-  * status   : -2140€
+  * donated  : 6372€
+  * status   : -1628€
 
 The event is free. Free of sponsors too. But we still spend fiat for cookies and
 infrastructure. A rough estimate of the event cost is just a few lines above. If
