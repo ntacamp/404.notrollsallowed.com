@@ -63,7 +63,20 @@ commercial sh*t, "intro to some framework" type of topics.
   PR402 Ar perdegimas = „tiesiog pavargau“? .............................. Daiva
   PR403 Kodėl Radvilų rūmai sugriuvę? .................................... Domas
   PR405 E-tekstilės tyrinėjimai ir Fabricademy kursas .............. Ieva Marija
-  PR406 Lietuva, tu man viena - 100 metų ekonomikos ir demografijos...@VytautasV 
+  PR406 Crokinole and other board games workshop ....................... @tadkle
+  PR407 Kaip susikonstruoti kovinį robotą? ................ @TomasSiauliaiNights
+  PR408 Kompiuterių pamokos vis dar reikalingos ....................... @jbutkus
+  PR409 Afrikinių dūdų (a.k.a. Pulse Jet) demonstracija .................... KMS
+  PR410 Ukulelės terapija prie laužo ............................... Austėja KMS
+  PR411 Meshcore camp network and uplink to VLN ................... Group effort
+  PR412 9 mėnesiai, kuriuos daugelis vadina prarastais ......... Martynas Jančys
+  PR413 Pratybos regėjimui ................................................ Agnė
+  PR414 MeshCore - kaip pasigaminti retransliatorių? ........ @MartynasZilinskas
+  PR415 Bendraminčių Bingo - susipažinimo veikla ....................... Paulina
+  PR416 Šakočių kepimas Kęstučio patūrbintu pačiumi .............. Paulius Algis
+  PR417 …  PR417 Nuo Antikos iki Irano, kodėl (ne)kyla karai pagal akademikus? . Manvydas
+  PR418 4,04 km bėgimas ............................................... Kristina
+  PR419 Lietuva, tu man viena - 100 metų ekonomikos ir demografijos...@VytautasV
 
 
 -- [ FOOD & KITCHEN AREA ]
@@ -78,8 +91,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 8000€
-  * donated  : 5732€
-  * status   : -2268€
+  * donated  : 6372€
+  * status   : -1628€
 
 The event is free. Free of sponsors too. But we still spend fiat for cookies and
 infrastructure. A rough estimate of the event cost is just a few lines above. If
@@ -122,6 +135,9 @@ and fame but mostly fame. Thank you!
   Jonas Jasas .......................................................... 128 EUR
   Douglas Glivva ........................................................ 42 EUR
   Austėja Dapkutė ....................................................... 42 EUR
+  Gintaris ............................................................. 128 EUR
+  Paulius Podolskis .................................................... 256 EUR
+  Povilas Balzaravičius ................................................ 256 EUR
 
 
                                         /\_/\
