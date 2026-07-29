@@ -76,7 +76,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR416 Šakočių kepimas Kęstučio patūrbintu pačiumi .............. Paulius Algis
   PR417 …  PR417 Nuo Antikos iki Irano, kodėl (ne)kyla karai pagal akademikus? . Manvydas
   PR418 4,04 km bėgimas ............................................... Kristina
-  PR419 DnD nuotykis su Linksmuoju Džeku ................................ Dalius
+  PR422 DnD nuotykis su Linksmuoju Džeku ................................ Dalius
 
 -- [ FOOD & KITCHEN AREA ]
 
