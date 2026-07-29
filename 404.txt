@@ -80,6 +80,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR420 In London as a VR programming teenager ............ Ahmed Azmat-Kuizinas
   PR421 Sea battle game workshop ........................................... @rm
   PR422 DnD nuotykis su Linksmuoju Džeku ................................ Dalius
+  PR425 Reproducable home lab with NixOS .................................... 2m
 
 -- [ FOOD & KITCHEN AREA ]
 
