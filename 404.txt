@@ -75,6 +75,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR415 Bendraminčių Bingo - susipažinimo veikla ....................... Paulina
   PR416 Šakočių kepimas Kęstučio patūrbintu pačiumi .............. Paulius Algis
   PR417 Nuo Antikos iki Irano, karai pagal akademikus ................. Manvydas
+  PR419 400 min vidury greitkelio vardan 2cm GPS tikslumo telefone ... @pbriedis
   PR418 4,04 km bėgimas ............................................... Kristina
   PR419 Lietuva, tu man viena - 100 metų ekonomikos ir demografijos . @VytautasV
   PR420 In London as a VR programming teenager ............ Ahmed Azmat-Kuizinas
