@@ -84,6 +84,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR423 Lietuva, tu man viena - 100 metų ekonomikos ir demografijos . @VytautasV
   PR424 Pramogų parkų cheat code ..................... Minkevičius, Meida & Urtė
   PR426 Reproducable home lab with NixOS .................................... 2m
+  PR4xx Geneologija ir Archyvai ....................................... Pranas S.
 
 -- [ FOOD & KITCHEN AREA ]
 
