@@ -91,6 +91,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR431 Indie Game, hold my beer ............................. Danielius Jonušas
   PR432 Workshop: Išbandyk VR headset ................................. @adassid
   PR433 Breaking Up With The Big Tech ....... Justinas ................ Justinas
+  PR436 Alpinistinė įranga. Pakilimas, nusileidimas, saugojimas ...... Tautvydas
 
 
 -- [ FOOD & KITCHEN AREA ]
