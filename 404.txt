@@ -85,7 +85,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR426 Reproducable home lab with NixOS .................................... 2m
   PR434 Linux workshop ................................................ @kvaidas
   PR427 Geneologija ir Archyvai ...................................... Pranas S.
-  PR428 Maker in Drone squad ........................................…  Pranas S.
+  PR428 Maker in Drone squad ....................................... … Pranas S.
   PR429 Kodėl nesulūžta lėktuvai kuriais skrendame? ..................... Julius
 
 
