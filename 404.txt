@@ -87,7 +87,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR427 Geneologija ir Archyvai ...................................... Pranas S.
   PR428 Maker in Drone squad ....................................... … Pranas S.
   PR429 Kodėl nesulūžta lėktuvai kuriais skrendame? ..................... Julius
-  PR430 Laivavedyba. Kodėl ir kaip tapti kapitonu? ........... Kapitonas @darles
+  PR430 Laivavedyba. Kodėl ir kaip tapti kapitonu? ........... Kapitonas  @darles
 
 
 -- [ FOOD & KITCHEN AREA ]
