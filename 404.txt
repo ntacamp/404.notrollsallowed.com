@@ -77,14 +77,15 @@ commercial sh*t, "intro to some framework" type of topics.
   PR417 Nuo Antikos iki Irano, karai pagal akademikus ................. Manvydas
   PR418 4,04 km bėgimas ............................................... Kristina
   PR419 400 min vidury greitkelio vardan 2cm GPS tikslumo telefone ... @pbriedis
-  PR418 4,04 km bėgimas ............................................... Kristina
   PR420 In London as a VR programming teenager ............ Ahmed Azmat-Kuizinas
   PR421 Sea battle game workshop ........................................... @rm
   PR422 DnD nuotykis su Linksmuoju Džeku ................................ Dalius
   PR423 Lietuva, tu man viena - 100 metų ekonomikos ir demografijos . @VytautasV
   PR424 Pramogų parkų cheat code ..................... Minkevičius, Meida & Urtė
   PR426 Reproducable home lab with NixOS .................................... 2m
-  PR4xx Geneologija ir Archyvai ....................................... Pranas S.
+  PR434 Linux workshop ................................................ @kvaidas
+  PR427 Geneologija ir Archyvai ....................................... Pranas S.
+
 
 -- [ FOOD & KITCHEN AREA ]
 
@@ -98,8 +99,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 8000€
-  * donated  : 6628€
-  * status   : -1372€
+  * donated  : 9056.42€
+  * status   : 1056.42€
 
 The event is free. Free of sponsors too. But we still spend fiat for cookies and
 infrastructure. A rough estimate of the event cost is just a few lines above. If
@@ -146,6 +147,11 @@ and fame but mostly fame. Thank you!
   Paulius Podolskis .................................................... 256 EUR
   Povilas Balzaravičius ................................................ 256 EUR
   Justas Butkus ........................................................ 256 EUR
+  Darius Leskauskas .................................................... 128 EUR
+  Eglė Silkauskaitė ..................................................... 84 EUR
+  Mindaugas Liubinas ................................................... 128 EUR
+  Anonimas .............................................................. 40 EUR
+  Vytenis Darulis .................................................. 2048.42 EUR
 
 
                                         /\_/\
