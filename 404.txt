@@ -86,6 +86,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR434 Linux workshop ................................................ @kvaidas
   PR427 Geneologija ir Archyvai ...................................... Pranas S.
   PR428 Maker in Drone squad ........................................…  Pranas S.
+  PR429 Kodėl nesulūžta lėktuvai kuriais skrendame? ..................... Julius
 
 
 -- [ FOOD & KITCHEN AREA ]
