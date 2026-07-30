@@ -84,6 +84,8 @@ commercial sh*t, "intro to some framework" type of topics.
   PR424 Pramogų parkų cheat code ..................... Minkevičius, Meida & Urtė
   PR426 Reproducable home lab with NixOS .................................... 2m
   PR434 Linux workshop ................................................ @kvaidas
+  PR427 Geneologija ir Archyvai ....................................... Pranas S.
+
 
 -- [ FOOD & KITCHEN AREA ]
 
