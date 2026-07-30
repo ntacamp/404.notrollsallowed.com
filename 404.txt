@@ -83,7 +83,15 @@ commercial sh*t, "intro to some framework" type of topics.
   PR423 Lietuva, tu man viena - 100 metų ekonomikos ir demografijos . @VytautasV
   PR424 Pramogų parkų cheat code ..................... Minkevičius, Meida & Urtė
   PR426 Reproducable home lab with NixOS .................................... 2m
-  PR427 WIP talk "Breaking Up With Big Tech" for general public ....... Justinas 
+  PR434 Linux workshop ................................................ @kvaidas
+  PR427 Geneologija ir Archyvai ...................................... Pranas S.
+  PR428 Maker in Drone squad ....................................... … Pranas S.
+  PR429 Kodėl nesulūžta lėktuvai kuriais skrendame? ..................... Julius
+  PR430 Laivavedyba. Kodėl ir kaip tapti kapitonu? ............ Kapitonas Darles
+  PR431 Indie Game, hold my beer ............................. Danielius Jonušas
+  PR432 Workshop: Išbandyk VR headset ................................. @adassid
+  PR433 Breaking Up With The Big Tech ....... Justinas 
+
 
 -- [ FOOD & KITCHEN AREA ]
 
@@ -97,8 +105,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 8000€
-  * donated  : 6840€
-  * status   : -1160€
+  * donated  : 9056.42€
+  * status   : 1056.42€
 
 The event is free. Free of sponsors too. But we still spend fiat for cookies and
 infrastructure. A rough estimate of the event cost is just a few lines above. If
@@ -147,6 +155,9 @@ and fame but mostly fame. Thank you!
   Justas Butkus ........................................................ 256 EUR
   Darius Leskauskas .................................................... 128 EUR
   Eglė Silkauskaitė ..................................................... 84 EUR
+  Mindaugas Liubinas ................................................... 128 EUR
+  Anonimas .............................................................. 40 EUR
+  Vytenis Darulis .................................................. 2048.42 EUR
 
 
                                         /\_/\
