@@ -90,6 +90,8 @@ commercial sh*t, "intro to some framework" type of topics.
   PR430 Laivavedyba. Kodėl ir kaip tapti kapitonu? ............ Kapitonas Darles
   PR431 Indie Game, hold my beer ............................. Danielius Jonušas
   PR432 Workshop: Išbandyk VR headset ................................. @adassid
+  PR433 Breaking Up With The Big Tech ....... Justinas ................ Justinas
+  PR436 Alpinistinė įranga. Pakilimas, nusileidimas, saugojimas ...... Tautvydas
 
 
 -- [ FOOD & KITCHEN AREA ]
@@ -104,8 +106,8 @@ good, follow it.
 --[ DONATIONS ]
 
   * target   : 8000€
-  * donated  : 9056.42€
-  * status   : 1056.42€
+  * donated  : 9162.42€
+  * status   : 1162.42€
 
 The event is free. Free of sponsors too. But we still spend fiat for cookies and
 infrastructure. A rough estimate of the event cost is just a few lines above. If
@@ -157,6 +159,8 @@ and fame but mostly fame. Thank you!
   Mindaugas Liubinas ................................................... 128 EUR
   Anonimas .............................................................. 40 EUR
   Vytenis Darulis .................................................. 2048.42 EUR
+  Justinas Dũdėnas ...................................................... 42 EUR
+  Tautvydas Banelis ..................................................... 64 EUR
 
 
                                         /\_/\
