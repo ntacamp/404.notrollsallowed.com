@@ -92,6 +92,7 @@ commercial sh*t, "intro to some framework" type of topics.
   PR432 Workshop: Išbandyk VR headset ................................. @adassid
   PR433 Breaking Up With The Big Tech ....... Justinas ................ Justinas
   PR436 Alpinistinė įranga. Pakilimas, nusileidimas, saugojimas ...... Tautvydas
+  PR439 Music spot. Drums, guitars, mics - jam, record, have fun .... @Palivonas
 
 
 -- [ FOOD & KITCHEN AREA ]
